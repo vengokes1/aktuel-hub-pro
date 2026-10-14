@@ -1,6 +1,6 @@
 {
   "version": "3.1.0",
-  "last_updated": "2026-10-13T21:12:39.369967+00:00",
+  "last_updated": "2026-10-14T17:21:57.5098361Z",
   "markets": [
     {
       "id": "bim",
@@ -951,6 +951,28 @@
       "logo_url": "",
       "catalogs": [
         {
+          "id": "bizim_4c7d992ebbfca4bb",
+          "title": "Bizim Toptan Haftalık Katalog",
+          "valid_from": "2026-10-14",
+          "valid_until": "",
+          "page_count": 5,
+          "pages": [
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/bizim/bizim_4c7d992ebbfca4bb_1.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/bizim/bizim_4c7d992ebbfca4bb_2.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/bizim/bizim_4c7d992ebbfca4bb_3.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/bizim/bizim_4c7d992ebbfca4bb_4.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/bizim/bizim_4c7d992ebbfca4bb_5.webp"
+          ],
+          "source_pages": [
+            "https://cdnm.heyzine.com/files/uploaded/v3/f7d10044c68f888ba0a5f11f7c40abcb4ce1adac-148.pdf"
+          ],
+          "source_url": "https://www.bizimtoptan.com.tr/pages/katalog",
+          "source_date_label": "2026-10-14",
+          "verified": true,
+          "category": "wholesale",
+          "last_seen": "2026-10-14"
+        },
+        {
           "id": "bizim_f672e62d90f07035",
           "title": "Bizim Toptan Haftalık Katalog",
           "valid_from": "2026-10-13",
@@ -1801,7 +1823,7 @@
     "a101": {
       "status": "ok",
       "catalogs": 2,
-      "pages": 29
+      "pages": 28
     },
     "migros": {
       "status": "ok",
@@ -1821,7 +1843,7 @@
     "bizim": {
       "status": "ok",
       "catalogs": 1,
-      "pages": 4
+      "pages": 5
     },
     "ozdilek": {
       "status": "ok",
@@ -1864,6 +1886,6 @@
       "pages": 6
     }
   },
-  "total_catalogs": 43,
+  "total_catalogs": 44,
   "market_count": 15
 }
