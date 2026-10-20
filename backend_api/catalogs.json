@@ -1,6 +1,6 @@
 {
   "version": "3.1.0",
-  "last_updated": "2026-10-14T20:15:57.337403+00:00",
+  "last_updated": "2026-10-20T19:05:13.867485+00:00",
   "markets": [
     {
       "id": "bim",
@@ -728,6 +728,324 @@
           "verified": true,
           "category": "supermarket",
           "last_seen": "2026-10-13"
+        },
+        {
+          "id": "migros_731b7ffd6254ddc0",
+          "title": "Migros 8 - 21 Ekim 2026",
+          "valid_from": "2026-10-08",
+          "valid_until": "2026-10-21",
+          "page_count": 142,
+          "pages": [
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_1.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_2.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_3.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_4.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_5.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_6.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_7.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_8.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_9.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_10.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_11.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_12.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_13.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_14.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_15.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_16.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_17.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_18.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_19.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_20.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_21.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_22.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_23.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_24.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_25.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_26.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_27.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_28.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_29.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_30.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_31.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_32.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_33.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_34.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_35.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_36.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_37.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_38.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_39.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_40.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_41.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_42.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_43.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_44.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_45.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_46.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_47.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_48.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_49.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_50.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_51.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_52.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_53.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_54.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_55.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_56.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_57.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_58.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_59.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_60.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_61.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_62.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_63.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_64.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_65.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_66.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_67.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_68.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_69.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_70.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_71.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_72.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_73.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_74.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_75.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_76.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_77.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_78.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_79.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_80.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_81.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_82.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_83.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_84.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_85.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_86.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_87.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_88.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_89.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_90.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_91.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_92.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_93.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_94.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_95.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_96.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_97.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_98.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_99.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_100.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_101.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_102.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_103.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_104.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_105.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_106.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_107.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_108.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_109.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_110.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_111.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_112.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_113.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_114.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_115.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_116.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_117.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_118.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_119.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_120.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_121.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_122.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_123.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_124.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_125.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_126.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_127.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_128.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_129.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_130.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_131.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_132.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_133.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_134.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_135.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_136.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_137.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_138.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_139.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_140.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_141.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_731b7ffd6254ddc0_142.webp"
+          ],
+          "source_pages": [
+            "https://moneyclubkart.azureedge.net/mcstage/908-8-21-ekim-migroskop-son-2-639278408115991709.pdf"
+          ],
+          "source_url": "https://www.money.com.tr/migroskop-dijital",
+          "source_date_label": "8 - 21 Ekim 2026",
+          "verified": true,
+          "category": "supermarket",
+          "last_seen": "2026-10-19"
+        },
+        {
+          "id": "migros_e220a965a4d81991",
+          "title": "Migros 8 - 21 Ekim 2026",
+          "valid_from": "2026-10-08",
+          "valid_until": "2026-10-21",
+          "page_count": 142,
+          "pages": [
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_1.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_2.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_3.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_4.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_5.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_6.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_7.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_8.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_9.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_10.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_11.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_12.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_13.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_14.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_15.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_16.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_17.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_18.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_19.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_20.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_21.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_22.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_23.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_24.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_25.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_26.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_27.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_28.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_29.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_30.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_31.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_32.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_33.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_34.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_35.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_36.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_37.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_38.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_39.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_40.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_41.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_42.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_43.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_44.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_45.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_46.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_47.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_48.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_49.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_50.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_51.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_52.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_53.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_54.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_55.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_56.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_57.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_58.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_59.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_60.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_61.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_62.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_63.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_64.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_65.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_66.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_67.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_68.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_69.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_70.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_71.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_72.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_73.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_74.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_75.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_76.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_77.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_78.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_79.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_80.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_81.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_82.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_83.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_84.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_85.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_86.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_87.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_88.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_89.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_90.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_91.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_92.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_93.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_94.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_95.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_96.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_97.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_98.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_99.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_100.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_101.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_102.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_103.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_104.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_105.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_106.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_107.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_108.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_109.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_110.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_111.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_112.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_113.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_114.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_115.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_116.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_117.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_118.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_119.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_120.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_121.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_122.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_123.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_124.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_125.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_126.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_127.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_128.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_129.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_130.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_131.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_132.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_133.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_134.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_135.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_136.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_137.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_138.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_139.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_140.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_141.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/migros/migros_e220a965a4d81991_142.webp"
+          ],
+          "source_pages": [
+            "https://moneyclubkart.azureedge.net/mcstage/908-8-21-ekim-migroskop-son-2-639278408115991709-v2-639281000209648786.pdf"
+          ],
+          "source_url": "https://www.money.com.tr/migroskop-dijital",
+          "source_date_label": "8 - 21 Ekim 2026",
+          "verified": true,
+          "category": "supermarket",
+          "last_seen": "2026-10-20"
         }
       ]
     },
@@ -817,6 +1135,25 @@
       "category": "supermarket",
       "logo_url": "",
       "catalogs": [
+        {
+          "id": "metro_415d9d4749d11cc3",
+          "title": "Metro Grossmarket tazenin yildizlari",
+          "valid_from": "2026-10-19",
+          "valid_until": "",
+          "page_count": 2,
+          "pages": [
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/metro/metro_415d9d4749d11cc3_1.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/metro/metro_415d9d4749d11cc3_2.webp"
+          ],
+          "source_pages": [
+            "https://view.publitas.com/737/3427950/pdfs/515de3e0-c378-4e67-9bc5-112835ef46f4.pdf"
+          ],
+          "source_url": "https://brosurler.metro-tr.com/",
+          "source_date_label": "tazenin-yildizlari",
+          "verified": true,
+          "category": "supermarket",
+          "last_seen": "2026-10-19"
+        },
         {
           "id": "metro_cf32574af8ea8bc9",
           "title": "Metro Grossmarket mutfaginizin temel ihtiyaclari",
@@ -1002,6 +1339,72 @@
       "category": "home",
       "logo_url": "",
       "catalogs": [
+        {
+          "id": "ozdilek_85dcb0387b8e2e22",
+          "title": "Özdilek Katalog",
+          "valid_from": "2026-10-20",
+          "valid_until": "",
+          "page_count": 25,
+          "pages": [
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ozdilek/ozdilek_85dcb0387b8e2e22_1.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ozdilek/ozdilek_85dcb0387b8e2e22_2.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ozdilek/ozdilek_85dcb0387b8e2e22_3.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ozdilek/ozdilek_85dcb0387b8e2e22_4.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ozdilek/ozdilek_85dcb0387b8e2e22_5.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ozdilek/ozdilek_85dcb0387b8e2e22_6.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ozdilek/ozdilek_85dcb0387b8e2e22_7.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ozdilek/ozdilek_85dcb0387b8e2e22_8.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ozdilek/ozdilek_85dcb0387b8e2e22_9.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ozdilek/ozdilek_85dcb0387b8e2e22_10.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ozdilek/ozdilek_85dcb0387b8e2e22_11.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ozdilek/ozdilek_85dcb0387b8e2e22_12.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ozdilek/ozdilek_85dcb0387b8e2e22_13.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ozdilek/ozdilek_85dcb0387b8e2e22_14.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ozdilek/ozdilek_85dcb0387b8e2e22_15.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ozdilek/ozdilek_85dcb0387b8e2e22_16.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ozdilek/ozdilek_85dcb0387b8e2e22_17.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ozdilek/ozdilek_85dcb0387b8e2e22_18.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ozdilek/ozdilek_85dcb0387b8e2e22_19.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ozdilek/ozdilek_85dcb0387b8e2e22_20.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ozdilek/ozdilek_85dcb0387b8e2e22_21.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ozdilek/ozdilek_85dcb0387b8e2e22_22.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ozdilek/ozdilek_85dcb0387b8e2e22_23.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ozdilek/ozdilek_85dcb0387b8e2e22_24.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ozdilek/ozdilek_85dcb0387b8e2e22_25.webp"
+          ],
+          "source_pages": [
+            "https://www.ozdilek.com.tr/images/kataloglar/593/kat_b_001.jpg",
+            "https://www.ozdilek.com.tr/images/kataloglar/593/kat_b_002.jpg",
+            "https://www.ozdilek.com.tr/images/kataloglar/593/kat_b_003.jpg",
+            "https://www.ozdilek.com.tr/images/kataloglar/593/kat_b_004.jpg",
+            "https://www.ozdilek.com.tr/images/kataloglar/593/kat_b_005.jpg",
+            "https://www.ozdilek.com.tr/images/kataloglar/593/kat_b_006.jpg",
+            "https://www.ozdilek.com.tr/images/kataloglar/593/kat_b_007.jpg",
+            "https://www.ozdilek.com.tr/images/kataloglar/593/kat_b_008.jpg",
+            "https://www.ozdilek.com.tr/images/kataloglar/593/kat_b_009.jpg",
+            "https://www.ozdilek.com.tr/images/kataloglar/593/kat_b_010.jpg",
+            "https://www.ozdilek.com.tr/images/kataloglar/593/kat_b_011.jpg",
+            "https://www.ozdilek.com.tr/images/kataloglar/593/kat_b_012.jpg",
+            "https://www.ozdilek.com.tr/images/kataloglar/593/kat_b_013.jpg",
+            "https://www.ozdilek.com.tr/images/kataloglar/593/kat_b_014.jpg",
+            "https://www.ozdilek.com.tr/images/kataloglar/593/kat_b_015.jpg",
+            "https://www.ozdilek.com.tr/images/kataloglar/593/kat_b_016.jpg",
+            "https://www.ozdilek.com.tr/images/kataloglar/593/kat_b_017.jpg",
+            "https://www.ozdilek.com.tr/images/kataloglar/593/kat_b_018.jpg",
+            "https://www.ozdilek.com.tr/images/kataloglar/593/kat_b_019.jpg",
+            "https://www.ozdilek.com.tr/images/kataloglar/593/kat_b_020.jpg",
+            "https://www.ozdilek.com.tr/images/kataloglar/593/kat_b_021.jpg",
+            "https://www.ozdilek.com.tr/images/kataloglar/593/kat_b_022.jpg",
+            "https://www.ozdilek.com.tr/images/kataloglar/593/kat_b_023.jpg",
+            "https://www.ozdilek.com.tr/images/kataloglar/593/kat_b_024.jpg",
+            "https://www.ozdilek.com.tr/images/kataloglar/593/kat_b_025.jpg"
+          ],
+          "source_url": "https://www.ozdilek.com.tr/tr/Kataloglar",
+          "source_date_label": "alisveris-festivali-593",
+          "verified": true,
+          "category": "home",
+          "last_seen": "2026-10-20"
+        },
         {
           "id": "ozdilek_b0c582b07acec9e2",
           "title": "Özdilek Katalog",
@@ -1621,6 +2024,46 @@
       "logo_url": "",
       "catalogs": [
         {
+          "id": "hakmar_bcdc1a97ceffe594",
+          "title": "Hakmar Katalog - 20 - 28 Ekim 2026",
+          "valid_from": "2026-10-19",
+          "valid_until": "",
+          "page_count": 2,
+          "pages": [
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/hakmar/hakmar_bcdc1a97ceffe594_1.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/hakmar/hakmar_bcdc1a97ceffe594_2.webp"
+          ],
+          "source_pages": [
+            "https://eu.kimbicdn.com/thumbor/pg7VLRnJmboNCuAg09izEvu-JBk=/0x0/filters:format(webp):quality(65)/com.tr/data/53/40824/0.jpg?t=1792387872",
+            "https://eu.kimbicdn.com/thumbor/bFZLINwDkRcf5D8aJu_ZW2lafBY=/0x0/filters:format(webp):quality(65)/com.tr/data/53/40824/1.jpg?t=1792387872"
+          ],
+          "source_url": "https://www.kimbino.com.tr/hakmar/hakmar-katalog-salidan-itibaren-20-10-2026-6040824/",
+          "source_date_label": "hakmar-katalog-salidan-itibaren-20-10-2026-6040824",
+          "verified": true,
+          "category": "supermarket",
+          "last_seen": "2026-10-19",
+          "via": "kimbino"
+        },
+        {
+          "id": "hakmar_391d6bd87ce192e4",
+          "title": "Hakmar - İndirim - 16 Ekim 2026 - 15 Kasım 2026",
+          "valid_from": "2026-10-19",
+          "valid_until": "",
+          "page_count": 1,
+          "pages": [
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/hakmar/hakmar_391d6bd87ce192e4_1.webp"
+          ],
+          "source_pages": [
+            "https://eu.kimbicdn.com/thumbor/D5FYSJba3XBAsyqOVDPWY2p7dvY=/0x0/filters:format(webp):quality(65)/com.tr/data/53/40791/0.jpg"
+          ],
+          "source_url": "https://www.kimbino.com.tr/hakmar/hakmar-indirim-cumadan-itibaren-16-10-2026-6040791/",
+          "source_date_label": "hakmar-indirim-cumadan-itibaren-16-10-2026-6040791",
+          "verified": true,
+          "category": "supermarket",
+          "last_seen": "2026-10-19",
+          "via": "kimbino"
+        },
+        {
           "id": "hakmar_6d686c523accddcb",
           "title": "Hakmar Katalog - 08 - 19 Ekim 2026",
           "valid_from": "2026-10-13",
@@ -1816,6 +2259,56 @@
       "logo_url": "",
       "catalogs": [
         {
+          "id": "onur_d854d37d76e4a173",
+          "title": "Onur Market - Taze Ürünlerde İndirimler Trakya (15 Ekim 2026) - Indirim, insert",
+          "valid_from": "2026-10-19",
+          "valid_until": "",
+          "page_count": 4,
+          "pages": [
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/onur/onur_d854d37d76e4a173_1.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/onur/onur_d854d37d76e4a173_2.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/onur/onur_d854d37d76e4a173_3.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/onur/onur_d854d37d76e4a173_4.webp"
+          ],
+          "source_pages": [
+            "https://eu.kimbicdn.com/thumbor/drnp4jvZmc1sbU-UHox-ePhvzgk=/0x0/filters:format(webp):quality(65)/com.tr/data/35/40731/0.jpg",
+            "https://eu.kimbicdn.com/thumbor/bLwUWndlUWHnw-u5I8L9EQF_wHs=/0x0/filters:format(webp):quality(65)/com.tr/data/35/40731/1.jpg",
+            "https://eu.kimbicdn.com/thumbor/CtlQ1af0oulcJ1exm27KxPWaUTQ=/0x0/filters:format(webp):quality(65)/com.tr/data/35/40731/2.jpg",
+            "https://eu.kimbicdn.com/thumbor/VTNZHEzSOD26QXBNhZjTVet2gHk=/0x0/filters:format(webp):quality(65)/com.tr/data/35/40731/3.jpg"
+          ],
+          "source_url": "https://www.kimbino.com.tr/onur-market/onur-market-taze-urunlerde-indirimler-trakya-persembeden-itibaren-15-10-2026-6040731/",
+          "source_date_label": "onur-market-taze-urunlerde-indirimler-trakya-persembeden-itibaren-15-10-2026-6040731",
+          "verified": true,
+          "category": "supermarket",
+          "last_seen": "2026-10-19",
+          "via": "kimbino"
+        },
+        {
+          "id": "onur_405d47927191a54b",
+          "title": "Onur Market - Taze Ürünlerde İndirimler Bursa (15 Ekim 2026) - Indirim, insert",
+          "valid_from": "2026-10-19",
+          "valid_until": "",
+          "page_count": 4,
+          "pages": [
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/onur/onur_405d47927191a54b_1.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/onur/onur_405d47927191a54b_2.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/onur/onur_405d47927191a54b_3.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/onur/onur_405d47927191a54b_4.webp"
+          ],
+          "source_pages": [
+            "https://eu.kimbicdn.com/thumbor/COXOFYAoLhn8PGZoJYTKIFXC1PM=/0x0/filters:format(webp):quality(65)/com.tr/data/35/40728/0.jpg",
+            "https://eu.kimbicdn.com/thumbor/zd1eDvzoCkCNyEYpEDxqOmfzEpE=/0x0/filters:format(webp):quality(65)/com.tr/data/35/40728/1.jpg",
+            "https://eu.kimbicdn.com/thumbor/KW3EJAYRNb7L9oRRjAS9-FipbvU=/0x0/filters:format(webp):quality(65)/com.tr/data/35/40728/2.jpg",
+            "https://eu.kimbicdn.com/thumbor/YMhWtWXDFYoFvBEWQA-35IgXc3A=/0x0/filters:format(webp):quality(65)/com.tr/data/35/40728/3.jpg"
+          ],
+          "source_url": "https://www.kimbino.com.tr/onur-market/onur-market-taze-urunlerde-indirimler-bursa-persembeden-itibaren-15-10-2026-6040728/",
+          "source_date_label": "onur-market-taze-urunlerde-indirimler-bursa-persembeden-itibaren-15-10-2026-6040728",
+          "verified": true,
+          "category": "supermarket",
+          "last_seen": "2026-10-19",
+          "via": "kimbino"
+        },
+        {
           "id": "onur_3c70f01d8920ef1b",
           "title": "Onur Market Katalog (13 Ekim 2026) - Indirim, insert",
           "valid_from": "2026-10-14",
@@ -1904,6 +2397,103 @@
       "category": "supermarket",
       "logo_url": "",
       "catalogs": [
+        {
+          "id": "happy_70f8cfcb2bfca8c9",
+          "title": "Happy Center Katalog (21 - 31 Ekim 2026) - Indirim",
+          "valid_from": "2026-10-20",
+          "valid_until": "",
+          "page_count": 5,
+          "pages": [
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/happy/happy_70f8cfcb2bfca8c9_1.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/happy/happy_70f8cfcb2bfca8c9_2.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/happy/happy_70f8cfcb2bfca8c9_3.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/happy/happy_70f8cfcb2bfca8c9_4.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/happy/happy_70f8cfcb2bfca8c9_5.webp"
+          ],
+          "source_pages": [
+            "https://eu.kimbicdn.com/thumbor/Kjcyacs4SJbbSlqFQcyLi8eFp9c=/0x0/filters:format(webp):quality(65)/com.tr/data/47/40878/0.jpg",
+            "https://eu.kimbicdn.com/thumbor/ZY95IevCWiXlDz8dQSVhW9K7J_U=/0x0/filters:format(webp):quality(65)/com.tr/data/47/40878/1.jpg",
+            "https://eu.kimbicdn.com/thumbor/-aFve56ABidiXxnJSgsu1SHdhJQ=/0x0/filters:format(webp):quality(65)/com.tr/data/47/40878/2.jpg",
+            "https://eu.kimbicdn.com/thumbor/d9clRy07pf2_vr30LiK5eaiHCvM=/0x0/filters:format(webp):quality(65)/com.tr/data/47/40878/3.jpg",
+            "https://eu.kimbicdn.com/thumbor/sBHexXc5gyMZQofZaa-sUnS35-s=/0x0/filters:format(webp):quality(65)/com.tr/data/47/40878/4.jpg"
+          ],
+          "source_url": "https://www.kimbino.com.tr/happy-center/happy-center-katalog-carsambadan-itibaren-21-10-2026-6040878/",
+          "source_date_label": "happy-center-katalog-carsambadan-itibaren-21-10-2026-6040878",
+          "verified": true,
+          "category": "supermarket",
+          "last_seen": "2026-10-20",
+          "via": "kimbino"
+        },
+        {
+          "id": "happy_651202fa2183f4e9",
+          "title": "Happy Center Katalog (05 - 31 Ekim 2026) - Indirim",
+          "valid_from": "2026-10-20",
+          "valid_until": "",
+          "page_count": 1,
+          "pages": [
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/happy/happy_651202fa2183f4e9_1.webp"
+          ],
+          "source_pages": [
+            "https://eu.kimbicdn.com/thumbor/iW7g8EP2ZN7jFjUEyJodATkXba8=/0x0/filters:format(webp):quality(65)/com.tr/data/47/40416/0.jpg?t=1791258185"
+          ],
+          "source_url": "https://www.kimbino.com.tr/happy-center/happy-center-sonbahar-firsatlari-pazartesinden-itibaren-05-10-2026-6040416/",
+          "source_date_label": "happy-center-sonbahar-firsatlari-pazartesinden-itibaren-05-10-2026-6040416",
+          "verified": true,
+          "category": "supermarket",
+          "last_seen": "2026-10-20",
+          "via": "kimbino"
+        },
+        {
+          "id": "happy_1726e8e229489b35",
+          "title": "Happy Center Katalog (07 - 19 Ekim 2026) - Indirim",
+          "valid_from": "2026-10-19",
+          "valid_until": "",
+          "page_count": 17,
+          "pages": [
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/happy/happy_1726e8e229489b35_1.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/happy/happy_1726e8e229489b35_2.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/happy/happy_1726e8e229489b35_3.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/happy/happy_1726e8e229489b35_4.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/happy/happy_1726e8e229489b35_5.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/happy/happy_1726e8e229489b35_6.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/happy/happy_1726e8e229489b35_7.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/happy/happy_1726e8e229489b35_8.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/happy/happy_1726e8e229489b35_9.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/happy/happy_1726e8e229489b35_10.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/happy/happy_1726e8e229489b35_11.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/happy/happy_1726e8e229489b35_12.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/happy/happy_1726e8e229489b35_13.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/happy/happy_1726e8e229489b35_14.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/happy/happy_1726e8e229489b35_15.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/happy/happy_1726e8e229489b35_16.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/happy/happy_1726e8e229489b35_17.webp"
+          ],
+          "source_pages": [
+            "https://eu.kimbicdn.com/thumbor/utkKPSb3gG9jKxka55gFCgcera0=/0x0/filters:format(webp):quality(65)/com.tr/data/47/40449/0.jpg?t=1791348101",
+            "https://eu.kimbicdn.com/thumbor/mO0cSzjqz6JwgTZliaH1USB3r8M=/0x0/filters:format(webp):quality(65)/com.tr/data/47/40449/1.jpg?t=1791348101",
+            "https://eu.kimbicdn.com/thumbor/y91KO9KSUwAkSPRbi7RiV6jmQNg=/0x0/filters:format(webp):quality(65)/com.tr/data/47/40449/2.jpg?t=1791348101",
+            "https://eu.kimbicdn.com/thumbor/kvexq5FsXeSDD6RPqWFk_mbqqnk=/0x0/filters:format(webp):quality(65)/com.tr/data/47/40449/3.jpg?t=1791348101",
+            "https://eu.kimbicdn.com/thumbor/xc90lDJXOtc_Dic5FL_DXAcEVco=/0x0/filters:format(webp):quality(65)/com.tr/data/47/40449/4.jpg?t=1791348101",
+            "https://eu.kimbicdn.com/thumbor/UazvsbpqwnRJvqk5wETAyCI4XFY=/0x0/filters:format(webp):quality(65)/com.tr/data/47/40449/5.jpg?t=1791348101",
+            "https://eu.kimbicdn.com/thumbor/rwXGhX3a_MQBLlBY61sNSEBtncg=/0x0/filters:format(webp):quality(65)/com.tr/data/47/40449/6.jpg?t=1791348101",
+            "https://eu.kimbicdn.com/thumbor/dpMVjqPioc15dPEyi9SKFt3G2cA=/0x0/filters:format(webp):quality(65)/com.tr/data/47/40449/7.jpg?t=1791348101",
+            "https://eu.kimbicdn.com/thumbor/sp_yg4hJ2-ak6fC2sPbXG0f07e4=/0x0/filters:format(webp):quality(65)/com.tr/data/47/40449/8.jpg?t=1791348101",
+            "https://eu.kimbicdn.com/thumbor/JbZb7BM7AdHWxYtbGNUVx-08dKQ=/0x0/filters:format(webp):quality(65)/com.tr/data/47/40449/9.jpg?t=1791348101",
+            "https://eu.kimbicdn.com/thumbor/Kusdnu9y-0WElQCsXrTCWowyaN0=/0x0/filters:format(webp):quality(65)/com.tr/data/47/40449/10.jpg?t=1791348101",
+            "https://eu.kimbicdn.com/thumbor/dY5F5qiAw70pjI1UMH-E5i_aP9Q=/0x0/filters:format(webp):quality(65)/com.tr/data/47/40449/11.jpg?t=1791348101",
+            "https://eu.kimbicdn.com/thumbor/f4HTzIGCi8FktaAuWOwW_RNV3qA=/0x0/filters:format(webp):quality(65)/com.tr/data/47/40449/12.jpg?t=1791348101",
+            "https://eu.kimbicdn.com/thumbor/kKeNxSWKhGG7z2rqjahklCV9k1U=/0x0/filters:format(webp):quality(65)/com.tr/data/47/40449/13.jpg?t=1791348101",
+            "https://eu.kimbicdn.com/thumbor/5o0OSNsAUvVhHzfwGAivkvUc2sg=/0x0/filters:format(webp):quality(65)/com.tr/data/47/40449/14.jpg?t=1791348101",
+            "https://eu.kimbicdn.com/thumbor/VTdjUXpMlvqPnoG36UlijbHmg0k=/0x0/filters:format(webp):quality(65)/com.tr/data/47/40449/15.jpg?t=1791348101",
+            "https://eu.kimbicdn.com/thumbor/ljdIUaKorQzuYiGkN5uMf76ZEAE=/0x0/filters:format(webp):quality(65)/com.tr/data/47/40449/16.jpg?t=1791348101"
+          ],
+          "source_url": "https://www.kimbino.com.tr/happy-center/happy-center-indirim-carsambadan-itibaren-07-10-2026-6040449/",
+          "source_date_label": "happy-center-indirim-carsambadan-itibaren-07-10-2026-6040449",
+          "verified": true,
+          "category": "supermarket",
+          "last_seen": "2026-10-19",
+          "via": "kimbino"
+        },
         {
           "id": "happy_8418d766885f7a86",
           "title": "Happy Center Katalog (14 - 14 Ekim 2026) - Indirim",
@@ -2037,6 +2627,84 @@
       "logo_url": "",
       "catalogs": [
         {
+          "id": "kim_809ee5e7615e153c",
+          "title": "Kim Market Katalog - 19 - 30 Ekim 2026",
+          "valid_from": "2026-10-19",
+          "valid_until": "",
+          "page_count": 11,
+          "pages": [
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/kim/kim_809ee5e7615e153c_1.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/kim/kim_809ee5e7615e153c_2.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/kim/kim_809ee5e7615e153c_3.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/kim/kim_809ee5e7615e153c_4.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/kim/kim_809ee5e7615e153c_5.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/kim/kim_809ee5e7615e153c_6.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/kim/kim_809ee5e7615e153c_7.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/kim/kim_809ee5e7615e153c_8.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/kim/kim_809ee5e7615e153c_9.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/kim/kim_809ee5e7615e153c_10.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/kim/kim_809ee5e7615e153c_11.webp"
+          ],
+          "source_pages": [
+            "https://eu.kimbicdn.com/thumbor/yBl_q7Gs2acC16HU89IEw5sXhJc=/0x0/filters:format(webp):quality(65)/com.tr/data/36/40818/0.jpg",
+            "https://eu.kimbicdn.com/thumbor/v0AORkW74Ine7UQYdo_-p23BD04=/0x0/filters:format(webp):quality(65)/com.tr/data/36/40818/1.jpg",
+            "https://eu.kimbicdn.com/thumbor/91v7zbR2xXM2up8NIsu6DViWUU4=/0x0/filters:format(webp):quality(65)/com.tr/data/36/40818/2.jpg",
+            "https://eu.kimbicdn.com/thumbor/RmsEVdIj7KRswv_j6Q1zWar6_0M=/0x0/filters:format(webp):quality(65)/com.tr/data/36/40818/3.jpg",
+            "https://eu.kimbicdn.com/thumbor/tpCEIgIS_te1zzS5OE9npawWUes=/0x0/filters:format(webp):quality(65)/com.tr/data/36/40818/4.jpg",
+            "https://eu.kimbicdn.com/thumbor/kTh_hhb4xLLVXJ8zTZ1GIuHPYM4=/0x0/filters:format(webp):quality(65)/com.tr/data/36/40818/5.jpg",
+            "https://eu.kimbicdn.com/thumbor/i7oiTGXOIWPtu0uzB41qX3yyWWU=/0x0/filters:format(webp):quality(65)/com.tr/data/36/40818/6.jpg",
+            "https://eu.kimbicdn.com/thumbor/E96i-IhsMGh9xN5nWEVl4C2GmKE=/0x0/filters:format(webp):quality(65)/com.tr/data/36/40818/7.jpg",
+            "https://eu.kimbicdn.com/thumbor/-ZKfcFWfkvvSlMN5nlfuSYwLSk8=/0x0/filters:format(webp):quality(65)/com.tr/data/36/40818/8.jpg",
+            "https://eu.kimbicdn.com/thumbor/eoodkWe8NiW7580ot3wDK5xq6MI=/0x0/filters:format(webp):quality(65)/com.tr/data/36/40818/9.jpg",
+            "https://eu.kimbicdn.com/thumbor/01JZS6MpKKjZCRiiWwQ-PZabXTk=/0x0/filters:format(webp):quality(65)/com.tr/data/36/40818/10.jpg"
+          ],
+          "source_url": "https://www.kimbino.com.tr/kim-market/kim-market-katalog-pazartesinden-itibaren-19-10-2026-6040818/",
+          "source_date_label": "kim-market-katalog-pazartesinden-itibaren-19-10-2026-6040818",
+          "verified": true,
+          "category": "supermarket",
+          "last_seen": "2026-10-19",
+          "via": "kimbino"
+        },
+        {
+          "id": "kim_757761ad721a75e6",
+          "title": "Kim Market Katalog - Marmara Insert - 19 - 30 Ekim 2026",
+          "valid_from": "2026-10-19",
+          "valid_until": "",
+          "page_count": 11,
+          "pages": [
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/kim/kim_757761ad721a75e6_1.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/kim/kim_757761ad721a75e6_2.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/kim/kim_757761ad721a75e6_3.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/kim/kim_757761ad721a75e6_4.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/kim/kim_757761ad721a75e6_5.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/kim/kim_757761ad721a75e6_6.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/kim/kim_757761ad721a75e6_7.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/kim/kim_757761ad721a75e6_8.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/kim/kim_757761ad721a75e6_9.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/kim/kim_757761ad721a75e6_10.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/kim/kim_757761ad721a75e6_11.webp"
+          ],
+          "source_pages": [
+            "https://eu.kimbicdn.com/thumbor/4YDf9GOEL90PlhUDq1S4Uv1FXU0=/0x0/filters:format(webp):quality(65)/com.tr/data/36/40821/0.jpg",
+            "https://eu.kimbicdn.com/thumbor/03fQm3l0XF-8Qmv7VWmCtyJJUiQ=/0x0/filters:format(webp):quality(65)/com.tr/data/36/40821/1.jpg",
+            "https://eu.kimbicdn.com/thumbor/PFopQT31T26qSydENGaoIT4IWzE=/0x0/filters:format(webp):quality(65)/com.tr/data/36/40821/2.jpg",
+            "https://eu.kimbicdn.com/thumbor/o4dRWxOoVFLk8rcNsVhWaM3KscQ=/0x0/filters:format(webp):quality(65)/com.tr/data/36/40821/3.jpg",
+            "https://eu.kimbicdn.com/thumbor/QOOqKY2DiqTxwEKuWZk8KI7Bbo4=/0x0/filters:format(webp):quality(65)/com.tr/data/36/40821/4.jpg",
+            "https://eu.kimbicdn.com/thumbor/vjtffYf32vW4hhKtDf98Zd0MeJ0=/0x0/filters:format(webp):quality(65)/com.tr/data/36/40821/5.jpg",
+            "https://eu.kimbicdn.com/thumbor/1NaDNviuOtNOljut6HBHpMRds0E=/0x0/filters:format(webp):quality(65)/com.tr/data/36/40821/6.jpg",
+            "https://eu.kimbicdn.com/thumbor/oblt0_vjcLhLMEymUTxqsu4rmG8=/0x0/filters:format(webp):quality(65)/com.tr/data/36/40821/7.jpg",
+            "https://eu.kimbicdn.com/thumbor/2ekI3XsGv3ykHrvKAOh7kkgA5so=/0x0/filters:format(webp):quality(65)/com.tr/data/36/40821/8.jpg",
+            "https://eu.kimbicdn.com/thumbor/E6qdkEqeL5NGjUZNl1i5dkRXZhY=/0x0/filters:format(webp):quality(65)/com.tr/data/36/40821/9.jpg",
+            "https://eu.kimbicdn.com/thumbor/2q_oI624eCdW9HzbfVbwT5-tylA=/0x0/filters:format(webp):quality(65)/com.tr/data/36/40821/10.jpg"
+          ],
+          "source_url": "https://www.kimbino.com.tr/kim-market/kim-market-katalog-marmara-insert-pazartesinden-itibaren-19-10-2026-6040821/",
+          "source_date_label": "kim-market-katalog-marmara-insert-pazartesinden-itibaren-19-10-2026-6040821",
+          "verified": true,
+          "category": "supermarket",
+          "last_seen": "2026-10-19",
+          "via": "kimbino"
+        },
+        {
           "id": "kim_251bd563d940db8f",
           "title": "Kim Market - Yeni Ürünü - 14 - 31 Ekim 2026",
           "valid_from": "2026-10-14",
@@ -2089,6 +2757,39 @@
       "category": "supermarket",
       "logo_url": "",
       "catalogs": [
+        {
+          "id": "mopas_91dce9e336769adf",
+          "title": "Mopaş Katalog - 17 - 30 Ekim 2026",
+          "valid_from": "2026-10-19",
+          "valid_until": "",
+          "page_count": 8,
+          "pages": [
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/mopas/mopas_91dce9e336769adf_1.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/mopas/mopas_91dce9e336769adf_2.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/mopas/mopas_91dce9e336769adf_3.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/mopas/mopas_91dce9e336769adf_4.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/mopas/mopas_91dce9e336769adf_5.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/mopas/mopas_91dce9e336769adf_6.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/mopas/mopas_91dce9e336769adf_7.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/mopas/mopas_91dce9e336769adf_8.webp"
+          ],
+          "source_pages": [
+            "https://eu.kimbicdn.com/thumbor/qFdk1utiAz-XaEjvA3iqcFXfw20=/0x0/filters:format(webp):quality(65)/com.tr/data/55/40815/0.jpg?t=1792305722",
+            "https://eu.kimbicdn.com/thumbor/y3W7Q8jh1_Wo2ai1HyDAfRLvgFw=/0x0/filters:format(webp):quality(65)/com.tr/data/55/40815/1.jpg?t=1792305722",
+            "https://eu.kimbicdn.com/thumbor/g1YO6dOOjMVw9KiNSoN9Wgi2QIU=/0x0/filters:format(webp):quality(65)/com.tr/data/55/40815/2.jpg?t=1792305722",
+            "https://eu.kimbicdn.com/thumbor/gi0IdsMyjfZ90KL8Q0_2uGQFS7M=/0x0/filters:format(webp):quality(65)/com.tr/data/55/40815/3.jpg?t=1792305722",
+            "https://eu.kimbicdn.com/thumbor/HjaKeNZLwkRehYNxVhyTfOmRkwo=/0x0/filters:format(webp):quality(65)/com.tr/data/55/40815/4.jpg?t=1792305722",
+            "https://eu.kimbicdn.com/thumbor/UMOclf_jn6m8ysZeZG7cTTWdErs=/0x0/filters:format(webp):quality(65)/com.tr/data/55/40815/5.jpg?t=1792305722",
+            "https://eu.kimbicdn.com/thumbor/2EZYHUZ5e5UpWkawFyExFuPDvjI=/0x0/filters:format(webp):quality(65)/com.tr/data/55/40815/6.jpg?t=1792305722",
+            "https://eu.kimbicdn.com/thumbor/6C4-bDG4FUQMNFG9osyxdf417QU=/0x0/filters:format(webp):quality(65)/com.tr/data/55/40815/7.jpg?t=1792305722"
+          ],
+          "source_url": "https://www.kimbino.com.tr/mopa/mopas-katalog-cumartesinden-itibaren-17-10-2026-6040815/",
+          "source_date_label": "mopas-katalog-cumartesinden-itibaren-17-10-2026-6040815",
+          "verified": true,
+          "category": "supermarket",
+          "last_seen": "2026-10-19",
+          "via": "kimbino"
+        },
         {
           "id": "mopas_32b2829afdac7dfd",
           "title": "Mopaş İndirim - 10 - 31 Ekim 2026",
@@ -2179,6 +2880,27 @@
       "logo_url": "",
       "catalogs": [
         {
+          "id": "seyhanlar_e7b7b682d1d34067",
+          "title": "Seyhanlar Market Katalog - 19 - 25 Ekim 2026",
+          "valid_from": "2026-10-19",
+          "valid_until": "",
+          "page_count": 2,
+          "pages": [
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/seyhanlar/seyhanlar_e7b7b682d1d34067_1.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/seyhanlar/seyhanlar_e7b7b682d1d34067_2.webp"
+          ],
+          "source_pages": [
+            "https://eu.kimbicdn.com/thumbor/60TOioMl9sQSNnRqVW-xvdF5vNA=/0x0/filters:format(webp):quality(65)/com.tr/data/57/40842/0.jpg?t=1792383476",
+            "https://eu.kimbicdn.com/thumbor/oNv0GjNYwB2qneO6Kt8MUbx0EvQ=/0x0/filters:format(webp):quality(65)/com.tr/data/57/40842/1.jpg?t=1792383476"
+          ],
+          "source_url": "https://www.kimbino.com.tr/seyhanlar-market/seyhanlar-market-katalog-pazartesinden-itibaren-19-10-2026-6040842/",
+          "source_date_label": "seyhanlar-market-katalog-pazartesinden-itibaren-19-10-2026-6040842",
+          "verified": true,
+          "category": "supermarket",
+          "last_seen": "2026-10-19",
+          "via": "kimbino"
+        },
+        {
           "id": "seyhanlar_0907f0353157e02b",
           "title": "Seyhanlar Market Katalog - 12 - 18 Ekim 2026",
           "valid_from": "2026-10-14",
@@ -2208,6 +2930,31 @@
       "category": "supermarket",
       "logo_url": "",
       "catalogs": [
+        {
+          "id": "show_00d773434ae6e321",
+          "title": "Show Market Katalog - 09 - 22 Ekim 2026",
+          "valid_from": "2026-10-19",
+          "valid_until": "",
+          "page_count": 4,
+          "pages": [
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/show/show_00d773434ae6e321_1.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/show/show_00d773434ae6e321_2.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/show/show_00d773434ae6e321_3.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/show/show_00d773434ae6e321_4.webp"
+          ],
+          "source_pages": [
+            "https://eu.kimbicdn.com/thumbor/3C7Bnx8zLmBrxzKcbrO9eRWdpc4=/0x0/filters:format(webp):quality(65)/com.tr/data/74/40722/0.jpg?t=1792037965",
+            "https://eu.kimbicdn.com/thumbor/GxcN6Bv-CrY9drsYe-WqsuAXXzw=/0x0/filters:format(webp):quality(65)/com.tr/data/74/40722/1.jpg?t=1792037965",
+            "https://eu.kimbicdn.com/thumbor/G4XMGhUaRT6igWSn96KLrCLNawo=/0x0/filters:format(webp):quality(65)/com.tr/data/74/40722/2.jpg?t=1792037965",
+            "https://eu.kimbicdn.com/thumbor/Iibd3sXGTG528zuTFWMTo03Z-7s=/0x0/filters:format(webp):quality(65)/com.tr/data/74/40722/3.jpg?t=1792037965"
+          ],
+          "source_url": "https://www.kimbino.com.tr/show-market/show-market-katalog-cumadan-itibaren-09-10-2026-6040722/",
+          "source_date_label": "show-market-katalog-cumadan-itibaren-09-10-2026-6040722",
+          "verified": true,
+          "category": "supermarket",
+          "last_seen": "2026-10-19",
+          "via": "kimbino"
+        },
         {
           "id": "show_6620e8e901d29ed6",
           "title": "Show Market Katalog - 09 - 22 Ekim 2026",
@@ -2246,6 +2993,74 @@
       "category": "supermarket",
       "logo_url": "",
       "catalogs": [
+        {
+          "id": "cagri_88eef2a39b57bd09",
+          "title": "Çağrı Market - 5 Günlük Dev İndirim - 21 - 25 Ekim 2026",
+          "valid_from": "2026-10-20",
+          "valid_until": "",
+          "page_count": 1,
+          "pages": [
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/cagri/cagri_88eef2a39b57bd09_1.webp"
+          ],
+          "source_pages": [
+            "https://eu.kimbicdn.com/thumbor/6WXFycfNHDgRbAG3EtVvOqxpHLQ=/0x0/filters:format(webp):quality(65)/com.tr/data/34/40860/0.jpg"
+          ],
+          "source_url": "https://www.kimbino.com.tr/cagri-market/cagri-market-5-gunluk-dev-indirim-carsambadan-itibaren-21-10-2026-6040860/",
+          "source_date_label": "cagri-market-5-gunluk-dev-indirim-carsambadan-itibaren-21-10-2026-6040860",
+          "verified": true,
+          "category": "supermarket",
+          "last_seen": "2026-10-20",
+          "via": "kimbino"
+        },
+        {
+          "id": "cagri_49b81031e985bb5c",
+          "title": "Çağrı Market Katalog - 16 - 26 Ekim 2026",
+          "valid_from": "2026-10-19",
+          "valid_until": "",
+          "page_count": 16,
+          "pages": [
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/cagri/cagri_49b81031e985bb5c_1.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/cagri/cagri_49b81031e985bb5c_2.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/cagri/cagri_49b81031e985bb5c_3.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/cagri/cagri_49b81031e985bb5c_4.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/cagri/cagri_49b81031e985bb5c_5.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/cagri/cagri_49b81031e985bb5c_6.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/cagri/cagri_49b81031e985bb5c_7.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/cagri/cagri_49b81031e985bb5c_8.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/cagri/cagri_49b81031e985bb5c_9.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/cagri/cagri_49b81031e985bb5c_10.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/cagri/cagri_49b81031e985bb5c_11.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/cagri/cagri_49b81031e985bb5c_12.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/cagri/cagri_49b81031e985bb5c_13.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/cagri/cagri_49b81031e985bb5c_14.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/cagri/cagri_49b81031e985bb5c_15.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/cagri/cagri_49b81031e985bb5c_16.webp"
+          ],
+          "source_pages": [
+            "https://eu.kimbicdn.com/thumbor/P2_jInWlX-jTZC-X2-hhRFRqbnA=/0x0/filters:format(webp):quality(65)/com.tr/data/34/40755/0.jpg",
+            "https://eu.kimbicdn.com/thumbor/i8B8ZnLt1xHFWjeA0f3D16FYn8k=/0x0/filters:format(webp):quality(65)/com.tr/data/34/40755/1.jpg",
+            "https://eu.kimbicdn.com/thumbor/_4N4lhOVBzno7VI5SbjU5srQlfk=/0x0/filters:format(webp):quality(65)/com.tr/data/34/40755/2.jpg",
+            "https://eu.kimbicdn.com/thumbor/Ogqq6AwD0MzdH7tOHKnshxq7qg0=/0x0/filters:format(webp):quality(65)/com.tr/data/34/40755/3.jpg",
+            "https://eu.kimbicdn.com/thumbor/p4LY1SUugsAbU2LvYh3ehZD_gag=/0x0/filters:format(webp):quality(65)/com.tr/data/34/40755/4.jpg",
+            "https://eu.kimbicdn.com/thumbor/VmwgJSLs7EVtorqVmro8xifm4OU=/0x0/filters:format(webp):quality(65)/com.tr/data/34/40755/5.jpg",
+            "https://eu.kimbicdn.com/thumbor/gWgbXtx5du5OOPGVhJYsqMY_IVo=/0x0/filters:format(webp):quality(65)/com.tr/data/34/40755/6.jpg",
+            "https://eu.kimbicdn.com/thumbor/OfHwh_1l7vTbNVkKQZGsjAyIRdI=/0x0/filters:format(webp):quality(65)/com.tr/data/34/40755/7.jpg",
+            "https://eu.kimbicdn.com/thumbor/ifx80ZdGh4DTvXBrnQHDNNnfC0s=/0x0/filters:format(webp):quality(65)/com.tr/data/34/40755/8.jpg",
+            "https://eu.kimbicdn.com/thumbor/fb5Yc1TLKKPoPrEz9uzrVMXC-DI=/0x0/filters:format(webp):quality(65)/com.tr/data/34/40755/9.jpg",
+            "https://eu.kimbicdn.com/thumbor/2Z7CCLRLxlM6TnpPfADeCRTwHVM=/0x0/filters:format(webp):quality(65)/com.tr/data/34/40755/10.jpg",
+            "https://eu.kimbicdn.com/thumbor/zaJfbhb88dBvoVmMBakrk2JDdQA=/0x0/filters:format(webp):quality(65)/com.tr/data/34/40755/11.jpg",
+            "https://eu.kimbicdn.com/thumbor/GXqYUBpSntJOFHSyHhycKAHZsZY=/0x0/filters:format(webp):quality(65)/com.tr/data/34/40755/12.jpg",
+            "https://eu.kimbicdn.com/thumbor/QcNXrikqx2BUvULGx3VsMlm5wok=/0x0/filters:format(webp):quality(65)/com.tr/data/34/40755/13.jpg",
+            "https://eu.kimbicdn.com/thumbor/sgRB-kky6FFHur5V6TZLtiPmAhk=/0x0/filters:format(webp):quality(65)/com.tr/data/34/40755/14.jpg",
+            "https://eu.kimbicdn.com/thumbor/VapS1ZsAl9sH39rbRQ14R3vbpoI=/0x0/filters:format(webp):quality(65)/com.tr/data/34/40755/15.jpg"
+          ],
+          "source_url": "https://www.kimbino.com.tr/cagri-market/cagri-market-katalog-cumadan-itibaren-16-10-2026-6040755/",
+          "source_date_label": "cagri-market-katalog-cumadan-itibaren-16-10-2026-6040755",
+          "verified": true,
+          "category": "supermarket",
+          "last_seen": "2026-10-19",
+          "via": "kimbino"
+        },
         {
           "id": "cagri_31a32b58a6fa9bed",
           "title": "Çağrı Market - Çağrı'da Her Zaman İndirim Var - 12 - 16 Ekim 2026",
@@ -2392,6 +3207,77 @@
       "logo_url": "",
       "catalogs": [
         {
+          "id": "furpa_6c80583f4d73b001",
+          "title": "Furpa İndirim - 13 - 30 Ekim 2026",
+          "valid_from": "2026-10-20",
+          "valid_until": "",
+          "page_count": 3,
+          "pages": [
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/furpa/furpa_6c80583f4d73b001_1.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/furpa/furpa_6c80583f4d73b001_2.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/furpa/furpa_6c80583f4d73b001_3.webp"
+          ],
+          "source_pages": [
+            "https://eu.kimbicdn.com/thumbor/QaMe9Rr34HjL4GKgH7-QoEqxp-A=/0x0/filters:format(webp):quality(65)/com.tr/data/61/40875/0.jpg?t=1792467629",
+            "https://eu.kimbicdn.com/thumbor/EAnB3DciAZ-mAHPtUt9YlJxI9oI=/0x0/filters:format(webp):quality(65)/com.tr/data/61/40875/1.jpg?t=1792467629",
+            "https://eu.kimbicdn.com/thumbor/tKPPslIgbBmCtkeub9KOUhLBGW4=/0x0/filters:format(webp):quality(65)/com.tr/data/61/40875/2.jpg?t=1792467629"
+          ],
+          "source_url": "https://www.kimbino.com.tr/furpa/furpa-indirim-salidan-itibaren-13-10-2026-6040875/",
+          "source_date_label": "furpa-indirim-salidan-itibaren-13-10-2026-6040875",
+          "verified": true,
+          "category": "supermarket",
+          "last_seen": "2026-10-20",
+          "via": "kimbino"
+        },
+        {
+          "id": "furpa_9eb8a6cf9fd1a5aa",
+          "title": "Furpa - Kasa Fırsatları - 19 - 25 Ekim 2026",
+          "valid_from": "2026-10-19",
+          "valid_until": "",
+          "page_count": 3,
+          "pages": [
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/furpa/furpa_9eb8a6cf9fd1a5aa_1.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/furpa/furpa_9eb8a6cf9fd1a5aa_2.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/furpa/furpa_9eb8a6cf9fd1a5aa_3.webp"
+          ],
+          "source_pages": [
+            "https://eu.kimbicdn.com/thumbor/6Dn1bVfFFGLr_L9lY4XUdu-VmFQ=/0x0/filters:format(webp):quality(65)/com.tr/data/61/40848/0.jpg?t=1792383957",
+            "https://eu.kimbicdn.com/thumbor/SOx3Fjs7vBMtHakogUCqXLH_Cgs=/0x0/filters:format(webp):quality(65)/com.tr/data/61/40848/1.jpg?t=1792383957",
+            "https://eu.kimbicdn.com/thumbor/K1fFCIouy2cuzKGW7VMMfDicRFw=/0x0/filters:format(webp):quality(65)/com.tr/data/61/40848/2.jpg?t=1792383957"
+          ],
+          "source_url": "https://www.kimbino.com.tr/furpa/furpa-kasa-firsatlari-pazartesinden-itibaren-19-10-2026-6040848/",
+          "source_date_label": "furpa-kasa-firsatlari-pazartesinden-itibaren-19-10-2026-6040848",
+          "verified": true,
+          "category": "supermarket",
+          "last_seen": "2026-10-19",
+          "via": "kimbino"
+        },
+        {
+          "id": "furpa_ce26b1cacf871bf0",
+          "title": "Furpa - Ayın Ürünleri - 01 - 31 Ekim 2026",
+          "valid_from": "2026-10-19",
+          "valid_until": "",
+          "page_count": 4,
+          "pages": [
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/furpa/furpa_ce26b1cacf871bf0_1.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/furpa/furpa_ce26b1cacf871bf0_2.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/furpa/furpa_ce26b1cacf871bf0_3.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/furpa/furpa_ce26b1cacf871bf0_4.webp"
+          ],
+          "source_pages": [
+            "https://eu.kimbicdn.com/thumbor/QJ6VM1dlJBhYMa6auaShyc-k7PA=/0x0/filters:format(webp):quality(65)/com.tr/data/61/40395/0.jpg?t=1791177785",
+            "https://eu.kimbicdn.com/thumbor/kBtdX9jCakgE89m6TiJlzosOXnM=/0x0/filters:format(webp):quality(65)/com.tr/data/61/40395/1.jpg?t=1791177785",
+            "https://eu.kimbicdn.com/thumbor/BjFPaOyAzvywqPV5cgrtqv1bAFU=/0x0/filters:format(webp):quality(65)/com.tr/data/61/40395/2.jpg?t=1791177785",
+            "https://eu.kimbicdn.com/thumbor/dV8mBlZteD030osp2axOCwsY7jc=/0x0/filters:format(webp):quality(65)/com.tr/data/61/40395/3.jpg?t=1791177785"
+          ],
+          "source_url": "https://www.kimbino.com.tr/furpa/furpa-ayin-urunleri-persembeden-itibaren-01-10-2026-6040395/",
+          "source_date_label": "furpa-ayin-urunleri-persembeden-itibaren-01-10-2026-6040395",
+          "verified": true,
+          "category": "supermarket",
+          "last_seen": "2026-10-19",
+          "via": "kimbino"
+        },
+        {
           "id": "furpa_1ae1382a41b8ce33",
           "title": "Furpa - Kasa Fırsatları - 12 - 18 Ekim 2026",
           "valid_from": "2026-10-14",
@@ -2452,7 +3338,7 @@
     "a101": {
       "status": "ok",
       "catalogs": 2,
-      "pages": 28
+      "pages": 23
     },
     "migros": {
       "status": "ok",
@@ -2466,8 +3352,8 @@
     },
     "metro": {
       "status": "ok",
-      "catalogs": 3,
-      "pages": 52
+      "catalogs": 1,
+      "pages": 2
     },
     "bizim": {
       "status": "ok",
@@ -2477,7 +3363,7 @@
     "ozdilek": {
       "status": "ok",
       "catalogs": 1,
-      "pages": 17
+      "pages": 25
     },
     "rossmann": {
       "status": "ok",
@@ -2502,7 +3388,7 @@
     "hakmar": {
       "status": "ok",
       "catalogs": 2,
-      "pages": 16
+      "pages": 3
     },
     "bauhaus": {
       "status": "ok",
@@ -2517,12 +3403,12 @@
     "onur": {
       "status": "ok",
       "catalogs": 2,
-      "pages": 23
+      "pages": 8
     },
     "happy": {
       "status": "ok",
       "catalogs": 2,
-      "pages": 10
+      "pages": 6
     },
     "file": {
       "status": "ok",
@@ -2532,12 +3418,12 @@
     "kim": {
       "status": "ok",
       "catalogs": 2,
-      "pages": 5
+      "pages": 22
     },
     "mopas": {
       "status": "ok",
       "catalogs": 2,
-      "pages": 8
+      "pages": 10
     },
     "sec": {
       "status": "ok",
@@ -2551,13 +3437,13 @@
     },
     "show": {
       "status": "ok",
-      "catalogs": 1,
-      "pages": 6
+      "catalogs": 2,
+      "pages": 10
     },
     "cagri": {
       "status": "ok",
-      "catalogs": 1,
-      "pages": 4
+      "catalogs": 2,
+      "pages": 17
     },
     "grosper": {
       "status": "ok",
@@ -2572,9 +3458,9 @@
     "furpa": {
       "status": "ok",
       "catalogs": 2,
-      "pages": 5
+      "pages": 6
     }
   },
-  "total_catalogs": 63,
+  "total_catalogs": 84,
   "market_count": 27
 }
