@@ -1,7 +1,90 @@
 {
-  "version": "3.1.0",
-  "last_updated": "2026-10-20T19:05:13.867485+00:00",
+  "version": "3.0.0",
+  "last_updated": "2026-10-21T05:25:45.356956+00:00",
   "markets": [
+    {
+      "id": "sok",
+      "name": "ŞOK",
+      "badge_color": "#FFC107",
+      "category": "supermarket",
+      "logo_url": "",
+      "catalogs": [
+        {
+          "id": "sok_2016b0d490ffbf0a",
+          "title": "ŞOK Haftanın Fırsatları 14 - 20 Ekim 2026",
+          "valid_from": "2026-10-14",
+          "valid_until": "2026-10-20",
+          "page_count": 8,
+          "pages": [
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/sok/sok_2016b0d490ffbf0a_1.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/sok/sok_2016b0d490ffbf0a_2.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/sok/sok_2016b0d490ffbf0a_3.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/sok/sok_2016b0d490ffbf0a_4.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/sok/sok_2016b0d490ffbf0a_5.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/sok/sok_2016b0d490ffbf0a_6.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/sok/sok_2016b0d490ffbf0a_7.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/sok/sok_2016b0d490ffbf0a_8.webp"
+          ],
+          "source_pages": [
+            "https://kurumsal.sokmarket.com.tr/uploads/pdf/mv4z9zfx-14-20ekim.pdf"
+          ],
+          "source_url": "https://kurumsal.sokmarket.com.tr/tr/firsatlar",
+          "source_date_label": "14 - 20 Ekim 2026",
+          "verified": true,
+          "category": "supermarket",
+          "last_seen": "2026-10-21",
+          "source_pdf": "https://kurumsal.sokmarket.com.tr/uploads/pdf/mv4z9zfx-14-20ekim.pdf"
+        },
+        {
+          "id": "sok_4846fe776f8d8b55",
+          "title": "ŞOK Hafta Sonu Fırsatları 10 - 13 Ekim 2026",
+          "valid_from": "2026-10-10",
+          "valid_until": "2026-10-13",
+          "page_count": 4,
+          "pages": [
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/sok/sok_4846fe776f8d8b55_1.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/sok/sok_4846fe776f8d8b55_2.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/sok/sok_4846fe776f8d8b55_3.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/sok/sok_4846fe776f8d8b55_4.webp"
+          ],
+          "source_pages": [
+            "https://kurumsal.sokmarket.com.tr/uploads/pdf/mv0lvk19-10-13_Ekim.pdf"
+          ],
+          "source_url": "https://kurumsal.sokmarket.com.tr/tr/firsatlar",
+          "source_date_label": "10 - 13 Ekim 2026",
+          "verified": true,
+          "category": "supermarket",
+          "last_seen": "2026-10-21",
+          "source_pdf": "https://kurumsal.sokmarket.com.tr/uploads/pdf/mv0lvk19-10-13_Ekim.pdf"
+        },
+        {
+          "id": "sok_c0fa28c6e16af624",
+          "title": "ŞOK Haftanın Fırsatları 7 - 13 Ekim 2026",
+          "valid_from": "2026-10-07",
+          "valid_until": "2026-10-13",
+          "page_count": 8,
+          "pages": [
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/sok/sok_c0fa28c6e16af624_1.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/sok/sok_c0fa28c6e16af624_2.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/sok/sok_c0fa28c6e16af624_3.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/sok/sok_c0fa28c6e16af624_4.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/sok/sok_c0fa28c6e16af624_5.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/sok/sok_c0fa28c6e16af624_6.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/sok/sok_c0fa28c6e16af624_7.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/sok/sok_c0fa28c6e16af624_8.webp"
+          ],
+          "source_pages": [
+            "https://kurumsal.sokmarket.com.tr/uploads/pdf/mv0lt575-7-13_ekim.pdf"
+          ],
+          "source_url": "https://kurumsal.sokmarket.com.tr/tr/firsatlar",
+          "source_date_label": "7 - 13 Ekim 2026",
+          "verified": true,
+          "category": "supermarket",
+          "last_seen": "2026-10-13",
+          "source_pdf": "https://kurumsal.sokmarket.com.tr/uploads/pdf/mv0lt575-7-13_ekim.pdf"
+        }
+      ]
+    },
     {
       "id": "bim",
       "name": "BİM",
@@ -402,63 +485,6 @@
           "category": "supermarket",
           "last_seen": "2026-10-11",
           "status": "archive"
-        }
-      ]
-    },
-    {
-      "id": "sok",
-      "name": "ŞOK",
-      "badge_color": "#FFC107",
-      "category": "supermarket",
-      "logo_url": "",
-      "catalogs": [
-        {
-          "id": "sok_c0fa28c6e16af624",
-          "title": "ŞOK Haftanın Fırsatları 7 - 13 Ekim 2026",
-          "valid_from": "2026-10-07",
-          "valid_until": "2026-10-13",
-          "page_count": 8,
-          "pages": [
-            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/sok/sok_c0fa28c6e16af624_1.webp",
-            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/sok/sok_c0fa28c6e16af624_2.webp",
-            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/sok/sok_c0fa28c6e16af624_3.webp",
-            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/sok/sok_c0fa28c6e16af624_4.webp",
-            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/sok/sok_c0fa28c6e16af624_5.webp",
-            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/sok/sok_c0fa28c6e16af624_6.webp",
-            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/sok/sok_c0fa28c6e16af624_7.webp",
-            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/sok/sok_c0fa28c6e16af624_8.webp"
-          ],
-          "source_pages": [
-            "https://kurumsal.sokmarket.com.tr/uploads/pdf/mv0lt575-7-13_ekim.pdf"
-          ],
-          "source_url": "https://kurumsal.sokmarket.com.tr/tr/firsatlar",
-          "source_date_label": "7 - 13 Ekim 2026",
-          "verified": true,
-          "category": "supermarket",
-          "last_seen": "2026-10-13",
-          "source_pdf": "https://kurumsal.sokmarket.com.tr/uploads/pdf/mv0lt575-7-13_ekim.pdf"
-        },
-        {
-          "id": "sok_4846fe776f8d8b55",
-          "title": "ŞOK Hafta Sonu Fırsatları 10 - 13 Ekim 2026",
-          "valid_from": "2026-10-10",
-          "valid_until": "2026-10-13",
-          "page_count": 4,
-          "pages": [
-            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/sok/sok_4846fe776f8d8b55_1.webp",
-            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/sok/sok_4846fe776f8d8b55_2.webp",
-            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/sok/sok_4846fe776f8d8b55_3.webp",
-            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/sok/sok_4846fe776f8d8b55_4.webp"
-          ],
-          "source_pages": [
-            "https://kurumsal.sokmarket.com.tr/uploads/pdf/mv0lvk19-10-13_Ekim.pdf"
-          ],
-          "source_url": "https://kurumsal.sokmarket.com.tr/tr/firsatlar",
-          "source_date_label": "10 - 13 Ekim 2026",
-          "verified": true,
-          "category": "supermarket",
-          "last_seen": "2026-10-13",
-          "source_pdf": "https://kurumsal.sokmarket.com.tr/uploads/pdf/mv0lvk19-10-13_Ekim.pdf"
         }
       ]
     },
@@ -3326,9 +3352,8 @@
   ],
   "source_status": {
     "bim": {
-      "status": "ok",
-      "catalogs": 11,
-      "pages": 28
+      "status": "error",
+      "error": "Unrecognized source date: ÇOK AL AZ ÖDE"
     },
     "sok": {
       "status": "ok",
@@ -3336,131 +3361,10 @@
       "pages": 12
     },
     "a101": {
-      "status": "ok",
-      "catalogs": 2,
-      "pages": 23
-    },
-    "migros": {
-      "status": "ok",
-      "catalogs": 1,
-      "pages": 142
-    },
-    "watsons": {
-      "status": "ok",
-      "catalogs": 1,
-      "pages": 53
-    },
-    "metro": {
-      "status": "ok",
-      "catalogs": 1,
-      "pages": 2
-    },
-    "bizim": {
-      "status": "ok",
-      "catalogs": 1,
-      "pages": 5
-    },
-    "ozdilek": {
-      "status": "ok",
-      "catalogs": 1,
-      "pages": 25
-    },
-    "rossmann": {
-      "status": "ok",
-      "catalogs": 6,
-      "pages": 150
-    },
-    "gratis": {
-      "status": "ok",
-      "catalogs": 1,
-      "pages": 38
-    },
-    "anpa": {
-      "status": "ok",
-      "catalogs": 1,
-      "pages": 18
-    },
-    "carrefoursa": {
-      "status": "ok",
-      "catalogs": 1,
-      "pages": 16
-    },
-    "hakmar": {
-      "status": "ok",
-      "catalogs": 2,
-      "pages": 3
-    },
-    "bauhaus": {
-      "status": "ok",
-      "catalogs": 1,
-      "pages": 28
-    },
-    "ikea": {
-      "status": "ok",
-      "catalogs": 1,
-      "pages": 6
-    },
-    "onur": {
-      "status": "ok",
-      "catalogs": 2,
-      "pages": 8
-    },
-    "happy": {
-      "status": "ok",
-      "catalogs": 2,
-      "pages": 6
-    },
-    "file": {
-      "status": "ok",
-      "catalogs": 2,
-      "pages": 13
-    },
-    "kim": {
-      "status": "ok",
-      "catalogs": 2,
-      "pages": 22
-    },
-    "mopas": {
-      "status": "ok",
-      "catalogs": 2,
-      "pages": 10
-    },
-    "sec": {
-      "status": "ok",
-      "catalogs": 1,
-      "pages": 2
-    },
-    "seyhanlar": {
-      "status": "ok",
-      "catalogs": 1,
-      "pages": 2
-    },
-    "show": {
-      "status": "ok",
-      "catalogs": 2,
-      "pages": 10
-    },
-    "cagri": {
-      "status": "ok",
-      "catalogs": 2,
-      "pages": 17
-    },
-    "grosper": {
-      "status": "ok",
-      "catalogs": 1,
-      "pages": 8
-    },
-    "ozkurular": {
-      "status": "ok",
-      "catalogs": 2,
-      "pages": 13
-    },
-    "furpa": {
-      "status": "ok",
-      "catalogs": 2,
-      "pages": 6
+      "status": "error",
+      "error": "403 Client Error: Forbidden for url: https://www.a101.com.tr/"
     }
   },
-  "total_catalogs": 84,
+  "total_catalogs": 85,
   "market_count": 27
 }
