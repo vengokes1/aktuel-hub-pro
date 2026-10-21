@@ -1,6 +1,6 @@
 {
-  "version": "3.0.0",
-  "last_updated": "2026-10-21T05:25:45.356956+00:00",
+  "version": "3.1.0",
+  "last_updated": "2026-10-21T19:15:56.840822+00:00",
   "markets": [
     {
       "id": "sok",
@@ -1314,6 +1314,28 @@
       "logo_url": "",
       "catalogs": [
         {
+          "id": "bizim_060d10036533253b",
+          "title": "Bizim Toptan Haftalık Katalog",
+          "valid_from": "2026-10-21",
+          "valid_until": "",
+          "page_count": 5,
+          "pages": [
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/bizim/bizim_060d10036533253b_1.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/bizim/bizim_060d10036533253b_2.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/bizim/bizim_060d10036533253b_3.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/bizim/bizim_060d10036533253b_4.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/bizim/bizim_060d10036533253b_5.webp"
+          ],
+          "source_pages": [
+            "https://cdnm.heyzine.com/files/uploaded/v3/f7d10044c68f888ba0a5f11f7c40abcb4ce1adac-149.pdf"
+          ],
+          "source_url": "https://www.bizimtoptan.com.tr/pages/katalog",
+          "source_date_label": "2026-10-21",
+          "verified": true,
+          "category": "wholesale",
+          "last_seen": "2026-10-21"
+        },
+        {
           "id": "bizim_4c7d992ebbfca4bb",
           "title": "Bizim Toptan Haftalık Katalog",
           "valid_from": "2026-10-14",
@@ -2424,6 +2446,25 @@
       "logo_url": "",
       "catalogs": [
         {
+          "id": "happy_ed2e3dda0b53826a",
+          "title": "Happy Center Katalog (21 - 21 Ekim 2026) - Indirim",
+          "valid_from": "2026-10-21",
+          "valid_until": "",
+          "page_count": 1,
+          "pages": [
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/happy/happy_ed2e3dda0b53826a_1.webp"
+          ],
+          "source_pages": [
+            "https://eu.kimbicdn.com/thumbor/eKFymO1BVEXJFI7kO1ubA7EhQ9U=/0x0/filters:format(webp):quality(65)/com.tr/data/47/40896/0.jpg?t=1792552119"
+          ],
+          "source_url": "https://www.kimbino.com.tr/happy-center/happy-center-manav-carsambadan-itibaren-21-10-2026-6040896/",
+          "source_date_label": "happy-center-manav-carsambadan-itibaren-21-10-2026-6040896",
+          "verified": true,
+          "category": "supermarket",
+          "last_seen": "2026-10-21",
+          "via": "kimbino"
+        },
+        {
           "id": "happy_70f8cfcb2bfca8c9",
           "title": "Happy Center Katalog (21 - 31 Ekim 2026) - Indirim",
           "valid_from": "2026-10-20",
@@ -3020,6 +3061,27 @@
       "logo_url": "",
       "catalogs": [
         {
+          "id": "cagri_27b9ff0d9d168259",
+          "title": "Çağrı Market - Manav Katalog - 21 - 25 Ekim 2026",
+          "valid_from": "2026-10-21",
+          "valid_until": "",
+          "page_count": 2,
+          "pages": [
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/cagri/cagri_27b9ff0d9d168259_1.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/cagri/cagri_27b9ff0d9d168259_2.webp"
+          ],
+          "source_pages": [
+            "https://eu.kimbicdn.com/thumbor/a8QIW98UUPZcqMNqqam5dqs5mkw=/0x0/filters:format(webp):quality(65)/com.tr/data/34/40902/0.jpg",
+            "https://eu.kimbicdn.com/thumbor/WqDr-PSR6NgGo_Jsmq1bh6AColI=/0x0/filters:format(webp):quality(65)/com.tr/data/34/40902/1.jpg"
+          ],
+          "source_url": "https://www.kimbino.com.tr/cagri-market/cagri-market-manav-katalog-carsambadan-itibaren-21-10-2026-6040902/",
+          "source_date_label": "cagri-market-manav-katalog-carsambadan-itibaren-21-10-2026-6040902",
+          "verified": true,
+          "category": "supermarket",
+          "last_seen": "2026-10-21",
+          "via": "kimbino"
+        },
+        {
           "id": "cagri_88eef2a39b57bd09",
           "title": "Çağrı Market - 5 Günlük Dev İndirim - 21 - 25 Ekim 2026",
           "valid_from": "2026-10-20",
@@ -3361,10 +3423,129 @@
       "pages": 12
     },
     "a101": {
-      "status": "error",
-      "error": "403 Client Error: Forbidden for url: https://www.a101.com.tr/"
+      "status": "ok",
+      "catalogs": 2,
+      "pages": 23
+    },
+    "migros": {
+      "status": "empty"
+    },
+    "metro": {
+      "status": "ok",
+      "catalogs": 1,
+      "pages": 2
+    },
+    "carrefoursa": {
+      "status": "ok",
+      "catalogs": 1,
+      "pages": 16
+    },
+    "watsons": {
+      "status": "ok",
+      "catalogs": 1,
+      "pages": 53
+    },
+    "gratis": {
+      "status": "ok",
+      "catalogs": 1,
+      "pages": 38
+    },
+    "rossmann": {
+      "status": "ok",
+      "catalogs": 6,
+      "pages": 150
+    },
+    "bizim": {
+      "status": "ok",
+      "catalogs": 1,
+      "pages": 5
+    },
+    "ozdilek": {
+      "status": "ok",
+      "catalogs": 1,
+      "pages": 25
+    },
+    "anpa": {
+      "status": "ok",
+      "catalogs": 1,
+      "pages": 18
+    },
+    "hakmar": {
+      "status": "ok",
+      "catalogs": 2,
+      "pages": 3
+    },
+    "bauhaus": {
+      "status": "ok",
+      "catalogs": 1,
+      "pages": 28
+    },
+    "ikea": {
+      "status": "ok",
+      "catalogs": 1,
+      "pages": 6
+    },
+    "onur": {
+      "status": "ok",
+      "catalogs": 2,
+      "pages": 8
+    },
+    "happy": {
+      "status": "ok",
+      "catalogs": 2,
+      "pages": 6
+    },
+    "file": {
+      "status": "ok",
+      "catalogs": 2,
+      "pages": 13
+    },
+    "kim": {
+      "status": "ok",
+      "catalogs": 2,
+      "pages": 22
+    },
+    "mopas": {
+      "status": "ok",
+      "catalogs": 2,
+      "pages": 10
+    },
+    "sec": {
+      "status": "ok",
+      "catalogs": 1,
+      "pages": 2
+    },
+    "seyhanlar": {
+      "status": "ok",
+      "catalogs": 1,
+      "pages": 2
+    },
+    "show": {
+      "status": "ok",
+      "catalogs": 2,
+      "pages": 10
+    },
+    "cagri": {
+      "status": "ok",
+      "catalogs": 2,
+      "pages": 3
+    },
+    "grosper": {
+      "status": "ok",
+      "catalogs": 1,
+      "pages": 8
+    },
+    "ozkurular": {
+      "status": "ok",
+      "catalogs": 2,
+      "pages": 13
+    },
+    "furpa": {
+      "status": "ok",
+      "catalogs": 2,
+      "pages": 6
     }
   },
-  "total_catalogs": 85,
+  "total_catalogs": 88,
   "market_count": 27
 }
