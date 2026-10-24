@@ -1,6 +1,6 @@
 {
   "version": "3.1.0",
-  "last_updated": "2026-10-21T19:15:56.840822+00:00",
+  "last_updated": "2026-10-24T18:15:53.171518+00:00",
   "markets": [
     {
       "id": "sok",
@@ -9,6 +9,54 @@
       "category": "supermarket",
       "logo_url": "",
       "catalogs": [
+        {
+          "id": "sok_f6c4ab6436fce5ec",
+          "title": "ŞOK Haftanın Fırsatları 21 - 27 Ekim 2026",
+          "valid_from": "2026-10-21",
+          "valid_until": "2026-10-27",
+          "page_count": 8,
+          "pages": [
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/sok/sok_f6c4ab6436fce5ec_1.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/sok/sok_f6c4ab6436fce5ec_2.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/sok/sok_f6c4ab6436fce5ec_3.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/sok/sok_f6c4ab6436fce5ec_4.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/sok/sok_f6c4ab6436fce5ec_5.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/sok/sok_f6c4ab6436fce5ec_6.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/sok/sok_f6c4ab6436fce5ec_7.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/sok/sok_f6c4ab6436fce5ec_8.webp"
+          ],
+          "source_pages": [
+            "https://kurumsal.sokmarket.com.tr/uploads/pdf/mvi8bc55-21-27ekimhaftaninfirsatlari.pdf"
+          ],
+          "source_url": "https://kurumsal.sokmarket.com.tr/tr/firsatlar",
+          "source_date_label": "21 - 27 Ekim 2026",
+          "verified": true,
+          "category": "supermarket",
+          "last_seen": "2026-10-24",
+          "source_pdf": "https://kurumsal.sokmarket.com.tr/uploads/pdf/mvi8bc55-21-27ekimhaftaninfirsatlari.pdf"
+        },
+        {
+          "id": "sok_dec32ad2deb20b29",
+          "title": "ŞOK Hafta Sonu Fırsatları 24 - 27 Ekim 2026",
+          "valid_from": "2026-10-24",
+          "valid_until": "2026-10-27",
+          "page_count": 4,
+          "pages": [
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/sok/sok_dec32ad2deb20b29_1.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/sok/sok_dec32ad2deb20b29_2.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/sok/sok_dec32ad2deb20b29_3.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/sok/sok_dec32ad2deb20b29_4.webp"
+          ],
+          "source_pages": [
+            "https://kurumsal.sokmarket.com.tr/uploads/pdf/mvi6kke9-24-27haftasonufirsatlari.pdf"
+          ],
+          "source_url": "https://kurumsal.sokmarket.com.tr/tr/firsatlar",
+          "source_date_label": "24 - 27 Ekim 2026",
+          "verified": true,
+          "category": "supermarket",
+          "last_seen": "2026-10-24",
+          "source_pdf": "https://kurumsal.sokmarket.com.tr/uploads/pdf/mvi6kke9-24-27haftasonufirsatlari.pdf"
+        },
         {
           "id": "sok_2016b0d490ffbf0a",
           "title": "ŞOK Haftanın Fırsatları 14 - 20 Ekim 2026",
@@ -2072,6 +2120,25 @@
       "logo_url": "",
       "catalogs": [
         {
+          "id": "hakmar_e434be1397c1ec5b",
+          "title": "Hakmar - Katalog Sadece 3 Gün - 23 - 25 Ekim 2026",
+          "valid_from": "2026-10-24",
+          "valid_until": "",
+          "page_count": 1,
+          "pages": [
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/hakmar/hakmar_e434be1397c1ec5b_1.webp"
+          ],
+          "source_pages": [
+            "https://eu.kimbicdn.com/thumbor/ejG3ExFjhc54sdtqZdf-7chyylw=/0x0/filters:format(webp):quality(65)/com.tr/data/53/40932/0.jpg"
+          ],
+          "source_url": "https://www.kimbino.com.tr/hakmar/hakmar-katalog-sadece-3-gun-cumadan-itibaren-23-10-2026-6040932/",
+          "source_date_label": "hakmar-katalog-sadece-3-gun-cumadan-itibaren-23-10-2026-6040932",
+          "verified": true,
+          "category": "supermarket",
+          "last_seen": "2026-10-24",
+          "via": "kimbino"
+        },
+        {
           "id": "hakmar_bcdc1a97ceffe594",
           "title": "Hakmar Katalog - 20 - 28 Ekim 2026",
           "valid_from": "2026-10-19",
@@ -2306,6 +2373,56 @@
       "category": "supermarket",
       "logo_url": "",
       "catalogs": [
+        {
+          "id": "onur_9798ae7941c28daf",
+          "title": "Onur Market - Taze Ürünlerde İndirimler Trakya (22 Ekim 2026) - Indirim, insert",
+          "valid_from": "2026-10-24",
+          "valid_until": "",
+          "page_count": 4,
+          "pages": [
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/onur/onur_9798ae7941c28daf_1.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/onur/onur_9798ae7941c28daf_2.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/onur/onur_9798ae7941c28daf_3.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/onur/onur_9798ae7941c28daf_4.webp"
+          ],
+          "source_pages": [
+            "https://eu.kimbicdn.com/thumbor/RSyRDFLWFmyMv0V6_UmN06L4HJ4=/0x0/filters:format(webp):quality(65)/com.tr/data/35/40929/0.jpg",
+            "https://eu.kimbicdn.com/thumbor/nalsbIJNk3UhOxeObJ0-lE-qV7A=/0x0/filters:format(webp):quality(65)/com.tr/data/35/40929/1.jpg",
+            "https://eu.kimbicdn.com/thumbor/Z730-wbMrG1ikBRPGgZPWTEhRSk=/0x0/filters:format(webp):quality(65)/com.tr/data/35/40929/2.jpg",
+            "https://eu.kimbicdn.com/thumbor/h0eSUbcNjztsli-f1OZnB1p4dHg=/0x0/filters:format(webp):quality(65)/com.tr/data/35/40929/3.jpg"
+          ],
+          "source_url": "https://www.kimbino.com.tr/onur-market/onur-market-taze-urunlerde-indirimler-trakya-persembeden-itibaren-22-10-2026-6040929/",
+          "source_date_label": "onur-market-taze-urunlerde-indirimler-trakya-persembeden-itibaren-22-10-2026-6040929",
+          "verified": true,
+          "category": "supermarket",
+          "last_seen": "2026-10-24",
+          "via": "kimbino"
+        },
+        {
+          "id": "onur_973009cbe02631cb",
+          "title": "Onur Market - Taze Ürünlerde İndirimler Bursa (22 Ekim 2026) - Indirim, insert",
+          "valid_from": "2026-10-24",
+          "valid_until": "",
+          "page_count": 4,
+          "pages": [
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/onur/onur_973009cbe02631cb_1.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/onur/onur_973009cbe02631cb_2.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/onur/onur_973009cbe02631cb_3.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/onur/onur_973009cbe02631cb_4.webp"
+          ],
+          "source_pages": [
+            "https://eu.kimbicdn.com/thumbor/CjfHgCWOEbeY2nP22DZ9mHEewKk=/0x0/filters:format(webp):quality(65)/com.tr/data/35/40926/0.jpg",
+            "https://eu.kimbicdn.com/thumbor/Ss7yoqHxf40DTpw60Zpqyj4GCs0=/0x0/filters:format(webp):quality(65)/com.tr/data/35/40926/1.jpg",
+            "https://eu.kimbicdn.com/thumbor/tt-M_3-iLjKO3NaktLtOk_g8eRw=/0x0/filters:format(webp):quality(65)/com.tr/data/35/40926/2.jpg",
+            "https://eu.kimbicdn.com/thumbor/FT870IK9PFzMdwHZS5h-cm5JauU=/0x0/filters:format(webp):quality(65)/com.tr/data/35/40926/3.jpg"
+          ],
+          "source_url": "https://www.kimbino.com.tr/onur-market/onur-market-taze-urunlerde-indirimler-bursa-persembeden-itibaren-22-10-2026-6040926/",
+          "source_date_label": "onur-market-taze-urunlerde-indirimler-bursa-persembeden-itibaren-22-10-2026-6040926",
+          "verified": true,
+          "category": "supermarket",
+          "last_seen": "2026-10-24",
+          "via": "kimbino"
+        },
         {
           "id": "onur_d854d37d76e4a173",
           "title": "Onur Market - Taze Ürünlerde İndirimler Trakya (15 Ekim 2026) - Indirim, insert",
@@ -2917,6 +3034,27 @@
       "logo_url": "",
       "catalogs": [
         {
+          "id": "sec_316d29e0442bbd3b",
+          "title": "Seç Market Katalog - 22 Ekim 2026 - 04 Kasım 2026",
+          "valid_from": "2026-10-24",
+          "valid_until": "",
+          "page_count": 2,
+          "pages": [
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/sec/sec_316d29e0442bbd3b_1.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/sec/sec_316d29e0442bbd3b_2.webp"
+          ],
+          "source_pages": [
+            "https://eu.kimbicdn.com/thumbor/kXUxAPA_0B8mozluNCVTYvarCw0=/0x0/filters:format(webp):quality(65)/com.tr/data/71/40935/0.jpg?t=1792646206",
+            "https://eu.kimbicdn.com/thumbor/d5YmDWICYIdwhsMzrqfqx_vX7ro=/0x0/filters:format(webp):quality(65)/com.tr/data/71/40935/1.jpg?t=1792646206"
+          ],
+          "source_url": "https://www.kimbino.com.tr/sec-market/sec-market-katalog-persembeden-itibaren-22-10-2026-6040935/",
+          "source_date_label": "sec-market-katalog-persembeden-itibaren-22-10-2026-6040935",
+          "verified": true,
+          "category": "supermarket",
+          "last_seen": "2026-10-24",
+          "via": "kimbino"
+        },
+        {
           "id": "sec_843b3650d7cd35fe",
           "title": "Seç Market Katalog - 08 - 21 Ekim 2026",
           "valid_from": "2026-10-14",
@@ -2997,6 +3135,64 @@
       "category": "supermarket",
       "logo_url": "",
       "catalogs": [
+        {
+          "id": "show_6879d74be7ae3f03",
+          "title": "Show Market Katalog - 23 Ekim 2026 - 05 Kasım 2026",
+          "valid_from": "2026-10-24",
+          "valid_until": "",
+          "page_count": 4,
+          "pages": [
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/show/show_6879d74be7ae3f03_1.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/show/show_6879d74be7ae3f03_2.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/show/show_6879d74be7ae3f03_3.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/show/show_6879d74be7ae3f03_4.webp"
+          ],
+          "source_pages": [
+            "https://eu.kimbicdn.com/thumbor/zpUJdd6n6aR96EbHwHz-iy1tTaM=/0x0/filters:format(webp):quality(65)/com.tr/data/74/40950/0.jpg?t=1792727364",
+            "https://eu.kimbicdn.com/thumbor/7SW69-LfgmBDuxtom0xIXsqHvQM=/0x0/filters:format(webp):quality(65)/com.tr/data/74/40950/1.jpg?t=1792727364",
+            "https://eu.kimbicdn.com/thumbor/j3pnnv8i08freHBTM03-m9oPoZ0=/0x0/filters:format(webp):quality(65)/com.tr/data/74/40950/2.jpg?t=1792727364",
+            "https://eu.kimbicdn.com/thumbor/XG_fxAeAH6jD1p4rCjoQ4qByXgM=/0x0/filters:format(webp):quality(65)/com.tr/data/74/40950/3.jpg?t=1792727364"
+          ],
+          "source_url": "https://www.kimbino.com.tr/show-market/show-market-katalog-cumadan-itibaren-23-10-2026-6040950/",
+          "source_date_label": "show-market-katalog-cumadan-itibaren-23-10-2026-6040950",
+          "verified": true,
+          "category": "supermarket",
+          "last_seen": "2026-10-24",
+          "via": "kimbino"
+        },
+        {
+          "id": "show_d273250cca6fbdbe",
+          "title": "Show Market Manav - 23 - 25 Ekim 2026",
+          "valid_from": "2026-10-24",
+          "valid_until": "",
+          "page_count": 8,
+          "pages": [
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/show/show_d273250cca6fbdbe_1.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/show/show_d273250cca6fbdbe_2.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/show/show_d273250cca6fbdbe_3.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/show/show_d273250cca6fbdbe_4.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/show/show_d273250cca6fbdbe_5.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/show/show_d273250cca6fbdbe_6.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/show/show_d273250cca6fbdbe_7.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/show/show_d273250cca6fbdbe_8.webp"
+          ],
+          "source_pages": [
+            "https://eu.kimbicdn.com/thumbor/Sf3uPxNCwOStgwr6VmUXaBYAoY8=/0x0/filters:format(webp):quality(65)/com.tr/data/74/40956/0.jpg?t=1792727619",
+            "https://eu.kimbicdn.com/thumbor/RR5FuC_ojEhtE54HPsk0Oizrmr8=/0x0/filters:format(webp):quality(65)/com.tr/data/74/40956/1.jpg?t=1792727619",
+            "https://eu.kimbicdn.com/thumbor/e74JNP9EhGuElC077DBNBXlhFTM=/0x0/filters:format(webp):quality(65)/com.tr/data/74/40956/2.jpg?t=1792727619",
+            "https://eu.kimbicdn.com/thumbor/4IFlW8_ch9QTMDeJLZBJkk45ls8=/0x0/filters:format(webp):quality(65)/com.tr/data/74/40956/3.jpg?t=1792727619",
+            "https://eu.kimbicdn.com/thumbor/dXs3_Jp7NGBRnHuz-ijONw3czuA=/0x0/filters:format(webp):quality(65)/com.tr/data/74/40956/4.jpg?t=1792727619",
+            "https://eu.kimbicdn.com/thumbor/Kw75VUh1IDsJhbFYPN5dBhYmkdU=/0x0/filters:format(webp):quality(65)/com.tr/data/74/40956/5.jpg?t=1792727619",
+            "https://eu.kimbicdn.com/thumbor/H04BwOB_JOL5HKHNRkiNAUV_cyk=/0x0/filters:format(webp):quality(65)/com.tr/data/74/40956/6.jpg?t=1792727619",
+            "https://eu.kimbicdn.com/thumbor/ykHHh57nWQhqoARROX4C2r2w1zE=/0x0/filters:format(webp):quality(65)/com.tr/data/74/40956/7.jpg?t=1792727619"
+          ],
+          "source_url": "https://www.kimbino.com.tr/show-market/show-market-manav-cumadan-itibaren-23-10-2026-6040956/",
+          "source_date_label": "show-market-manav-cumadan-itibaren-23-10-2026-6040956",
+          "verified": true,
+          "category": "supermarket",
+          "last_seen": "2026-10-24",
+          "via": "kimbino"
+        },
         {
           "id": "show_00d773434ae6e321",
           "title": "Show Market Katalog - 09 - 22 Ekim 2026",
@@ -3226,6 +3422,33 @@
       "logo_url": "",
       "catalogs": [
         {
+          "id": "ozkurular_23f940d8103d80bd",
+          "title": "Özkuruşlar Katalog - 23 - 31 Ekim 2026",
+          "valid_from": "2026-10-24",
+          "valid_until": "",
+          "page_count": 5,
+          "pages": [
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ozkurular/ozkurular_23f940d8103d80bd_1.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ozkurular/ozkurular_23f940d8103d80bd_2.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ozkurular/ozkurular_23f940d8103d80bd_3.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ozkurular/ozkurular_23f940d8103d80bd_4.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ozkurular/ozkurular_23f940d8103d80bd_5.webp"
+          ],
+          "source_pages": [
+            "https://eu.kimbicdn.com/thumbor/62tse2APcUUIO8EOqKv86_ydu_c=/0x0/filters:format(webp):quality(65)/com.tr/data/52/40965/0.jpg?t=1792729355",
+            "https://eu.kimbicdn.com/thumbor/clK0iZoIGus2A-85VF3UekoRPZI=/0x0/filters:format(webp):quality(65)/com.tr/data/52/40965/1.jpg?t=1792729355",
+            "https://eu.kimbicdn.com/thumbor/TCYqiB8C6KNsouH2TXWFVbvmYfc=/0x0/filters:format(webp):quality(65)/com.tr/data/52/40965/2.jpg?t=1792729355",
+            "https://eu.kimbicdn.com/thumbor/gGOr2lalVXnL9I-wSJTvo0PHf5A=/0x0/filters:format(webp):quality(65)/com.tr/data/52/40965/3.jpg?t=1792729355",
+            "https://eu.kimbicdn.com/thumbor/fgnWecM-NRQ364IAkPpzW_6_Ui0=/0x0/filters:format(webp):quality(65)/com.tr/data/52/40965/4.jpg?t=1792729355"
+          ],
+          "source_url": "https://www.kimbino.com.tr/ozkurular/ozkuruslar-katalog-cumadan-itibaren-23-10-2026-6040965/",
+          "source_date_label": "ozkuruslar-katalog-cumadan-itibaren-23-10-2026-6040965",
+          "verified": true,
+          "category": "supermarket",
+          "last_seen": "2026-10-24",
+          "via": "kimbino"
+        },
+        {
           "id": "ozkurular_b7046c459e7541e6",
           "title": "Özkuruşlar Katalog - 14 - 24 Ekim 2026",
           "valid_from": "2026-10-14",
@@ -3425,7 +3648,7 @@
     "a101": {
       "status": "ok",
       "catalogs": 2,
-      "pages": 23
+      "pages": 26
     },
     "migros": {
       "status": "empty"
@@ -3523,7 +3746,7 @@
     "show": {
       "status": "ok",
       "catalogs": 2,
-      "pages": 10
+      "pages": 12
     },
     "cagri": {
       "status": "ok",
@@ -3538,7 +3761,7 @@
     "ozkurular": {
       "status": "ok",
       "catalogs": 2,
-      "pages": 13
+      "pages": 10
     },
     "furpa": {
       "status": "ok",
@@ -3546,6 +3769,6 @@
       "pages": 6
     }
   },
-  "total_catalogs": 88,
+  "total_catalogs": 97,
   "market_count": 27
 }
