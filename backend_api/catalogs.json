@@ -1,6 +1,6 @@
 {
   "version": "3.1.0",
-  "last_updated": "2026-10-24T18:15:53.171518+00:00",
+  "last_updated": "2026-10-25T20:17:39.083535+00:00",
   "markets": [
     {
       "id": "sok",
@@ -32,7 +32,7 @@
           "source_date_label": "21 - 27 Ekim 2026",
           "verified": true,
           "category": "supermarket",
-          "last_seen": "2026-10-24",
+          "last_seen": "2026-10-25",
           "source_pdf": "https://kurumsal.sokmarket.com.tr/uploads/pdf/mvi8bc55-21-27ekimhaftaninfirsatlari.pdf"
         },
         {
@@ -54,7 +54,7 @@
           "source_date_label": "24 - 27 Ekim 2026",
           "verified": true,
           "category": "supermarket",
-          "last_seen": "2026-10-24",
+          "last_seen": "2026-10-25",
           "source_pdf": "https://kurumsal.sokmarket.com.tr/uploads/pdf/mvi6kke9-24-27haftasonufirsatlari.pdf"
         },
         {
@@ -3655,8 +3655,8 @@
     },
     "metro": {
       "status": "ok",
-      "catalogs": 1,
-      "pages": 2
+      "catalogs": 3,
+      "pages": 46
     },
     "carrefoursa": {
       "status": "ok",
