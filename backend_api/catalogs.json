@@ -1,6 +1,6 @@
 {
   "version": "3.1.0",
-  "last_updated": "2026-10-30T17:54:08.020142+00:00",
+  "last_updated": "2026-10-31T19:21:37.352264+00:00",
   "markets": [
     {
       "id": "sok",
@@ -2992,6 +2992,25 @@
       "logo_url": "",
       "catalogs": [
         {
+          "id": "kim_61031db802b4f003",
+          "title": "Kim Market - Ayın Ürünü - 01 - 31 Ekim 2026",
+          "valid_from": "2026-10-31",
+          "valid_until": "",
+          "page_count": 1,
+          "pages": [
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/kim/kim_61031db802b4f003_1.webp"
+          ],
+          "source_pages": [
+            "https://eu.kimbicdn.com/thumbor/W3XhcdM4J3Ps-GZbc2fk1wo1l3s=/0x0/filters:format(webp):quality(65)/com.tr/data/36/40290/0.jpg?t=1790913251"
+          ],
+          "source_url": "https://www.kimbino.com.tr/kim-market/kim-market-ayin-urunu-persembeden-itibaren-01-10-2026-6040290/",
+          "source_date_label": "kim-market-ayin-urunu-persembeden-itibaren-01-10-2026-6040290",
+          "verified": true,
+          "category": "supermarket",
+          "last_seen": "2026-10-31",
+          "via": "kimbino"
+        },
+        {
           "id": "kim_809ee5e7615e153c",
           "title": "Kim Market Katalog - 19 - 30 Ekim 2026",
           "valid_from": "2026-10-19",
@@ -4081,8 +4100,8 @@
     },
     "metro": {
       "status": "ok",
-      "catalogs": 1,
-      "pages": 10
+      "catalogs": 3,
+      "pages": 54
     },
     "carrefoursa": {
       "status": "ok",
@@ -4125,9 +4144,7 @@
       "pages": 9
     },
     "bauhaus": {
-      "status": "ok",
-      "catalogs": 1,
-      "pages": 28
+      "status": "empty"
     },
     "ikea": {
       "status": "ok",
@@ -4152,12 +4169,12 @@
     "kim": {
       "status": "ok",
       "catalogs": 2,
-      "pages": 22
+      "pages": 2
     },
     "mopas": {
       "status": "ok",
-      "catalogs": 2,
-      "pages": 10
+      "catalogs": 1,
+      "pages": 2
     },
     "sec": {
       "status": "ok",
@@ -4195,6 +4212,6 @@
       "pages": 3
     }
   },
-  "total_catalogs": 113,
+  "total_catalogs": 114,
   "market_count": 27
 }
