@@ -1,6 +1,6 @@
 {
   "version": "3.1.0",
-  "last_updated": "2026-10-31T19:21:37.352264+00:00",
+  "last_updated": "2026-11-05T16:22:02.995515+00:00",
   "markets": [
     {
       "id": "sok",
@@ -1131,6 +1131,69 @@
       "logo_url": "",
       "catalogs": [
         {
+          "id": "watsons_3b679cb53c9a6911",
+          "title": "Watsons Aktüel Katalog",
+          "valid_from": "2026-11-05",
+          "valid_until": "",
+          "page_count": 46,
+          "pages": [
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/watsons/watsons_3b679cb53c9a6911_1.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/watsons/watsons_3b679cb53c9a6911_2.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/watsons/watsons_3b679cb53c9a6911_3.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/watsons/watsons_3b679cb53c9a6911_4.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/watsons/watsons_3b679cb53c9a6911_5.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/watsons/watsons_3b679cb53c9a6911_6.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/watsons/watsons_3b679cb53c9a6911_7.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/watsons/watsons_3b679cb53c9a6911_8.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/watsons/watsons_3b679cb53c9a6911_9.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/watsons/watsons_3b679cb53c9a6911_10.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/watsons/watsons_3b679cb53c9a6911_11.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/watsons/watsons_3b679cb53c9a6911_12.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/watsons/watsons_3b679cb53c9a6911_13.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/watsons/watsons_3b679cb53c9a6911_14.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/watsons/watsons_3b679cb53c9a6911_15.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/watsons/watsons_3b679cb53c9a6911_16.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/watsons/watsons_3b679cb53c9a6911_17.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/watsons/watsons_3b679cb53c9a6911_18.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/watsons/watsons_3b679cb53c9a6911_19.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/watsons/watsons_3b679cb53c9a6911_20.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/watsons/watsons_3b679cb53c9a6911_21.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/watsons/watsons_3b679cb53c9a6911_22.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/watsons/watsons_3b679cb53c9a6911_23.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/watsons/watsons_3b679cb53c9a6911_24.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/watsons/watsons_3b679cb53c9a6911_25.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/watsons/watsons_3b679cb53c9a6911_26.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/watsons/watsons_3b679cb53c9a6911_27.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/watsons/watsons_3b679cb53c9a6911_28.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/watsons/watsons_3b679cb53c9a6911_29.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/watsons/watsons_3b679cb53c9a6911_30.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/watsons/watsons_3b679cb53c9a6911_31.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/watsons/watsons_3b679cb53c9a6911_32.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/watsons/watsons_3b679cb53c9a6911_33.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/watsons/watsons_3b679cb53c9a6911_34.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/watsons/watsons_3b679cb53c9a6911_35.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/watsons/watsons_3b679cb53c9a6911_36.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/watsons/watsons_3b679cb53c9a6911_37.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/watsons/watsons_3b679cb53c9a6911_38.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/watsons/watsons_3b679cb53c9a6911_39.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/watsons/watsons_3b679cb53c9a6911_40.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/watsons/watsons_3b679cb53c9a6911_41.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/watsons/watsons_3b679cb53c9a6911_42.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/watsons/watsons_3b679cb53c9a6911_43.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/watsons/watsons_3b679cb53c9a6911_44.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/watsons/watsons_3b679cb53c9a6911_45.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/watsons/watsons_3b679cb53c9a6911_46.webp"
+          ],
+          "source_pages": [
+            "https://view.publitas.com/223/3499121/pdfs/e60b1fde-4a06-4d4b-ba3c-5daf79467beb.pdf"
+          ],
+          "source_url": "https://katalog.watsons.com.tr/",
+          "source_date_label": "2026-11-05",
+          "verified": true,
+          "category": "cosmetics",
+          "last_seen": "2026-11-05"
+        },
+        {
           "id": "watsons_4d19b86850b9f3d1",
           "title": "Watsons Aktüel Katalog",
           "valid_from": "2026-10-13",
@@ -1209,6 +1272,25 @@
       "category": "supermarket",
       "logo_url": "",
       "catalogs": [
+        {
+          "id": "metro_f9e19fae5ed45b8f",
+          "title": "Metro Grossmarket tazenin yildizlari",
+          "valid_from": "2026-11-05",
+          "valid_until": "",
+          "page_count": 2,
+          "pages": [
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/metro/metro_f9e19fae5ed45b8f_1.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/metro/metro_f9e19fae5ed45b8f_2.webp"
+          ],
+          "source_pages": [
+            "https://view.publitas.com/737/3427950/pdfs/fb942244-568d-4a17-b9be-5b39bae8124c.pdf"
+          ],
+          "source_url": "https://brosurler.metro-tr.com/",
+          "source_date_label": "tazenin-yildizlari",
+          "verified": true,
+          "category": "supermarket",
+          "last_seen": "2026-11-05"
+        },
         {
           "id": "metro_85ae303d5f334433",
           "title": "Metro Grossmarket isletmenizin temel urunleri metroda cok ozel fiyatlarla kasim",
@@ -1389,6 +1471,29 @@
       "logo_url": "",
       "catalogs": [
         {
+          "id": "bizim_733c95491d646d0c",
+          "title": "Bizim Toptan Haftalık Katalog",
+          "valid_from": "2026-11-05",
+          "valid_until": "",
+          "page_count": 6,
+          "pages": [
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/bizim/bizim_733c95491d646d0c_1.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/bizim/bizim_733c95491d646d0c_2.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/bizim/bizim_733c95491d646d0c_3.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/bizim/bizim_733c95491d646d0c_4.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/bizim/bizim_733c95491d646d0c_5.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/bizim/bizim_733c95491d646d0c_6.webp"
+          ],
+          "source_pages": [
+            "https://cdnm.heyzine.com/files/uploaded/f7d10044c68f888ba0a5f11f7c40abcb4ce1adac-151.pdf"
+          ],
+          "source_url": "https://www.bizimtoptan.com.tr/pages/katalog",
+          "source_date_label": "2026-11-05",
+          "verified": true,
+          "category": "wholesale",
+          "last_seen": "2026-11-05"
+        },
+        {
           "id": "bizim_4c1c28f064cdec32",
           "title": "Bizim Toptan Haftalık Katalog",
           "valid_from": "2026-10-30",
@@ -1485,6 +1590,56 @@
       "category": "home",
       "logo_url": "",
       "catalogs": [
+        {
+          "id": "ozdilek_f86263d880560971",
+          "title": "Özdilek Katalog",
+          "valid_from": "2026-11-05",
+          "valid_until": "",
+          "page_count": 17,
+          "pages": [
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ozdilek/ozdilek_f86263d880560971_1.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ozdilek/ozdilek_f86263d880560971_2.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ozdilek/ozdilek_f86263d880560971_3.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ozdilek/ozdilek_f86263d880560971_4.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ozdilek/ozdilek_f86263d880560971_5.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ozdilek/ozdilek_f86263d880560971_6.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ozdilek/ozdilek_f86263d880560971_7.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ozdilek/ozdilek_f86263d880560971_8.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ozdilek/ozdilek_f86263d880560971_9.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ozdilek/ozdilek_f86263d880560971_10.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ozdilek/ozdilek_f86263d880560971_11.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ozdilek/ozdilek_f86263d880560971_12.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ozdilek/ozdilek_f86263d880560971_13.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ozdilek/ozdilek_f86263d880560971_14.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ozdilek/ozdilek_f86263d880560971_15.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ozdilek/ozdilek_f86263d880560971_16.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ozdilek/ozdilek_f86263d880560971_17.webp"
+          ],
+          "source_pages": [
+            "https://www.ozdilek.com.tr/images/kataloglar/594/kat_b_001.jpg",
+            "https://www.ozdilek.com.tr/images/kataloglar/594/kat_b_002.jpg",
+            "https://www.ozdilek.com.tr/images/kataloglar/594/kat_b_003.jpg",
+            "https://www.ozdilek.com.tr/images/kataloglar/594/kat_b_004.jpg",
+            "https://www.ozdilek.com.tr/images/kataloglar/594/kat_b_005.jpg",
+            "https://www.ozdilek.com.tr/images/kataloglar/594/kat_b_006.jpg",
+            "https://www.ozdilek.com.tr/images/kataloglar/594/kat_b_007.jpg",
+            "https://www.ozdilek.com.tr/images/kataloglar/594/kat_b_008.jpg",
+            "https://www.ozdilek.com.tr/images/kataloglar/594/kat_b_009.jpg",
+            "https://www.ozdilek.com.tr/images/kataloglar/594/kat_b_010.jpg",
+            "https://www.ozdilek.com.tr/images/kataloglar/594/kat_b_011.jpg",
+            "https://www.ozdilek.com.tr/images/kataloglar/594/kat_b_012.jpg",
+            "https://www.ozdilek.com.tr/images/kataloglar/594/kat_b_013.jpg",
+            "https://www.ozdilek.com.tr/images/kataloglar/594/kat_b_014.jpg",
+            "https://www.ozdilek.com.tr/images/kataloglar/594/kat_b_015.jpg",
+            "https://www.ozdilek.com.tr/images/kataloglar/594/kat_b_016.jpg",
+            "https://www.ozdilek.com.tr/images/kataloglar/594/kat_b_017.jpg"
+          ],
+          "source_url": "https://www.ozdilek.com.tr/tr/Kataloglar",
+          "source_date_label": "efsane-kasim-basladi-594",
+          "verified": true,
+          "category": "home",
+          "last_seen": "2026-11-05"
+        },
         {
           "id": "ozdilek_85dcb0387b8e2e22",
           "title": "Özdilek Katalog",
@@ -1610,6 +1765,327 @@
       "category": "cosmetics",
       "logo_url": "",
       "catalogs": [
+        {
+          "id": "rossmann_fd0c36667bac0e0c",
+          "title": "Rossmann Perspective",
+          "valid_from": "2026-11-05",
+          "valid_until": "",
+          "page_count": 26,
+          "pages": [
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_fd0c36667bac0e0c_1.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_fd0c36667bac0e0c_2.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_fd0c36667bac0e0c_3.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_fd0c36667bac0e0c_4.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_fd0c36667bac0e0c_5.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_fd0c36667bac0e0c_6.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_fd0c36667bac0e0c_7.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_fd0c36667bac0e0c_8.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_fd0c36667bac0e0c_9.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_fd0c36667bac0e0c_10.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_fd0c36667bac0e0c_11.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_fd0c36667bac0e0c_12.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_fd0c36667bac0e0c_13.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_fd0c36667bac0e0c_14.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_fd0c36667bac0e0c_15.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_fd0c36667bac0e0c_16.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_fd0c36667bac0e0c_17.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_fd0c36667bac0e0c_18.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_fd0c36667bac0e0c_19.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_fd0c36667bac0e0c_20.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_fd0c36667bac0e0c_21.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_fd0c36667bac0e0c_22.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_fd0c36667bac0e0c_23.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_fd0c36667bac0e0c_24.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_fd0c36667bac0e0c_25.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_fd0c36667bac0e0c_26.webp"
+          ],
+          "source_pages": [
+            "https://cdn.ipaper.io/iPaper/Papers/972bface-b434-4e39-8cbd-9558c9ade5aa/Pages/1/Normal.jpg?token=HS256-wz-pXSfroUyCl9tGlqc42wk4TNJ3oER7HVjINQZFGoI&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f972bface-b434-4e39-8cbd-9558c9ade5aa%2fPages%2f&expires=1793981019",
+            "https://cdn.ipaper.io/iPaper/Papers/972bface-b434-4e39-8cbd-9558c9ade5aa/Pages/2/Normal.jpg?token=HS256-wz-pXSfroUyCl9tGlqc42wk4TNJ3oER7HVjINQZFGoI&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f972bface-b434-4e39-8cbd-9558c9ade5aa%2fPages%2f&expires=1793981019",
+            "https://cdn.ipaper.io/iPaper/Papers/972bface-b434-4e39-8cbd-9558c9ade5aa/Pages/3/Normal.jpg?token=HS256-wz-pXSfroUyCl9tGlqc42wk4TNJ3oER7HVjINQZFGoI&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f972bface-b434-4e39-8cbd-9558c9ade5aa%2fPages%2f&expires=1793981019",
+            "https://cdn.ipaper.io/iPaper/Papers/972bface-b434-4e39-8cbd-9558c9ade5aa/Pages/4/Normal.jpg?token=HS256-wz-pXSfroUyCl9tGlqc42wk4TNJ3oER7HVjINQZFGoI&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f972bface-b434-4e39-8cbd-9558c9ade5aa%2fPages%2f&expires=1793981019",
+            "https://cdn.ipaper.io/iPaper/Papers/972bface-b434-4e39-8cbd-9558c9ade5aa/Pages/5/Normal.jpg?token=HS256-wz-pXSfroUyCl9tGlqc42wk4TNJ3oER7HVjINQZFGoI&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f972bface-b434-4e39-8cbd-9558c9ade5aa%2fPages%2f&expires=1793981019",
+            "https://cdn.ipaper.io/iPaper/Papers/972bface-b434-4e39-8cbd-9558c9ade5aa/Pages/6/Normal.jpg?token=HS256-wz-pXSfroUyCl9tGlqc42wk4TNJ3oER7HVjINQZFGoI&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f972bface-b434-4e39-8cbd-9558c9ade5aa%2fPages%2f&expires=1793981019",
+            "https://cdn.ipaper.io/iPaper/Papers/972bface-b434-4e39-8cbd-9558c9ade5aa/Pages/7/Normal.jpg?token=HS256-wz-pXSfroUyCl9tGlqc42wk4TNJ3oER7HVjINQZFGoI&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f972bface-b434-4e39-8cbd-9558c9ade5aa%2fPages%2f&expires=1793981019",
+            "https://cdn.ipaper.io/iPaper/Papers/972bface-b434-4e39-8cbd-9558c9ade5aa/Pages/8/Normal.jpg?token=HS256-wz-pXSfroUyCl9tGlqc42wk4TNJ3oER7HVjINQZFGoI&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f972bface-b434-4e39-8cbd-9558c9ade5aa%2fPages%2f&expires=1793981019",
+            "https://cdn.ipaper.io/iPaper/Papers/972bface-b434-4e39-8cbd-9558c9ade5aa/Pages/9/Normal.jpg?token=HS256-wz-pXSfroUyCl9tGlqc42wk4TNJ3oER7HVjINQZFGoI&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f972bface-b434-4e39-8cbd-9558c9ade5aa%2fPages%2f&expires=1793981019",
+            "https://cdn.ipaper.io/iPaper/Papers/972bface-b434-4e39-8cbd-9558c9ade5aa/Pages/10/Normal.jpg?token=HS256-wz-pXSfroUyCl9tGlqc42wk4TNJ3oER7HVjINQZFGoI&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f972bface-b434-4e39-8cbd-9558c9ade5aa%2fPages%2f&expires=1793981019",
+            "https://cdn.ipaper.io/iPaper/Papers/972bface-b434-4e39-8cbd-9558c9ade5aa/Pages/11/Normal.jpg?token=HS256-wz-pXSfroUyCl9tGlqc42wk4TNJ3oER7HVjINQZFGoI&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f972bface-b434-4e39-8cbd-9558c9ade5aa%2fPages%2f&expires=1793981019",
+            "https://cdn.ipaper.io/iPaper/Papers/972bface-b434-4e39-8cbd-9558c9ade5aa/Pages/12/Normal.jpg?token=HS256-wz-pXSfroUyCl9tGlqc42wk4TNJ3oER7HVjINQZFGoI&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f972bface-b434-4e39-8cbd-9558c9ade5aa%2fPages%2f&expires=1793981019",
+            "https://cdn.ipaper.io/iPaper/Papers/972bface-b434-4e39-8cbd-9558c9ade5aa/Pages/13/Normal.jpg?token=HS256-wz-pXSfroUyCl9tGlqc42wk4TNJ3oER7HVjINQZFGoI&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f972bface-b434-4e39-8cbd-9558c9ade5aa%2fPages%2f&expires=1793981019",
+            "https://cdn.ipaper.io/iPaper/Papers/972bface-b434-4e39-8cbd-9558c9ade5aa/Pages/14/Normal.jpg?token=HS256-wz-pXSfroUyCl9tGlqc42wk4TNJ3oER7HVjINQZFGoI&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f972bface-b434-4e39-8cbd-9558c9ade5aa%2fPages%2f&expires=1793981019",
+            "https://cdn.ipaper.io/iPaper/Papers/972bface-b434-4e39-8cbd-9558c9ade5aa/Pages/15/Normal.jpg?token=HS256-wz-pXSfroUyCl9tGlqc42wk4TNJ3oER7HVjINQZFGoI&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f972bface-b434-4e39-8cbd-9558c9ade5aa%2fPages%2f&expires=1793981019",
+            "https://cdn.ipaper.io/iPaper/Papers/972bface-b434-4e39-8cbd-9558c9ade5aa/Pages/16/Normal.jpg?token=HS256-wz-pXSfroUyCl9tGlqc42wk4TNJ3oER7HVjINQZFGoI&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f972bface-b434-4e39-8cbd-9558c9ade5aa%2fPages%2f&expires=1793981019",
+            "https://cdn.ipaper.io/iPaper/Papers/972bface-b434-4e39-8cbd-9558c9ade5aa/Pages/17/Normal.jpg?token=HS256-wz-pXSfroUyCl9tGlqc42wk4TNJ3oER7HVjINQZFGoI&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f972bface-b434-4e39-8cbd-9558c9ade5aa%2fPages%2f&expires=1793981019",
+            "https://cdn.ipaper.io/iPaper/Papers/972bface-b434-4e39-8cbd-9558c9ade5aa/Pages/18/Normal.jpg?token=HS256-wz-pXSfroUyCl9tGlqc42wk4TNJ3oER7HVjINQZFGoI&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f972bface-b434-4e39-8cbd-9558c9ade5aa%2fPages%2f&expires=1793981019",
+            "https://cdn.ipaper.io/iPaper/Papers/972bface-b434-4e39-8cbd-9558c9ade5aa/Pages/19/Normal.jpg?token=HS256-wz-pXSfroUyCl9tGlqc42wk4TNJ3oER7HVjINQZFGoI&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f972bface-b434-4e39-8cbd-9558c9ade5aa%2fPages%2f&expires=1793981019",
+            "https://cdn.ipaper.io/iPaper/Papers/972bface-b434-4e39-8cbd-9558c9ade5aa/Pages/20/Normal.jpg?token=HS256-wz-pXSfroUyCl9tGlqc42wk4TNJ3oER7HVjINQZFGoI&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f972bface-b434-4e39-8cbd-9558c9ade5aa%2fPages%2f&expires=1793981019",
+            "https://cdn.ipaper.io/iPaper/Papers/972bface-b434-4e39-8cbd-9558c9ade5aa/Pages/21/Normal.jpg?token=HS256-wz-pXSfroUyCl9tGlqc42wk4TNJ3oER7HVjINQZFGoI&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f972bface-b434-4e39-8cbd-9558c9ade5aa%2fPages%2f&expires=1793981019",
+            "https://cdn.ipaper.io/iPaper/Papers/972bface-b434-4e39-8cbd-9558c9ade5aa/Pages/22/Normal.jpg?token=HS256-wz-pXSfroUyCl9tGlqc42wk4TNJ3oER7HVjINQZFGoI&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f972bface-b434-4e39-8cbd-9558c9ade5aa%2fPages%2f&expires=1793981019",
+            "https://cdn.ipaper.io/iPaper/Papers/972bface-b434-4e39-8cbd-9558c9ade5aa/Pages/23/Normal.jpg?token=HS256-wz-pXSfroUyCl9tGlqc42wk4TNJ3oER7HVjINQZFGoI&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f972bface-b434-4e39-8cbd-9558c9ade5aa%2fPages%2f&expires=1793981019",
+            "https://cdn.ipaper.io/iPaper/Papers/972bface-b434-4e39-8cbd-9558c9ade5aa/Pages/24/Normal.jpg?token=HS256-wz-pXSfroUyCl9tGlqc42wk4TNJ3oER7HVjINQZFGoI&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f972bface-b434-4e39-8cbd-9558c9ade5aa%2fPages%2f&expires=1793981019",
+            "https://cdn.ipaper.io/iPaper/Papers/972bface-b434-4e39-8cbd-9558c9ade5aa/Pages/25/Normal.jpg?token=HS256-wz-pXSfroUyCl9tGlqc42wk4TNJ3oER7HVjINQZFGoI&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f972bface-b434-4e39-8cbd-9558c9ade5aa%2fPages%2f&expires=1793981019",
+            "https://cdn.ipaper.io/iPaper/Papers/972bface-b434-4e39-8cbd-9558c9ade5aa/Pages/26/Normal.jpg?token=HS256-wz-pXSfroUyCl9tGlqc42wk4TNJ3oER7HVjINQZFGoI&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f972bface-b434-4e39-8cbd-9558c9ade5aa%2fPages%2f&expires=1793981019"
+          ],
+          "source_url": "https://www.rossmann.com.tr/kataloglar",
+          "source_date_label": "perspective",
+          "verified": true,
+          "category": "cosmetics",
+          "last_seen": "2026-11-05",
+          "platform": "ipaper"
+        },
+        {
+          "id": "rossmann_7f61f636d63f7886",
+          "title": "Rossmann Perspective",
+          "valid_from": "2026-11-05",
+          "valid_until": "",
+          "page_count": 34,
+          "pages": [
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_7f61f636d63f7886_1.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_7f61f636d63f7886_2.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_7f61f636d63f7886_3.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_7f61f636d63f7886_4.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_7f61f636d63f7886_5.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_7f61f636d63f7886_6.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_7f61f636d63f7886_7.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_7f61f636d63f7886_8.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_7f61f636d63f7886_9.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_7f61f636d63f7886_10.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_7f61f636d63f7886_11.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_7f61f636d63f7886_12.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_7f61f636d63f7886_13.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_7f61f636d63f7886_14.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_7f61f636d63f7886_15.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_7f61f636d63f7886_16.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_7f61f636d63f7886_17.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_7f61f636d63f7886_18.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_7f61f636d63f7886_19.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_7f61f636d63f7886_20.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_7f61f636d63f7886_21.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_7f61f636d63f7886_22.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_7f61f636d63f7886_23.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_7f61f636d63f7886_24.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_7f61f636d63f7886_25.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_7f61f636d63f7886_26.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_7f61f636d63f7886_27.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_7f61f636d63f7886_28.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_7f61f636d63f7886_29.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_7f61f636d63f7886_30.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_7f61f636d63f7886_31.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_7f61f636d63f7886_32.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_7f61f636d63f7886_33.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_7f61f636d63f7886_34.webp"
+          ],
+          "source_pages": [
+            "https://cdn.ipaper.io/iPaper/Papers/6dae7e25-c148-48ed-824f-f769ec8a796c/Pages/1/Normal.jpg?token=HS256-WfP8AbU6kggnzLd33LUaRRFrWRMQJMg4z_5cEMM8vrU&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f6dae7e25-c148-48ed-824f-f769ec8a796c%2fPages%2f&expires=1793981361",
+            "https://cdn.ipaper.io/iPaper/Papers/6dae7e25-c148-48ed-824f-f769ec8a796c/Pages/2/Normal.jpg?token=HS256-WfP8AbU6kggnzLd33LUaRRFrWRMQJMg4z_5cEMM8vrU&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f6dae7e25-c148-48ed-824f-f769ec8a796c%2fPages%2f&expires=1793981361",
+            "https://cdn.ipaper.io/iPaper/Papers/6dae7e25-c148-48ed-824f-f769ec8a796c/Pages/3/Normal.jpg?token=HS256-WfP8AbU6kggnzLd33LUaRRFrWRMQJMg4z_5cEMM8vrU&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f6dae7e25-c148-48ed-824f-f769ec8a796c%2fPages%2f&expires=1793981361",
+            "https://cdn.ipaper.io/iPaper/Papers/6dae7e25-c148-48ed-824f-f769ec8a796c/Pages/4/Normal.jpg?token=HS256-WfP8AbU6kggnzLd33LUaRRFrWRMQJMg4z_5cEMM8vrU&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f6dae7e25-c148-48ed-824f-f769ec8a796c%2fPages%2f&expires=1793981361",
+            "https://cdn.ipaper.io/iPaper/Papers/6dae7e25-c148-48ed-824f-f769ec8a796c/Pages/5/Normal.jpg?token=HS256-WfP8AbU6kggnzLd33LUaRRFrWRMQJMg4z_5cEMM8vrU&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f6dae7e25-c148-48ed-824f-f769ec8a796c%2fPages%2f&expires=1793981361",
+            "https://cdn.ipaper.io/iPaper/Papers/6dae7e25-c148-48ed-824f-f769ec8a796c/Pages/6/Normal.jpg?token=HS256-WfP8AbU6kggnzLd33LUaRRFrWRMQJMg4z_5cEMM8vrU&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f6dae7e25-c148-48ed-824f-f769ec8a796c%2fPages%2f&expires=1793981361",
+            "https://cdn.ipaper.io/iPaper/Papers/6dae7e25-c148-48ed-824f-f769ec8a796c/Pages/7/Normal.jpg?token=HS256-WfP8AbU6kggnzLd33LUaRRFrWRMQJMg4z_5cEMM8vrU&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f6dae7e25-c148-48ed-824f-f769ec8a796c%2fPages%2f&expires=1793981361",
+            "https://cdn.ipaper.io/iPaper/Papers/6dae7e25-c148-48ed-824f-f769ec8a796c/Pages/8/Normal.jpg?token=HS256-WfP8AbU6kggnzLd33LUaRRFrWRMQJMg4z_5cEMM8vrU&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f6dae7e25-c148-48ed-824f-f769ec8a796c%2fPages%2f&expires=1793981361",
+            "https://cdn.ipaper.io/iPaper/Papers/6dae7e25-c148-48ed-824f-f769ec8a796c/Pages/9/Normal.jpg?token=HS256-WfP8AbU6kggnzLd33LUaRRFrWRMQJMg4z_5cEMM8vrU&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f6dae7e25-c148-48ed-824f-f769ec8a796c%2fPages%2f&expires=1793981361",
+            "https://cdn.ipaper.io/iPaper/Papers/6dae7e25-c148-48ed-824f-f769ec8a796c/Pages/10/Normal.jpg?token=HS256-WfP8AbU6kggnzLd33LUaRRFrWRMQJMg4z_5cEMM8vrU&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f6dae7e25-c148-48ed-824f-f769ec8a796c%2fPages%2f&expires=1793981361",
+            "https://cdn.ipaper.io/iPaper/Papers/6dae7e25-c148-48ed-824f-f769ec8a796c/Pages/11/Normal.jpg?token=HS256-WfP8AbU6kggnzLd33LUaRRFrWRMQJMg4z_5cEMM8vrU&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f6dae7e25-c148-48ed-824f-f769ec8a796c%2fPages%2f&expires=1793981361",
+            "https://cdn.ipaper.io/iPaper/Papers/6dae7e25-c148-48ed-824f-f769ec8a796c/Pages/12/Normal.jpg?token=HS256-WfP8AbU6kggnzLd33LUaRRFrWRMQJMg4z_5cEMM8vrU&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f6dae7e25-c148-48ed-824f-f769ec8a796c%2fPages%2f&expires=1793981361",
+            "https://cdn.ipaper.io/iPaper/Papers/6dae7e25-c148-48ed-824f-f769ec8a796c/Pages/13/Normal.jpg?token=HS256-WfP8AbU6kggnzLd33LUaRRFrWRMQJMg4z_5cEMM8vrU&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f6dae7e25-c148-48ed-824f-f769ec8a796c%2fPages%2f&expires=1793981361",
+            "https://cdn.ipaper.io/iPaper/Papers/6dae7e25-c148-48ed-824f-f769ec8a796c/Pages/14/Normal.jpg?token=HS256-WfP8AbU6kggnzLd33LUaRRFrWRMQJMg4z_5cEMM8vrU&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f6dae7e25-c148-48ed-824f-f769ec8a796c%2fPages%2f&expires=1793981361",
+            "https://cdn.ipaper.io/iPaper/Papers/6dae7e25-c148-48ed-824f-f769ec8a796c/Pages/15/Normal.jpg?token=HS256-WfP8AbU6kggnzLd33LUaRRFrWRMQJMg4z_5cEMM8vrU&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f6dae7e25-c148-48ed-824f-f769ec8a796c%2fPages%2f&expires=1793981361",
+            "https://cdn.ipaper.io/iPaper/Papers/6dae7e25-c148-48ed-824f-f769ec8a796c/Pages/16/Normal.jpg?token=HS256-WfP8AbU6kggnzLd33LUaRRFrWRMQJMg4z_5cEMM8vrU&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f6dae7e25-c148-48ed-824f-f769ec8a796c%2fPages%2f&expires=1793981361",
+            "https://cdn.ipaper.io/iPaper/Papers/6dae7e25-c148-48ed-824f-f769ec8a796c/Pages/17/Normal.jpg?token=HS256-WfP8AbU6kggnzLd33LUaRRFrWRMQJMg4z_5cEMM8vrU&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f6dae7e25-c148-48ed-824f-f769ec8a796c%2fPages%2f&expires=1793981361",
+            "https://cdn.ipaper.io/iPaper/Papers/6dae7e25-c148-48ed-824f-f769ec8a796c/Pages/18/Normal.jpg?token=HS256-WfP8AbU6kggnzLd33LUaRRFrWRMQJMg4z_5cEMM8vrU&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f6dae7e25-c148-48ed-824f-f769ec8a796c%2fPages%2f&expires=1793981361",
+            "https://cdn.ipaper.io/iPaper/Papers/6dae7e25-c148-48ed-824f-f769ec8a796c/Pages/19/Normal.jpg?token=HS256-WfP8AbU6kggnzLd33LUaRRFrWRMQJMg4z_5cEMM8vrU&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f6dae7e25-c148-48ed-824f-f769ec8a796c%2fPages%2f&expires=1793981361",
+            "https://cdn.ipaper.io/iPaper/Papers/6dae7e25-c148-48ed-824f-f769ec8a796c/Pages/20/Normal.jpg?token=HS256-WfP8AbU6kggnzLd33LUaRRFrWRMQJMg4z_5cEMM8vrU&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f6dae7e25-c148-48ed-824f-f769ec8a796c%2fPages%2f&expires=1793981361",
+            "https://cdn.ipaper.io/iPaper/Papers/6dae7e25-c148-48ed-824f-f769ec8a796c/Pages/21/Normal.jpg?token=HS256-WfP8AbU6kggnzLd33LUaRRFrWRMQJMg4z_5cEMM8vrU&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f6dae7e25-c148-48ed-824f-f769ec8a796c%2fPages%2f&expires=1793981361",
+            "https://cdn.ipaper.io/iPaper/Papers/6dae7e25-c148-48ed-824f-f769ec8a796c/Pages/22/Normal.jpg?token=HS256-WfP8AbU6kggnzLd33LUaRRFrWRMQJMg4z_5cEMM8vrU&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f6dae7e25-c148-48ed-824f-f769ec8a796c%2fPages%2f&expires=1793981361",
+            "https://cdn.ipaper.io/iPaper/Papers/6dae7e25-c148-48ed-824f-f769ec8a796c/Pages/23/Normal.jpg?token=HS256-WfP8AbU6kggnzLd33LUaRRFrWRMQJMg4z_5cEMM8vrU&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f6dae7e25-c148-48ed-824f-f769ec8a796c%2fPages%2f&expires=1793981361",
+            "https://cdn.ipaper.io/iPaper/Papers/6dae7e25-c148-48ed-824f-f769ec8a796c/Pages/24/Normal.jpg?token=HS256-WfP8AbU6kggnzLd33LUaRRFrWRMQJMg4z_5cEMM8vrU&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f6dae7e25-c148-48ed-824f-f769ec8a796c%2fPages%2f&expires=1793981361",
+            "https://cdn.ipaper.io/iPaper/Papers/6dae7e25-c148-48ed-824f-f769ec8a796c/Pages/25/Normal.jpg?token=HS256-WfP8AbU6kggnzLd33LUaRRFrWRMQJMg4z_5cEMM8vrU&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f6dae7e25-c148-48ed-824f-f769ec8a796c%2fPages%2f&expires=1793981361",
+            "https://cdn.ipaper.io/iPaper/Papers/6dae7e25-c148-48ed-824f-f769ec8a796c/Pages/26/Normal.jpg?token=HS256-WfP8AbU6kggnzLd33LUaRRFrWRMQJMg4z_5cEMM8vrU&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f6dae7e25-c148-48ed-824f-f769ec8a796c%2fPages%2f&expires=1793981361",
+            "https://cdn.ipaper.io/iPaper/Papers/6dae7e25-c148-48ed-824f-f769ec8a796c/Pages/27/Normal.jpg?token=HS256-WfP8AbU6kggnzLd33LUaRRFrWRMQJMg4z_5cEMM8vrU&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f6dae7e25-c148-48ed-824f-f769ec8a796c%2fPages%2f&expires=1793981361",
+            "https://cdn.ipaper.io/iPaper/Papers/6dae7e25-c148-48ed-824f-f769ec8a796c/Pages/28/Normal.jpg?token=HS256-WfP8AbU6kggnzLd33LUaRRFrWRMQJMg4z_5cEMM8vrU&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f6dae7e25-c148-48ed-824f-f769ec8a796c%2fPages%2f&expires=1793981361",
+            "https://cdn.ipaper.io/iPaper/Papers/6dae7e25-c148-48ed-824f-f769ec8a796c/Pages/29/Normal.jpg?token=HS256-WfP8AbU6kggnzLd33LUaRRFrWRMQJMg4z_5cEMM8vrU&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f6dae7e25-c148-48ed-824f-f769ec8a796c%2fPages%2f&expires=1793981361",
+            "https://cdn.ipaper.io/iPaper/Papers/6dae7e25-c148-48ed-824f-f769ec8a796c/Pages/30/Normal.jpg?token=HS256-WfP8AbU6kggnzLd33LUaRRFrWRMQJMg4z_5cEMM8vrU&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f6dae7e25-c148-48ed-824f-f769ec8a796c%2fPages%2f&expires=1793981361",
+            "https://cdn.ipaper.io/iPaper/Papers/6dae7e25-c148-48ed-824f-f769ec8a796c/Pages/31/Normal.jpg?token=HS256-WfP8AbU6kggnzLd33LUaRRFrWRMQJMg4z_5cEMM8vrU&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f6dae7e25-c148-48ed-824f-f769ec8a796c%2fPages%2f&expires=1793981361",
+            "https://cdn.ipaper.io/iPaper/Papers/6dae7e25-c148-48ed-824f-f769ec8a796c/Pages/32/Normal.jpg?token=HS256-WfP8AbU6kggnzLd33LUaRRFrWRMQJMg4z_5cEMM8vrU&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f6dae7e25-c148-48ed-824f-f769ec8a796c%2fPages%2f&expires=1793981361",
+            "https://cdn.ipaper.io/iPaper/Papers/6dae7e25-c148-48ed-824f-f769ec8a796c/Pages/33/Normal.jpg?token=HS256-WfP8AbU6kggnzLd33LUaRRFrWRMQJMg4z_5cEMM8vrU&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f6dae7e25-c148-48ed-824f-f769ec8a796c%2fPages%2f&expires=1793981361",
+            "https://cdn.ipaper.io/iPaper/Papers/6dae7e25-c148-48ed-824f-f769ec8a796c/Pages/34/Normal.jpg?token=HS256-WfP8AbU6kggnzLd33LUaRRFrWRMQJMg4z_5cEMM8vrU&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f6dae7e25-c148-48ed-824f-f769ec8a796c%2fPages%2f&expires=1793981361"
+          ],
+          "source_url": "https://www.rossmann.com.tr/kataloglar",
+          "source_date_label": "perspective",
+          "verified": true,
+          "category": "cosmetics",
+          "last_seen": "2026-11-05",
+          "platform": "ipaper"
+        },
+        {
+          "id": "rossmann_07811fcdc2a49fee",
+          "title": "Rossmann Perspective",
+          "valid_from": "2026-11-05",
+          "valid_until": "",
+          "page_count": 18,
+          "pages": [
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_07811fcdc2a49fee_1.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_07811fcdc2a49fee_2.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_07811fcdc2a49fee_3.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_07811fcdc2a49fee_4.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_07811fcdc2a49fee_5.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_07811fcdc2a49fee_6.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_07811fcdc2a49fee_7.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_07811fcdc2a49fee_8.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_07811fcdc2a49fee_9.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_07811fcdc2a49fee_10.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_07811fcdc2a49fee_11.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_07811fcdc2a49fee_12.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_07811fcdc2a49fee_13.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_07811fcdc2a49fee_14.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_07811fcdc2a49fee_15.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_07811fcdc2a49fee_16.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_07811fcdc2a49fee_17.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_07811fcdc2a49fee_18.webp"
+          ],
+          "source_pages": [
+            "https://cdn.ipaper.io/iPaper/Papers/e7d72a30-b7d1-4b38-865c-6e7453ebb9fb/Pages/1/Normal.jpg?token=HS256-kAKFQ1b5xALc-Z6gtdk2C5QeQbcIT-3jQ13nbFvmfGI&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2fe7d72a30-b7d1-4b38-865c-6e7453ebb9fb%2fPages%2f&expires=1793981079",
+            "https://cdn.ipaper.io/iPaper/Papers/e7d72a30-b7d1-4b38-865c-6e7453ebb9fb/Pages/2/Normal.jpg?token=HS256-kAKFQ1b5xALc-Z6gtdk2C5QeQbcIT-3jQ13nbFvmfGI&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2fe7d72a30-b7d1-4b38-865c-6e7453ebb9fb%2fPages%2f&expires=1793981079",
+            "https://cdn.ipaper.io/iPaper/Papers/e7d72a30-b7d1-4b38-865c-6e7453ebb9fb/Pages/3/Normal.jpg?token=HS256-kAKFQ1b5xALc-Z6gtdk2C5QeQbcIT-3jQ13nbFvmfGI&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2fe7d72a30-b7d1-4b38-865c-6e7453ebb9fb%2fPages%2f&expires=1793981079",
+            "https://cdn.ipaper.io/iPaper/Papers/e7d72a30-b7d1-4b38-865c-6e7453ebb9fb/Pages/4/Normal.jpg?token=HS256-kAKFQ1b5xALc-Z6gtdk2C5QeQbcIT-3jQ13nbFvmfGI&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2fe7d72a30-b7d1-4b38-865c-6e7453ebb9fb%2fPages%2f&expires=1793981079",
+            "https://cdn.ipaper.io/iPaper/Papers/e7d72a30-b7d1-4b38-865c-6e7453ebb9fb/Pages/5/Normal.jpg?token=HS256-kAKFQ1b5xALc-Z6gtdk2C5QeQbcIT-3jQ13nbFvmfGI&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2fe7d72a30-b7d1-4b38-865c-6e7453ebb9fb%2fPages%2f&expires=1793981079",
+            "https://cdn.ipaper.io/iPaper/Papers/e7d72a30-b7d1-4b38-865c-6e7453ebb9fb/Pages/6/Normal.jpg?token=HS256-kAKFQ1b5xALc-Z6gtdk2C5QeQbcIT-3jQ13nbFvmfGI&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2fe7d72a30-b7d1-4b38-865c-6e7453ebb9fb%2fPages%2f&expires=1793981079",
+            "https://cdn.ipaper.io/iPaper/Papers/e7d72a30-b7d1-4b38-865c-6e7453ebb9fb/Pages/7/Normal.jpg?token=HS256-kAKFQ1b5xALc-Z6gtdk2C5QeQbcIT-3jQ13nbFvmfGI&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2fe7d72a30-b7d1-4b38-865c-6e7453ebb9fb%2fPages%2f&expires=1793981079",
+            "https://cdn.ipaper.io/iPaper/Papers/e7d72a30-b7d1-4b38-865c-6e7453ebb9fb/Pages/8/Normal.jpg?token=HS256-kAKFQ1b5xALc-Z6gtdk2C5QeQbcIT-3jQ13nbFvmfGI&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2fe7d72a30-b7d1-4b38-865c-6e7453ebb9fb%2fPages%2f&expires=1793981079",
+            "https://cdn.ipaper.io/iPaper/Papers/e7d72a30-b7d1-4b38-865c-6e7453ebb9fb/Pages/9/Normal.jpg?token=HS256-kAKFQ1b5xALc-Z6gtdk2C5QeQbcIT-3jQ13nbFvmfGI&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2fe7d72a30-b7d1-4b38-865c-6e7453ebb9fb%2fPages%2f&expires=1793981079",
+            "https://cdn.ipaper.io/iPaper/Papers/e7d72a30-b7d1-4b38-865c-6e7453ebb9fb/Pages/10/Normal.jpg?token=HS256-kAKFQ1b5xALc-Z6gtdk2C5QeQbcIT-3jQ13nbFvmfGI&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2fe7d72a30-b7d1-4b38-865c-6e7453ebb9fb%2fPages%2f&expires=1793981079",
+            "https://cdn.ipaper.io/iPaper/Papers/e7d72a30-b7d1-4b38-865c-6e7453ebb9fb/Pages/11/Normal.jpg?token=HS256-kAKFQ1b5xALc-Z6gtdk2C5QeQbcIT-3jQ13nbFvmfGI&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2fe7d72a30-b7d1-4b38-865c-6e7453ebb9fb%2fPages%2f&expires=1793981079",
+            "https://cdn.ipaper.io/iPaper/Papers/e7d72a30-b7d1-4b38-865c-6e7453ebb9fb/Pages/12/Normal.jpg?token=HS256-kAKFQ1b5xALc-Z6gtdk2C5QeQbcIT-3jQ13nbFvmfGI&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2fe7d72a30-b7d1-4b38-865c-6e7453ebb9fb%2fPages%2f&expires=1793981079",
+            "https://cdn.ipaper.io/iPaper/Papers/e7d72a30-b7d1-4b38-865c-6e7453ebb9fb/Pages/13/Normal.jpg?token=HS256-kAKFQ1b5xALc-Z6gtdk2C5QeQbcIT-3jQ13nbFvmfGI&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2fe7d72a30-b7d1-4b38-865c-6e7453ebb9fb%2fPages%2f&expires=1793981079",
+            "https://cdn.ipaper.io/iPaper/Papers/e7d72a30-b7d1-4b38-865c-6e7453ebb9fb/Pages/14/Normal.jpg?token=HS256-kAKFQ1b5xALc-Z6gtdk2C5QeQbcIT-3jQ13nbFvmfGI&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2fe7d72a30-b7d1-4b38-865c-6e7453ebb9fb%2fPages%2f&expires=1793981079",
+            "https://cdn.ipaper.io/iPaper/Papers/e7d72a30-b7d1-4b38-865c-6e7453ebb9fb/Pages/15/Normal.jpg?token=HS256-kAKFQ1b5xALc-Z6gtdk2C5QeQbcIT-3jQ13nbFvmfGI&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2fe7d72a30-b7d1-4b38-865c-6e7453ebb9fb%2fPages%2f&expires=1793981079",
+            "https://cdn.ipaper.io/iPaper/Papers/e7d72a30-b7d1-4b38-865c-6e7453ebb9fb/Pages/16/Normal.jpg?token=HS256-kAKFQ1b5xALc-Z6gtdk2C5QeQbcIT-3jQ13nbFvmfGI&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2fe7d72a30-b7d1-4b38-865c-6e7453ebb9fb%2fPages%2f&expires=1793981079",
+            "https://cdn.ipaper.io/iPaper/Papers/e7d72a30-b7d1-4b38-865c-6e7453ebb9fb/Pages/17/Normal.jpg?token=HS256-kAKFQ1b5xALc-Z6gtdk2C5QeQbcIT-3jQ13nbFvmfGI&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2fe7d72a30-b7d1-4b38-865c-6e7453ebb9fb%2fPages%2f&expires=1793981079",
+            "https://cdn.ipaper.io/iPaper/Papers/e7d72a30-b7d1-4b38-865c-6e7453ebb9fb/Pages/18/Normal.jpg?token=HS256-kAKFQ1b5xALc-Z6gtdk2C5QeQbcIT-3jQ13nbFvmfGI&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2fe7d72a30-b7d1-4b38-865c-6e7453ebb9fb%2fPages%2f&expires=1793981079"
+          ],
+          "source_url": "https://www.rossmann.com.tr/kataloglar",
+          "source_date_label": "perspective",
+          "verified": true,
+          "category": "cosmetics",
+          "last_seen": "2026-11-05",
+          "platform": "ipaper"
+        },
+        {
+          "id": "rossmann_b4ee57c19e06c4c7",
+          "title": "Rossmann Perspective",
+          "valid_from": "2026-11-05",
+          "valid_until": "",
+          "page_count": 26,
+          "pages": [
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_b4ee57c19e06c4c7_1.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_b4ee57c19e06c4c7_2.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_b4ee57c19e06c4c7_3.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_b4ee57c19e06c4c7_4.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_b4ee57c19e06c4c7_5.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_b4ee57c19e06c4c7_6.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_b4ee57c19e06c4c7_7.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_b4ee57c19e06c4c7_8.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_b4ee57c19e06c4c7_9.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_b4ee57c19e06c4c7_10.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_b4ee57c19e06c4c7_11.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_b4ee57c19e06c4c7_12.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_b4ee57c19e06c4c7_13.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_b4ee57c19e06c4c7_14.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_b4ee57c19e06c4c7_15.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_b4ee57c19e06c4c7_16.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_b4ee57c19e06c4c7_17.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_b4ee57c19e06c4c7_18.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_b4ee57c19e06c4c7_19.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_b4ee57c19e06c4c7_20.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_b4ee57c19e06c4c7_21.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_b4ee57c19e06c4c7_22.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_b4ee57c19e06c4c7_23.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_b4ee57c19e06c4c7_24.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_b4ee57c19e06c4c7_25.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_b4ee57c19e06c4c7_26.webp"
+          ],
+          "source_pages": [
+            "https://cdn.ipaper.io/iPaper/Papers/f33898a8-70a2-4a8b-ba7e-93e368e8d090/Pages/1/Normal.jpg?token=HS256-ByMti1hJegU__BRL6dZ9PTGbd0lBePtSC0cu8qX6EtE&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2ff33898a8-70a2-4a8b-ba7e-93e368e8d090%2fPages%2f&expires=1793981660",
+            "https://cdn.ipaper.io/iPaper/Papers/f33898a8-70a2-4a8b-ba7e-93e368e8d090/Pages/2/Normal.jpg?token=HS256-ByMti1hJegU__BRL6dZ9PTGbd0lBePtSC0cu8qX6EtE&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2ff33898a8-70a2-4a8b-ba7e-93e368e8d090%2fPages%2f&expires=1793981660",
+            "https://cdn.ipaper.io/iPaper/Papers/f33898a8-70a2-4a8b-ba7e-93e368e8d090/Pages/3/Normal.jpg?token=HS256-ByMti1hJegU__BRL6dZ9PTGbd0lBePtSC0cu8qX6EtE&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2ff33898a8-70a2-4a8b-ba7e-93e368e8d090%2fPages%2f&expires=1793981660",
+            "https://cdn.ipaper.io/iPaper/Papers/f33898a8-70a2-4a8b-ba7e-93e368e8d090/Pages/4/Normal.jpg?token=HS256-ByMti1hJegU__BRL6dZ9PTGbd0lBePtSC0cu8qX6EtE&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2ff33898a8-70a2-4a8b-ba7e-93e368e8d090%2fPages%2f&expires=1793981660",
+            "https://cdn.ipaper.io/iPaper/Papers/f33898a8-70a2-4a8b-ba7e-93e368e8d090/Pages/5/Normal.jpg?token=HS256-ByMti1hJegU__BRL6dZ9PTGbd0lBePtSC0cu8qX6EtE&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2ff33898a8-70a2-4a8b-ba7e-93e368e8d090%2fPages%2f&expires=1793981660",
+            "https://cdn.ipaper.io/iPaper/Papers/f33898a8-70a2-4a8b-ba7e-93e368e8d090/Pages/6/Normal.jpg?token=HS256-ByMti1hJegU__BRL6dZ9PTGbd0lBePtSC0cu8qX6EtE&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2ff33898a8-70a2-4a8b-ba7e-93e368e8d090%2fPages%2f&expires=1793981660",
+            "https://cdn.ipaper.io/iPaper/Papers/f33898a8-70a2-4a8b-ba7e-93e368e8d090/Pages/7/Normal.jpg?token=HS256-ByMti1hJegU__BRL6dZ9PTGbd0lBePtSC0cu8qX6EtE&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2ff33898a8-70a2-4a8b-ba7e-93e368e8d090%2fPages%2f&expires=1793981660",
+            "https://cdn.ipaper.io/iPaper/Papers/f33898a8-70a2-4a8b-ba7e-93e368e8d090/Pages/8/Normal.jpg?token=HS256-ByMti1hJegU__BRL6dZ9PTGbd0lBePtSC0cu8qX6EtE&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2ff33898a8-70a2-4a8b-ba7e-93e368e8d090%2fPages%2f&expires=1793981660",
+            "https://cdn.ipaper.io/iPaper/Papers/f33898a8-70a2-4a8b-ba7e-93e368e8d090/Pages/9/Normal.jpg?token=HS256-ByMti1hJegU__BRL6dZ9PTGbd0lBePtSC0cu8qX6EtE&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2ff33898a8-70a2-4a8b-ba7e-93e368e8d090%2fPages%2f&expires=1793981660",
+            "https://cdn.ipaper.io/iPaper/Papers/f33898a8-70a2-4a8b-ba7e-93e368e8d090/Pages/10/Normal.jpg?token=HS256-ByMti1hJegU__BRL6dZ9PTGbd0lBePtSC0cu8qX6EtE&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2ff33898a8-70a2-4a8b-ba7e-93e368e8d090%2fPages%2f&expires=1793981660",
+            "https://cdn.ipaper.io/iPaper/Papers/f33898a8-70a2-4a8b-ba7e-93e368e8d090/Pages/11/Normal.jpg?token=HS256-ByMti1hJegU__BRL6dZ9PTGbd0lBePtSC0cu8qX6EtE&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2ff33898a8-70a2-4a8b-ba7e-93e368e8d090%2fPages%2f&expires=1793981660",
+            "https://cdn.ipaper.io/iPaper/Papers/f33898a8-70a2-4a8b-ba7e-93e368e8d090/Pages/12/Normal.jpg?token=HS256-ByMti1hJegU__BRL6dZ9PTGbd0lBePtSC0cu8qX6EtE&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2ff33898a8-70a2-4a8b-ba7e-93e368e8d090%2fPages%2f&expires=1793981660",
+            "https://cdn.ipaper.io/iPaper/Papers/f33898a8-70a2-4a8b-ba7e-93e368e8d090/Pages/13/Normal.jpg?token=HS256-ByMti1hJegU__BRL6dZ9PTGbd0lBePtSC0cu8qX6EtE&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2ff33898a8-70a2-4a8b-ba7e-93e368e8d090%2fPages%2f&expires=1793981660",
+            "https://cdn.ipaper.io/iPaper/Papers/f33898a8-70a2-4a8b-ba7e-93e368e8d090/Pages/14/Normal.jpg?token=HS256-ByMti1hJegU__BRL6dZ9PTGbd0lBePtSC0cu8qX6EtE&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2ff33898a8-70a2-4a8b-ba7e-93e368e8d090%2fPages%2f&expires=1793981660",
+            "https://cdn.ipaper.io/iPaper/Papers/f33898a8-70a2-4a8b-ba7e-93e368e8d090/Pages/15/Normal.jpg?token=HS256-ByMti1hJegU__BRL6dZ9PTGbd0lBePtSC0cu8qX6EtE&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2ff33898a8-70a2-4a8b-ba7e-93e368e8d090%2fPages%2f&expires=1793981660",
+            "https://cdn.ipaper.io/iPaper/Papers/f33898a8-70a2-4a8b-ba7e-93e368e8d090/Pages/16/Normal.jpg?token=HS256-ByMti1hJegU__BRL6dZ9PTGbd0lBePtSC0cu8qX6EtE&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2ff33898a8-70a2-4a8b-ba7e-93e368e8d090%2fPages%2f&expires=1793981660",
+            "https://cdn.ipaper.io/iPaper/Papers/f33898a8-70a2-4a8b-ba7e-93e368e8d090/Pages/17/Normal.jpg?token=HS256-ByMti1hJegU__BRL6dZ9PTGbd0lBePtSC0cu8qX6EtE&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2ff33898a8-70a2-4a8b-ba7e-93e368e8d090%2fPages%2f&expires=1793981660",
+            "https://cdn.ipaper.io/iPaper/Papers/f33898a8-70a2-4a8b-ba7e-93e368e8d090/Pages/18/Normal.jpg?token=HS256-ByMti1hJegU__BRL6dZ9PTGbd0lBePtSC0cu8qX6EtE&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2ff33898a8-70a2-4a8b-ba7e-93e368e8d090%2fPages%2f&expires=1793981660",
+            "https://cdn.ipaper.io/iPaper/Papers/f33898a8-70a2-4a8b-ba7e-93e368e8d090/Pages/19/Normal.jpg?token=HS256-ByMti1hJegU__BRL6dZ9PTGbd0lBePtSC0cu8qX6EtE&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2ff33898a8-70a2-4a8b-ba7e-93e368e8d090%2fPages%2f&expires=1793981660",
+            "https://cdn.ipaper.io/iPaper/Papers/f33898a8-70a2-4a8b-ba7e-93e368e8d090/Pages/20/Normal.jpg?token=HS256-ByMti1hJegU__BRL6dZ9PTGbd0lBePtSC0cu8qX6EtE&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2ff33898a8-70a2-4a8b-ba7e-93e368e8d090%2fPages%2f&expires=1793981660",
+            "https://cdn.ipaper.io/iPaper/Papers/f33898a8-70a2-4a8b-ba7e-93e368e8d090/Pages/21/Normal.jpg?token=HS256-ByMti1hJegU__BRL6dZ9PTGbd0lBePtSC0cu8qX6EtE&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2ff33898a8-70a2-4a8b-ba7e-93e368e8d090%2fPages%2f&expires=1793981660",
+            "https://cdn.ipaper.io/iPaper/Papers/f33898a8-70a2-4a8b-ba7e-93e368e8d090/Pages/22/Normal.jpg?token=HS256-ByMti1hJegU__BRL6dZ9PTGbd0lBePtSC0cu8qX6EtE&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2ff33898a8-70a2-4a8b-ba7e-93e368e8d090%2fPages%2f&expires=1793981660",
+            "https://cdn.ipaper.io/iPaper/Papers/f33898a8-70a2-4a8b-ba7e-93e368e8d090/Pages/23/Normal.jpg?token=HS256-ByMti1hJegU__BRL6dZ9PTGbd0lBePtSC0cu8qX6EtE&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2ff33898a8-70a2-4a8b-ba7e-93e368e8d090%2fPages%2f&expires=1793981660",
+            "https://cdn.ipaper.io/iPaper/Papers/f33898a8-70a2-4a8b-ba7e-93e368e8d090/Pages/24/Normal.jpg?token=HS256-ByMti1hJegU__BRL6dZ9PTGbd0lBePtSC0cu8qX6EtE&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2ff33898a8-70a2-4a8b-ba7e-93e368e8d090%2fPages%2f&expires=1793981660",
+            "https://cdn.ipaper.io/iPaper/Papers/f33898a8-70a2-4a8b-ba7e-93e368e8d090/Pages/25/Normal.jpg?token=HS256-ByMti1hJegU__BRL6dZ9PTGbd0lBePtSC0cu8qX6EtE&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2ff33898a8-70a2-4a8b-ba7e-93e368e8d090%2fPages%2f&expires=1793981660",
+            "https://cdn.ipaper.io/iPaper/Papers/f33898a8-70a2-4a8b-ba7e-93e368e8d090/Pages/26/Normal.jpg?token=HS256-ByMti1hJegU__BRL6dZ9PTGbd0lBePtSC0cu8qX6EtE&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2ff33898a8-70a2-4a8b-ba7e-93e368e8d090%2fPages%2f&expires=1793981660"
+          ],
+          "source_url": "https://www.rossmann.com.tr/kataloglar",
+          "source_date_label": "perspective",
+          "verified": true,
+          "category": "cosmetics",
+          "last_seen": "2026-11-05",
+          "platform": "ipaper"
+        },
+        {
+          "id": "rossmann_eb6bc960bc1d6e5f",
+          "title": "Rossmann Perspective",
+          "valid_from": "2026-11-05",
+          "valid_until": "",
+          "page_count": 14,
+          "pages": [
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_eb6bc960bc1d6e5f_1.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_eb6bc960bc1d6e5f_2.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_eb6bc960bc1d6e5f_3.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_eb6bc960bc1d6e5f_4.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_eb6bc960bc1d6e5f_5.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_eb6bc960bc1d6e5f_6.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_eb6bc960bc1d6e5f_7.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_eb6bc960bc1d6e5f_8.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_eb6bc960bc1d6e5f_9.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_eb6bc960bc1d6e5f_10.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_eb6bc960bc1d6e5f_11.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_eb6bc960bc1d6e5f_12.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_eb6bc960bc1d6e5f_13.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/rossmann/rossmann_eb6bc960bc1d6e5f_14.webp"
+          ],
+          "source_pages": [
+            "https://cdn.ipaper.io/iPaper/Papers/21fbfa81-c08d-42e6-8557-c722e5938ebf/Pages/1/Normal.jpg?token=HS256-acUNheXRI77rcXKx7dcKWOgm8d8C3PN-D-Od8d8PE10&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f21fbfa81-c08d-42e6-8557-c722e5938ebf%2fPages%2f&expires=1793981852",
+            "https://cdn.ipaper.io/iPaper/Papers/21fbfa81-c08d-42e6-8557-c722e5938ebf/Pages/2/Normal.jpg?token=HS256-acUNheXRI77rcXKx7dcKWOgm8d8C3PN-D-Od8d8PE10&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f21fbfa81-c08d-42e6-8557-c722e5938ebf%2fPages%2f&expires=1793981852",
+            "https://cdn.ipaper.io/iPaper/Papers/21fbfa81-c08d-42e6-8557-c722e5938ebf/Pages/3/Normal.jpg?token=HS256-acUNheXRI77rcXKx7dcKWOgm8d8C3PN-D-Od8d8PE10&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f21fbfa81-c08d-42e6-8557-c722e5938ebf%2fPages%2f&expires=1793981852",
+            "https://cdn.ipaper.io/iPaper/Papers/21fbfa81-c08d-42e6-8557-c722e5938ebf/Pages/4/Normal.jpg?token=HS256-acUNheXRI77rcXKx7dcKWOgm8d8C3PN-D-Od8d8PE10&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f21fbfa81-c08d-42e6-8557-c722e5938ebf%2fPages%2f&expires=1793981852",
+            "https://cdn.ipaper.io/iPaper/Papers/21fbfa81-c08d-42e6-8557-c722e5938ebf/Pages/5/Normal.jpg?token=HS256-acUNheXRI77rcXKx7dcKWOgm8d8C3PN-D-Od8d8PE10&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f21fbfa81-c08d-42e6-8557-c722e5938ebf%2fPages%2f&expires=1793981852",
+            "https://cdn.ipaper.io/iPaper/Papers/21fbfa81-c08d-42e6-8557-c722e5938ebf/Pages/6/Normal.jpg?token=HS256-acUNheXRI77rcXKx7dcKWOgm8d8C3PN-D-Od8d8PE10&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f21fbfa81-c08d-42e6-8557-c722e5938ebf%2fPages%2f&expires=1793981852",
+            "https://cdn.ipaper.io/iPaper/Papers/21fbfa81-c08d-42e6-8557-c722e5938ebf/Pages/7/Normal.jpg?token=HS256-acUNheXRI77rcXKx7dcKWOgm8d8C3PN-D-Od8d8PE10&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f21fbfa81-c08d-42e6-8557-c722e5938ebf%2fPages%2f&expires=1793981852",
+            "https://cdn.ipaper.io/iPaper/Papers/21fbfa81-c08d-42e6-8557-c722e5938ebf/Pages/8/Normal.jpg?token=HS256-acUNheXRI77rcXKx7dcKWOgm8d8C3PN-D-Od8d8PE10&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f21fbfa81-c08d-42e6-8557-c722e5938ebf%2fPages%2f&expires=1793981852",
+            "https://cdn.ipaper.io/iPaper/Papers/21fbfa81-c08d-42e6-8557-c722e5938ebf/Pages/9/Normal.jpg?token=HS256-acUNheXRI77rcXKx7dcKWOgm8d8C3PN-D-Od8d8PE10&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f21fbfa81-c08d-42e6-8557-c722e5938ebf%2fPages%2f&expires=1793981852",
+            "https://cdn.ipaper.io/iPaper/Papers/21fbfa81-c08d-42e6-8557-c722e5938ebf/Pages/10/Normal.jpg?token=HS256-acUNheXRI77rcXKx7dcKWOgm8d8C3PN-D-Od8d8PE10&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f21fbfa81-c08d-42e6-8557-c722e5938ebf%2fPages%2f&expires=1793981852",
+            "https://cdn.ipaper.io/iPaper/Papers/21fbfa81-c08d-42e6-8557-c722e5938ebf/Pages/11/Normal.jpg?token=HS256-acUNheXRI77rcXKx7dcKWOgm8d8C3PN-D-Od8d8PE10&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f21fbfa81-c08d-42e6-8557-c722e5938ebf%2fPages%2f&expires=1793981852",
+            "https://cdn.ipaper.io/iPaper/Papers/21fbfa81-c08d-42e6-8557-c722e5938ebf/Pages/12/Normal.jpg?token=HS256-acUNheXRI77rcXKx7dcKWOgm8d8C3PN-D-Od8d8PE10&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f21fbfa81-c08d-42e6-8557-c722e5938ebf%2fPages%2f&expires=1793981852",
+            "https://cdn.ipaper.io/iPaper/Papers/21fbfa81-c08d-42e6-8557-c722e5938ebf/Pages/13/Normal.jpg?token=HS256-acUNheXRI77rcXKx7dcKWOgm8d8C3PN-D-Od8d8PE10&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f21fbfa81-c08d-42e6-8557-c722e5938ebf%2fPages%2f&expires=1793981852",
+            "https://cdn.ipaper.io/iPaper/Papers/21fbfa81-c08d-42e6-8557-c722e5938ebf/Pages/14/Normal.jpg?token=HS256-acUNheXRI77rcXKx7dcKWOgm8d8C3PN-D-Od8d8PE10&token_ignore_params=true&token_path=%2fiPaper%2fPapers%2f21fbfa81-c08d-42e6-8557-c722e5938ebf%2fPages%2f&expires=1793981852"
+          ],
+          "source_url": "https://www.rossmann.com.tr/kataloglar",
+          "source_date_label": "perspective",
+          "verified": true,
+          "category": "cosmetics",
+          "last_seen": "2026-11-05",
+          "platform": "ipaper"
+        },
         {
           "id": "rossmann_dcfbce6685b1d07a",
           "title": "Rossmann Perspective",
@@ -2170,6 +2646,27 @@
       "logo_url": "",
       "catalogs": [
         {
+          "id": "hakmar_848f3b0956a7dd63",
+          "title": "Hakmar - Katalog Sadece 3 Gün - 06 - 08 Kasım 2026",
+          "valid_from": "2026-11-05",
+          "valid_until": "",
+          "page_count": 2,
+          "pages": [
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/hakmar/hakmar_848f3b0956a7dd63_1.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/hakmar/hakmar_848f3b0956a7dd63_2.webp"
+          ],
+          "source_pages": [
+            "https://eu.kimbicdn.com/thumbor/Gdi4dQPB0cFZy4gIYPMcggur0FY=/0x0/filters:format(webp):quality(65)/com.tr/data/53/41380/0.jpg?t=1793851718",
+            "https://eu.kimbicdn.com/thumbor/Q4-V0-fSj9JXu0m0IbZr7iPGFPw=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/53/41380/0.jpg?t=1793851718"
+          ],
+          "source_url": "https://www.kimbino.com.tr/hakmar/hakmar-katalog-sadece-3-gun-cumadan-itibaren-06-kasim-2026-6041380/",
+          "source_date_label": "hakmar-katalog-sadece-3-gun-cumadan-itibaren-06-kasim-2026-6041380",
+          "verified": true,
+          "category": "supermarket",
+          "last_seen": "2026-11-05",
+          "via": "kimbino"
+        },
+        {
           "id": "hakmar_7522bec17b81b43c",
           "title": "Hakmar - Katalog Sadece 3 Gün - 30 Ekim 2026 - 01 Kasım 2026",
           "valid_from": "2026-10-30",
@@ -2356,6 +2853,119 @@
       "logo_url": "",
       "catalogs": [
         {
+          "id": "bauhaus_1dcd8e20450efca8",
+          "title": "Bauhaus Katalog - 31 Ekim 2026 - 27 Kasım 2026",
+          "valid_from": "2026-11-05",
+          "valid_until": "",
+          "page_count": 48,
+          "pages": [
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/bauhaus/bauhaus_1dcd8e20450efca8_1.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/bauhaus/bauhaus_1dcd8e20450efca8_2.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/bauhaus/bauhaus_1dcd8e20450efca8_3.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/bauhaus/bauhaus_1dcd8e20450efca8_4.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/bauhaus/bauhaus_1dcd8e20450efca8_5.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/bauhaus/bauhaus_1dcd8e20450efca8_6.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/bauhaus/bauhaus_1dcd8e20450efca8_7.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/bauhaus/bauhaus_1dcd8e20450efca8_8.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/bauhaus/bauhaus_1dcd8e20450efca8_9.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/bauhaus/bauhaus_1dcd8e20450efca8_10.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/bauhaus/bauhaus_1dcd8e20450efca8_11.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/bauhaus/bauhaus_1dcd8e20450efca8_12.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/bauhaus/bauhaus_1dcd8e20450efca8_13.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/bauhaus/bauhaus_1dcd8e20450efca8_14.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/bauhaus/bauhaus_1dcd8e20450efca8_15.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/bauhaus/bauhaus_1dcd8e20450efca8_16.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/bauhaus/bauhaus_1dcd8e20450efca8_17.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/bauhaus/bauhaus_1dcd8e20450efca8_18.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/bauhaus/bauhaus_1dcd8e20450efca8_19.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/bauhaus/bauhaus_1dcd8e20450efca8_20.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/bauhaus/bauhaus_1dcd8e20450efca8_21.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/bauhaus/bauhaus_1dcd8e20450efca8_22.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/bauhaus/bauhaus_1dcd8e20450efca8_23.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/bauhaus/bauhaus_1dcd8e20450efca8_24.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/bauhaus/bauhaus_1dcd8e20450efca8_25.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/bauhaus/bauhaus_1dcd8e20450efca8_26.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/bauhaus/bauhaus_1dcd8e20450efca8_27.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/bauhaus/bauhaus_1dcd8e20450efca8_28.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/bauhaus/bauhaus_1dcd8e20450efca8_29.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/bauhaus/bauhaus_1dcd8e20450efca8_30.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/bauhaus/bauhaus_1dcd8e20450efca8_31.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/bauhaus/bauhaus_1dcd8e20450efca8_32.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/bauhaus/bauhaus_1dcd8e20450efca8_33.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/bauhaus/bauhaus_1dcd8e20450efca8_34.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/bauhaus/bauhaus_1dcd8e20450efca8_35.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/bauhaus/bauhaus_1dcd8e20450efca8_36.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/bauhaus/bauhaus_1dcd8e20450efca8_37.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/bauhaus/bauhaus_1dcd8e20450efca8_38.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/bauhaus/bauhaus_1dcd8e20450efca8_39.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/bauhaus/bauhaus_1dcd8e20450efca8_40.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/bauhaus/bauhaus_1dcd8e20450efca8_41.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/bauhaus/bauhaus_1dcd8e20450efca8_42.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/bauhaus/bauhaus_1dcd8e20450efca8_43.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/bauhaus/bauhaus_1dcd8e20450efca8_44.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/bauhaus/bauhaus_1dcd8e20450efca8_45.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/bauhaus/bauhaus_1dcd8e20450efca8_46.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/bauhaus/bauhaus_1dcd8e20450efca8_47.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/bauhaus/bauhaus_1dcd8e20450efca8_48.webp"
+          ],
+          "source_pages": [
+            "https://eu.kimbicdn.com/thumbor/AqAHTbS69MwD8zKlyyWUB-qBgFM=/0x0/filters:format(webp):quality(65)/com.tr/data/30/41207/0.jpg",
+            "https://eu.kimbicdn.com/thumbor/hLyJqIGPwZ15jdtiy7NDkTEONZQ=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/30/41207/0.jpg",
+            "https://eu.kimbicdn.com/thumbor/aMijZTn5McGKzlbSomcaBreB2xo=/0x0/filters:format(webp):quality(65)/com.tr/data/30/41207/1.jpg",
+            "https://eu.kimbicdn.com/thumbor/XlU8-jqquilot-9ubjYcJsQ2-Ck=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/30/41207/1.jpg",
+            "https://eu.kimbicdn.com/thumbor/Op32wWrTBCmIIafQFw5gsfLttvc=/0x0/filters:format(webp):quality(65)/com.tr/data/30/41207/2.jpg",
+            "https://eu.kimbicdn.com/thumbor/3CVIBQF6G6PhRDqi2GZsexPVTzM=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/30/41207/2.jpg",
+            "https://eu.kimbicdn.com/thumbor/DpR3FQ4bkqBVpY9ljs1B4GPVvI8=/0x0/filters:format(webp):quality(65)/com.tr/data/30/41207/3.jpg",
+            "https://eu.kimbicdn.com/thumbor/64h_CpwljXD6LSe6r6kvN6kbn6I=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/30/41207/3.jpg",
+            "https://eu.kimbicdn.com/thumbor/_PtXuw9LKfJq_ORK0N-Y7WRdphc=/0x0/filters:format(webp):quality(65)/com.tr/data/30/41207/4.jpg",
+            "https://eu.kimbicdn.com/thumbor/1CV8jYstn3Y_g39YPjzEjrLzYGQ=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/30/41207/4.jpg",
+            "https://eu.kimbicdn.com/thumbor/9DozOx3EEHihA2Axfvx7iAq38V4=/0x0/filters:format(webp):quality(65)/com.tr/data/30/41207/5.jpg",
+            "https://eu.kimbicdn.com/thumbor/tnxepZk5L13OdZMc59aOW1iJSKA=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/30/41207/5.jpg",
+            "https://eu.kimbicdn.com/thumbor/mvtfAWnDXmf_VY0jsmdppm2oVAA=/0x0/filters:format(webp):quality(65)/com.tr/data/30/41207/6.jpg",
+            "https://eu.kimbicdn.com/thumbor/kMagHAYH6UjSeOYThgtNmapRzzY=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/30/41207/6.jpg",
+            "https://eu.kimbicdn.com/thumbor/UXiFu7rRlCHxQ6_lB2lMc90BCvE=/0x0/filters:format(webp):quality(65)/com.tr/data/30/41207/7.jpg",
+            "https://eu.kimbicdn.com/thumbor/cG26zg1kYeIas5Cdc-GtUT6IdHI=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/30/41207/7.jpg",
+            "https://eu.kimbicdn.com/thumbor/f1Ar3F6iAoxS_DTVfULLerEKW7E=/0x0/filters:format(webp):quality(65)/com.tr/data/30/41207/8.jpg",
+            "https://eu.kimbicdn.com/thumbor/-bEjHmJalh7oRBu4WShxZ0Cl4Og=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/30/41207/8.jpg",
+            "https://eu.kimbicdn.com/thumbor/_TYhUz0IL_zWb0dJojzfBI6R-do=/0x0/filters:format(webp):quality(65)/com.tr/data/30/41207/9.jpg",
+            "https://eu.kimbicdn.com/thumbor/OJ_IZJbkSqTgUtdGhf6t-I557cU=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/30/41207/9.jpg",
+            "https://eu.kimbicdn.com/thumbor/aptg_GphuZf7r6DnqdXqsEJaYfw=/0x0/filters:format(webp):quality(65)/com.tr/data/30/41207/10.jpg",
+            "https://eu.kimbicdn.com/thumbor/ZCKjHS5fIbuHhMdO32xwXi57Xpc=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/30/41207/10.jpg",
+            "https://eu.kimbicdn.com/thumbor/VItltpdKJZfQujMCSFNZkz4emcU=/0x0/filters:format(webp):quality(65)/com.tr/data/30/41207/11.jpg",
+            "https://eu.kimbicdn.com/thumbor/F29VcvuRt9tLqQsQ1rpjht0XU2k=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/30/41207/11.jpg",
+            "https://eu.kimbicdn.com/thumbor/PoG9Gb2U7gI6sBaM1FeE4peCoEc=/0x0/filters:format(webp):quality(65)/com.tr/data/30/41207/12.jpg",
+            "https://eu.kimbicdn.com/thumbor/GxSaEfTwT9AHSzXmCcaFRhKGpkw=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/30/41207/12.jpg",
+            "https://eu.kimbicdn.com/thumbor/vYJuKc0tYSruRC34_2AyKCXjR4w=/0x0/filters:format(webp):quality(65)/com.tr/data/30/41207/13.jpg",
+            "https://eu.kimbicdn.com/thumbor/DFvCnEBjfHVq-cKNSGBHyv50t-c=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/30/41207/13.jpg",
+            "https://eu.kimbicdn.com/thumbor/nHHSVnRh2dxPnrxepCasT5DCi2g=/0x0/filters:format(webp):quality(65)/com.tr/data/30/41207/14.jpg",
+            "https://eu.kimbicdn.com/thumbor/XLb8FQv5a8mLf5WKTB0w9wSf0-A=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/30/41207/14.jpg",
+            "https://eu.kimbicdn.com/thumbor/EfJXjckulqrb0dBDjWa6_5ytM6w=/0x0/filters:format(webp):quality(65)/com.tr/data/30/41207/15.jpg",
+            "https://eu.kimbicdn.com/thumbor/O3nhzj_LRUkBqQ_gk-jMdGrXlEg=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/30/41207/15.jpg",
+            "https://eu.kimbicdn.com/thumbor/MeU9QdPBv_kgzGniKdGFFzi9UcY=/0x0/filters:format(webp):quality(65)/com.tr/data/30/41207/16.jpg",
+            "https://eu.kimbicdn.com/thumbor/aiZkd_juplzBq2Os8e3rWCMui6g=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/30/41207/16.jpg",
+            "https://eu.kimbicdn.com/thumbor/VLUIGjJHBLMZo4oDeuJ4DXQTIyk=/0x0/filters:format(webp):quality(65)/com.tr/data/30/41207/17.jpg",
+            "https://eu.kimbicdn.com/thumbor/wGHEHTbN03CjLAeZyRyfc_gGNsQ=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/30/41207/17.jpg",
+            "https://eu.kimbicdn.com/thumbor/kR7uJjaoG5ogbqEwNMuRZekHtAo=/0x0/filters:format(webp):quality(65)/com.tr/data/30/41207/18.jpg",
+            "https://eu.kimbicdn.com/thumbor/phU0KaKieBCEwCQlJ-DpDL4edto=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/30/41207/18.jpg",
+            "https://eu.kimbicdn.com/thumbor/Ef0gkxyGcWf0GfPi8bwMjcKO3VE=/0x0/filters:format(webp):quality(65)/com.tr/data/30/41207/19.jpg",
+            "https://eu.kimbicdn.com/thumbor/hCWPlRWAywLeihorIOazt0xjH8I=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/30/41207/19.jpg",
+            "https://eu.kimbicdn.com/thumbor/tF1HHwJLjX4O5uase41PlhPD7JA=/0x0/filters:format(webp):quality(65)/com.tr/data/30/41207/20.jpg",
+            "https://eu.kimbicdn.com/thumbor/OMB8rKooUQbBtiPKAOmcl6iGWQI=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/30/41207/20.jpg",
+            "https://eu.kimbicdn.com/thumbor/me_Bo3eU3omP3ZCJQFKNP4VUI9Y=/0x0/filters:format(webp):quality(65)/com.tr/data/30/41207/21.jpg",
+            "https://eu.kimbicdn.com/thumbor/hmBirabJko6VmrNmnlh03HMKMcw=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/30/41207/21.jpg",
+            "https://eu.kimbicdn.com/thumbor/1u502ss_wuBNJihaz2dCD5pUfEw=/0x0/filters:format(webp):quality(65)/com.tr/data/30/41207/22.jpg",
+            "https://eu.kimbicdn.com/thumbor/YtRnVCg5c0mGJ41bE285OaXND7A=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/30/41207/22.jpg",
+            "https://eu.kimbicdn.com/thumbor/MzwNJnXfBsVJ1cAGZ_qqN9pTmf8=/0x0/filters:format(webp):quality(65)/com.tr/data/30/41207/23.jpg",
+            "https://eu.kimbicdn.com/thumbor/uXw_W4ts0MSHz7r8WqicouIPS3o=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/30/41207/23.jpg"
+          ],
+          "source_url": "https://www.kimbino.com.tr/bauhaus/bauhaus-katalog-cumartesinden-itibaren-31-ekim-2026-6041207/",
+          "source_date_label": "bauhaus-katalog-cumartesinden-itibaren-31-ekim-2026-6041207",
+          "verified": true,
+          "category": "home",
+          "last_seen": "2026-11-05",
+          "via": "kimbino"
+        },
+        {
           "id": "bauhaus_ef8d37d1861852d5",
           "title": "Bauhaus Katalog - 03 - 30 Ekim 2026",
           "valid_from": "2026-10-13",
@@ -2438,6 +3048,47 @@
       "logo_url": "",
       "catalogs": [
         {
+          "id": "ikea_8baca7f072b2ac23",
+          "title": "IKEA BLACK FRIDAY | 02 Kasım 2026 Katalog",
+          "valid_from": "2026-11-05",
+          "valid_until": "",
+          "page_count": 12,
+          "pages": [
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ikea/ikea_8baca7f072b2ac23_1.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ikea/ikea_8baca7f072b2ac23_2.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ikea/ikea_8baca7f072b2ac23_3.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ikea/ikea_8baca7f072b2ac23_4.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ikea/ikea_8baca7f072b2ac23_5.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ikea/ikea_8baca7f072b2ac23_6.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ikea/ikea_8baca7f072b2ac23_7.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ikea/ikea_8baca7f072b2ac23_8.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ikea/ikea_8baca7f072b2ac23_9.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ikea/ikea_8baca7f072b2ac23_10.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ikea/ikea_8baca7f072b2ac23_11.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ikea/ikea_8baca7f072b2ac23_12.webp"
+          ],
+          "source_pages": [
+            "https://eu.kimbicdn.com/thumbor/7jglsSWDzgX_r8denerJXtuiVWE=/0x0/filters:format(webp):quality(65)/com.tr/data/24/41374/0.jpg?t=1793772389",
+            "https://eu.kimbicdn.com/thumbor/tKFpXrRzJtE9JgaBViTfl3klB3g=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/24/41374/0.jpg?t=1793772389",
+            "https://eu.kimbicdn.com/thumbor/pKA58e86HfZYRSrDPi0Gmwj3dUo=/0x0/filters:format(webp):quality(65)/com.tr/data/24/41374/1.jpg?t=1793772389",
+            "https://eu.kimbicdn.com/thumbor/03Gb-07FyY30iPN29GNuTm0JbNs=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/24/41374/1.jpg?t=1793772389",
+            "https://eu.kimbicdn.com/thumbor/G3-ivsj9N1sonSqiAG6RicNpRTc=/0x0/filters:format(webp):quality(65)/com.tr/data/24/41374/2.jpg?t=1793772389",
+            "https://eu.kimbicdn.com/thumbor/rxjpDnUeRkOEJ0-zUMmwR_IEvFk=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/24/41374/2.jpg?t=1793772389",
+            "https://eu.kimbicdn.com/thumbor/NlIzMbg1dlh6so_LbREnPGKlXN8=/0x0/filters:format(webp):quality(65)/com.tr/data/24/41374/3.jpg?t=1793772389",
+            "https://eu.kimbicdn.com/thumbor/HhXHc5n2UaszwJrdviTP_I91t2A=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/24/41374/3.jpg?t=1793772389",
+            "https://eu.kimbicdn.com/thumbor/l5fQUyNpl2RhSRZMMYrLLIAlIgg=/0x0/filters:format(webp):quality(65)/com.tr/data/24/41374/4.jpg?t=1793772389",
+            "https://eu.kimbicdn.com/thumbor/zx5_7YBe-4o3q1opCVm6UfqlGeY=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/24/41374/4.jpg?t=1793772389",
+            "https://eu.kimbicdn.com/thumbor/TkPRJpQLKoc-1U9mOae1IMQbvA8=/0x0/filters:format(webp):quality(65)/com.tr/data/24/41374/5.jpg?t=1793772389",
+            "https://eu.kimbicdn.com/thumbor/k-ymJ9Y75FBZUejELvYjgSS5uvY=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/24/41374/5.jpg?t=1793772389"
+          ],
+          "source_url": "https://www.kimbino.com.tr/ikea/ikea-black-friday-pazartesinden-itibaren-02-kasim-2026-6041374/",
+          "source_date_label": "ikea-black-friday-pazartesinden-itibaren-02-kasim-2026-6041374",
+          "verified": true,
+          "category": "home",
+          "last_seen": "2026-11-05",
+          "via": "kimbino"
+        },
+        {
           "id": "ikea_53ca9f92e2a7d24e",
           "title": "IKEA Katalog - 01 - 15 Kasım 2026",
           "valid_from": "2026-10-30",
@@ -2504,6 +3155,104 @@
       "category": "supermarket",
       "logo_url": "",
       "catalogs": [
+        {
+          "id": "onur_2e54f712e5617d94",
+          "title": "Onur Market Katalog (27 Ekim 2026) - Indirim, insert",
+          "valid_from": "2026-11-05",
+          "valid_until": "",
+          "page_count": 16,
+          "pages": [
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/onur/onur_2e54f712e5617d94_1.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/onur/onur_2e54f712e5617d94_2.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/onur/onur_2e54f712e5617d94_3.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/onur/onur_2e54f712e5617d94_4.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/onur/onur_2e54f712e5617d94_5.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/onur/onur_2e54f712e5617d94_6.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/onur/onur_2e54f712e5617d94_7.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/onur/onur_2e54f712e5617d94_8.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/onur/onur_2e54f712e5617d94_9.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/onur/onur_2e54f712e5617d94_10.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/onur/onur_2e54f712e5617d94_11.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/onur/onur_2e54f712e5617d94_12.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/onur/onur_2e54f712e5617d94_13.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/onur/onur_2e54f712e5617d94_14.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/onur/onur_2e54f712e5617d94_15.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/onur/onur_2e54f712e5617d94_16.webp"
+          ],
+          "source_pages": [
+            "https://eu.kimbicdn.com/thumbor/iuhhhL03y7tSucnipn-ksKMWDb0=/0x0/filters:format(webp):quality(65)/com.tr/data/35/41034/0.jpg?t=1793073410",
+            "https://eu.kimbicdn.com/thumbor/S3EWAu2eCPnn7oGIKXq-fk6D9qQ=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/35/41034/0.jpg?t=1793073410",
+            "https://eu.kimbicdn.com/thumbor/5WZR6dTmjjV92VxCjZjEb3RGGDg=/0x0/filters:format(webp):quality(65)/com.tr/data/35/41034/1.jpg?t=1793073410",
+            "https://eu.kimbicdn.com/thumbor/3dxA38Um9UZIeynVIPCY3_3dNQs=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/35/41034/1.jpg?t=1793073410",
+            "https://eu.kimbicdn.com/thumbor/Nomftl0hki4JINnQ1iu1gyfClrg=/0x0/filters:format(webp):quality(65)/com.tr/data/35/41034/2.jpg?t=1793073410",
+            "https://eu.kimbicdn.com/thumbor/QnsVVj0q8WuFcIjILZlnm-S-PR0=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/35/41034/2.jpg?t=1793073410",
+            "https://eu.kimbicdn.com/thumbor/KMrBWIOcrZJ08s-r56PKaEorvtU=/0x0/filters:format(webp):quality(65)/com.tr/data/35/41034/3.jpg?t=1793073410",
+            "https://eu.kimbicdn.com/thumbor/dtQhYmPJby7l5WoTihp9_dvWkww=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/35/41034/3.jpg?t=1793073410",
+            "https://eu.kimbicdn.com/thumbor/mqJpsx6xRuHmzQwPE_PVh0NWO9g=/0x0/filters:format(webp):quality(65)/com.tr/data/35/41034/4.jpg?t=1793073410",
+            "https://eu.kimbicdn.com/thumbor/LRSOkt1F0yVxEuN437yG1y9fqZE=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/35/41034/4.jpg?t=1793073410",
+            "https://eu.kimbicdn.com/thumbor/Yzizw7uUU0yb7ZhKk6KRWd8CbK0=/0x0/filters:format(webp):quality(65)/com.tr/data/35/41034/5.jpg?t=1793073410",
+            "https://eu.kimbicdn.com/thumbor/fQS_XVLfoJcqy5Nt4W7Qs0w2oms=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/35/41034/5.jpg?t=1793073410",
+            "https://eu.kimbicdn.com/thumbor/F7FJltLiMcgmyes-R4Uyd3SEqow=/0x0/filters:format(webp):quality(65)/com.tr/data/35/41034/6.jpg?t=1793073410",
+            "https://eu.kimbicdn.com/thumbor/2kgzuOT-JiHVoEYCjYdD2jGFhTw=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/35/41034/6.jpg?t=1793073410",
+            "https://eu.kimbicdn.com/thumbor/juKU4ZI9XYbcD3pF3wOQJ6V5lqE=/0x0/filters:format(webp):quality(65)/com.tr/data/35/41034/7.jpg?t=1793073410",
+            "https://eu.kimbicdn.com/thumbor/IDtj_AsosNPSq_fSorL6261pO2Y=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/35/41034/7.jpg?t=1793073410"
+          ],
+          "source_url": "https://www.kimbino.com.tr/onur-market/onur-market-katalog-salidan-itibaren-27-ekim-2026-6041034/",
+          "source_date_label": "onur-market-katalog-salidan-itibaren-27-ekim-2026-6041034",
+          "verified": true,
+          "category": "supermarket",
+          "last_seen": "2026-11-05",
+          "via": "kimbino"
+        },
+        {
+          "id": "onur_0bc5bf134d0e391d",
+          "title": "Onur Market Katalog Trakya (27 Ekim 2026) - Indirim, insert",
+          "valid_from": "2026-11-05",
+          "valid_until": "",
+          "page_count": 16,
+          "pages": [
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/onur/onur_0bc5bf134d0e391d_1.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/onur/onur_0bc5bf134d0e391d_2.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/onur/onur_0bc5bf134d0e391d_3.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/onur/onur_0bc5bf134d0e391d_4.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/onur/onur_0bc5bf134d0e391d_5.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/onur/onur_0bc5bf134d0e391d_6.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/onur/onur_0bc5bf134d0e391d_7.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/onur/onur_0bc5bf134d0e391d_8.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/onur/onur_0bc5bf134d0e391d_9.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/onur/onur_0bc5bf134d0e391d_10.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/onur/onur_0bc5bf134d0e391d_11.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/onur/onur_0bc5bf134d0e391d_12.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/onur/onur_0bc5bf134d0e391d_13.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/onur/onur_0bc5bf134d0e391d_14.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/onur/onur_0bc5bf134d0e391d_15.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/onur/onur_0bc5bf134d0e391d_16.webp"
+          ],
+          "source_pages": [
+            "https://eu.kimbicdn.com/thumbor/Rl5_N6Buoc7oSBzMYelY4CFAhFM=/0x0/filters:format(webp):quality(65)/com.tr/data/35/41068/0.jpg?t=1793158863",
+            "https://eu.kimbicdn.com/thumbor/sdPRWu0aW5gSjJZZQRUaXiBgSJc=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/35/41068/0.jpg?t=1793158863",
+            "https://eu.kimbicdn.com/thumbor/i80BUCUd3Ue6w9d_gm67Vfv95Dk=/0x0/filters:format(webp):quality(65)/com.tr/data/35/41068/1.jpg?t=1793158863",
+            "https://eu.kimbicdn.com/thumbor/N5kEatQ2U-0UJxKFteGuMMWUgfI=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/35/41068/1.jpg?t=1793158863",
+            "https://eu.kimbicdn.com/thumbor/88PU6VK7ksUNak3CwQO1L0gYgkw=/0x0/filters:format(webp):quality(65)/com.tr/data/35/41068/2.jpg?t=1793158863",
+            "https://eu.kimbicdn.com/thumbor/J1M-xduUUlZC9vdhA6za2-h4nNs=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/35/41068/2.jpg?t=1793158863",
+            "https://eu.kimbicdn.com/thumbor/iHyEpq3FpPeZ7r12IpTW6Kj8AN4=/0x0/filters:format(webp):quality(65)/com.tr/data/35/41068/3.jpg?t=1793158863",
+            "https://eu.kimbicdn.com/thumbor/AoFthq2R0ISReHfBnGse7vkbrgU=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/35/41068/3.jpg?t=1793158863",
+            "https://eu.kimbicdn.com/thumbor/8k15PfN-ZhcWLRI3OkScfbD_QW4=/0x0/filters:format(webp):quality(65)/com.tr/data/35/41068/4.jpg?t=1793158863",
+            "https://eu.kimbicdn.com/thumbor/2Ccr6Czcz-Shu6ttigDkG7PlQEk=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/35/41068/4.jpg?t=1793158863",
+            "https://eu.kimbicdn.com/thumbor/Qn6riKtlJE4ucDW9fYMnv2-pkCY=/0x0/filters:format(webp):quality(65)/com.tr/data/35/41068/5.jpg?t=1793158863",
+            "https://eu.kimbicdn.com/thumbor/TiYBIhCO5QSqEMSyfmyPBd4zXIw=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/35/41068/5.jpg?t=1793158863",
+            "https://eu.kimbicdn.com/thumbor/EEmEMCR3YWLcQFuhE7XrBkk7PYM=/0x0/filters:format(webp):quality(65)/com.tr/data/35/41068/6.jpg?t=1793158863",
+            "https://eu.kimbicdn.com/thumbor/qpTnk1ReNzPyQU1vR0z6pywWSyI=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/35/41068/6.jpg?t=1793158863",
+            "https://eu.kimbicdn.com/thumbor/pQ3VnLzm55ZExOQL_iXM89Pd9WY=/0x0/filters:format(webp):quality(65)/com.tr/data/35/41068/7.jpg?t=1793158863",
+            "https://eu.kimbicdn.com/thumbor/LhBlpiPwi91hXYpkbV8qDsIoRxg=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/35/41068/7.jpg?t=1793158863"
+          ],
+          "source_url": "https://www.kimbino.com.tr/onur-market/onur-market-katalog-trakya-salidan-itibaren-27-ekim-2026-6041068/",
+          "source_date_label": "onur-market-katalog-trakya-salidan-itibaren-27-ekim-2026-6041068",
+          "verified": true,
+          "category": "supermarket",
+          "last_seen": "2026-11-05",
+          "via": "kimbino"
+        },
         {
           "id": "onur_843284f725d8d322",
           "title": "Onur Market - Taze Ürünlerde İndirimler Trakya (29 Ekim 2026) - Indirim, insert",
@@ -2743,6 +3492,76 @@
       "category": "supermarket",
       "logo_url": "",
       "catalogs": [
+        {
+          "id": "happy_615c174f4fc91206",
+          "title": "Happy Center Katalog (04 - 17 Kasım 2026) - Indirim",
+          "valid_from": "2026-11-05",
+          "valid_until": "",
+          "page_count": 16,
+          "pages": [
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/happy/happy_615c174f4fc91206_1.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/happy/happy_615c174f4fc91206_2.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/happy/happy_615c174f4fc91206_3.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/happy/happy_615c174f4fc91206_4.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/happy/happy_615c174f4fc91206_5.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/happy/happy_615c174f4fc91206_6.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/happy/happy_615c174f4fc91206_7.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/happy/happy_615c174f4fc91206_8.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/happy/happy_615c174f4fc91206_9.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/happy/happy_615c174f4fc91206_10.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/happy/happy_615c174f4fc91206_11.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/happy/happy_615c174f4fc91206_12.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/happy/happy_615c174f4fc91206_13.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/happy/happy_615c174f4fc91206_14.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/happy/happy_615c174f4fc91206_15.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/happy/happy_615c174f4fc91206_16.webp"
+          ],
+          "source_pages": [
+            "https://eu.kimbicdn.com/thumbor/DwZ1u06gAf49fc6O24a0dsUi8g0=/0x0/filters:format(webp):quality(65)/com.tr/data/47/41331/0.jpg?t=1793677903",
+            "https://eu.kimbicdn.com/thumbor/lYUa-cdEJxt5HdbFSZzQJxJcaNE=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/47/41331/0.jpg?t=1793677903",
+            "https://eu.kimbicdn.com/thumbor/u6lGW43GRvNccNfkKMG_wLVgrz0=/0x0/filters:format(webp):quality(65)/com.tr/data/47/41331/1.jpg?t=1793677903",
+            "https://eu.kimbicdn.com/thumbor/Busw_0SmE-1uEeONwT_gnPTKETU=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/47/41331/1.jpg?t=1793677903",
+            "https://eu.kimbicdn.com/thumbor/vnfKQJ0RIJvSsG-y3tsNbd4IVSE=/0x0/filters:format(webp):quality(65)/com.tr/data/47/41331/2.jpg?t=1793677903",
+            "https://eu.kimbicdn.com/thumbor/C5gVsf28zxYCOJMPNd3HQURM6tc=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/47/41331/2.jpg?t=1793677903",
+            "https://eu.kimbicdn.com/thumbor/f7VGPSL1AdWuhGZpCWIZOXNXRbQ=/0x0/filters:format(webp):quality(65)/com.tr/data/47/41331/3.jpg?t=1793677903",
+            "https://eu.kimbicdn.com/thumbor/XyxpE80xuIPssFR64hRmUvo4qTs=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/47/41331/3.jpg?t=1793677903",
+            "https://eu.kimbicdn.com/thumbor/6zumGbvxHpxMFIZUL66ROdEWz3w=/0x0/filters:format(webp):quality(65)/com.tr/data/47/41331/4.jpg?t=1793677903",
+            "https://eu.kimbicdn.com/thumbor/9UexUo0WF_4JMOFOUlHXcMXaHlw=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/47/41331/4.jpg?t=1793677903",
+            "https://eu.kimbicdn.com/thumbor/Z5BQek84FzEOZ2b-_jCjog9y3Ns=/0x0/filters:format(webp):quality(65)/com.tr/data/47/41331/5.jpg?t=1793677903",
+            "https://eu.kimbicdn.com/thumbor/yTBwKqJ5jojJfsINppNjBQuti2c=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/47/41331/5.jpg?t=1793677903",
+            "https://eu.kimbicdn.com/thumbor/oL1_eky0rduE4KDzCwAwKv0o9zI=/0x0/filters:format(webp):quality(65)/com.tr/data/47/41331/6.jpg?t=1793677903",
+            "https://eu.kimbicdn.com/thumbor/2-iRG_Z9VR4-iDgX49tyEanjjnM=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/47/41331/6.jpg?t=1793677903",
+            "https://eu.kimbicdn.com/thumbor/ziwOvhPxTTsxKrDRtv8MRiA5ZSc=/0x0/filters:format(webp):quality(65)/com.tr/data/47/41331/7.jpg?t=1793677903",
+            "https://eu.kimbicdn.com/thumbor/8Nx1CtLKt56RuR-6a-657ZRQSrM=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/47/41331/7.jpg?t=1793677903"
+          ],
+          "source_url": "https://www.kimbino.com.tr/happy-center/happy-center-katalog-carsambadan-itibaren-04-kasim-2026-6041331/",
+          "source_date_label": "happy-center-katalog-carsambadan-itibaren-04-kasim-2026-6041331",
+          "verified": true,
+          "category": "supermarket",
+          "last_seen": "2026-11-05",
+          "via": "kimbino"
+        },
+        {
+          "id": "happy_542b6f6c091df7ed",
+          "title": "Happy Center Katalog (04 - 08 Kasım 2026) - Indirim",
+          "valid_from": "2026-11-05",
+          "valid_until": "",
+          "page_count": 2,
+          "pages": [
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/happy/happy_542b6f6c091df7ed_1.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/happy/happy_542b6f6c091df7ed_2.webp"
+          ],
+          "source_pages": [
+            "https://eu.kimbicdn.com/thumbor/ZDtEhrW1eLeIeuaZxjMP8mU9lE8=/0x0/filters:format(webp):quality(65)/com.tr/data/47/41373/0.jpg?t=1793770363",
+            "https://eu.kimbicdn.com/thumbor/0wwvMs0D0vXc5IawT465O_gKtHA=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/47/41373/0.jpg?t=1793770363"
+          ],
+          "source_url": "https://www.kimbino.com.tr/happy-center/happy-center-kasap-carsambadan-itibaren-04-kasim-2026-6041373/",
+          "source_date_label": "happy-center-kasap-carsambadan-itibaren-04-kasim-2026-6041373",
+          "verified": true,
+          "category": "supermarket",
+          "last_seen": "2026-11-05",
+          "via": "kimbino"
+        },
         {
           "id": "happy_ed2e3dda0b53826a",
           "title": "Happy Center Katalog (21 - 21 Ekim 2026) - Indirim",
@@ -2992,6 +3811,64 @@
       "logo_url": "",
       "catalogs": [
         {
+          "id": "kim_bbe561864ff65d26",
+          "title": "Kim Market - İndirim - 05 Kasım 2026 - 31 Aralık 2026",
+          "valid_from": "2026-11-05",
+          "valid_until": "",
+          "page_count": 4,
+          "pages": [
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/kim/kim_bbe561864ff65d26_1.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/kim/kim_bbe561864ff65d26_2.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/kim/kim_bbe561864ff65d26_3.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/kim/kim_bbe561864ff65d26_4.webp"
+          ],
+          "source_pages": [
+            "https://eu.kimbicdn.com/thumbor/k49YutN2DKtPVXYh74VJRk33Z3c=/0x0/filters:format(webp):quality(65)/com.tr/data/36/41381/0.jpg",
+            "https://eu.kimbicdn.com/thumbor/xZY1vZDxT8Cre-Cs-XXDSmGbZMY=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/36/41381/0.jpg",
+            "https://eu.kimbicdn.com/thumbor/HmeiBra_zQ2nRFNu17w6sArsCJk=/0x0/filters:format(webp):quality(65)/com.tr/data/36/41381/1.jpg",
+            "https://eu.kimbicdn.com/thumbor/jOtwFC-glvz9dbPE2jK1L2ca9yE=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/36/41381/1.jpg"
+          ],
+          "source_url": "https://www.kimbino.com.tr/kim-market/kim-market-indirim-persembeden-itibaren-05-kasim-2026-6041381/",
+          "source_date_label": "kim-market-indirim-persembeden-itibaren-05-kasim-2026-6041381",
+          "verified": true,
+          "category": "supermarket",
+          "last_seen": "2026-11-05",
+          "via": "kimbino"
+        },
+        {
+          "id": "kim_7d3d68163f091b02",
+          "title": "Kim - Yıldıztabya Açılış - 04 - 13 Kasım 2026",
+          "valid_from": "2026-11-05",
+          "valid_until": "",
+          "page_count": 8,
+          "pages": [
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/kim/kim_7d3d68163f091b02_1.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/kim/kim_7d3d68163f091b02_2.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/kim/kim_7d3d68163f091b02_3.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/kim/kim_7d3d68163f091b02_4.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/kim/kim_7d3d68163f091b02_5.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/kim/kim_7d3d68163f091b02_6.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/kim/kim_7d3d68163f091b02_7.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/kim/kim_7d3d68163f091b02_8.webp"
+          ],
+          "source_pages": [
+            "https://eu.kimbicdn.com/thumbor/oo5kc9TZGKAYhg6i_6G43Ra_Yc0=/0x0/filters:format(webp):quality(65)/com.tr/data/36/41366/0.jpg",
+            "https://eu.kimbicdn.com/thumbor/5i5NtPUex5C2f5sQyu2lX2aEXY4=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/36/41366/0.jpg",
+            "https://eu.kimbicdn.com/thumbor/LLqr9FtlXwELOggbxhwpaEfqxY0=/0x0/filters:format(webp):quality(65)/com.tr/data/36/41366/1.jpg",
+            "https://eu.kimbicdn.com/thumbor/NLDv6TWQtYe7U8IgWOAKUay0ELk=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/36/41366/1.jpg",
+            "https://eu.kimbicdn.com/thumbor/5AbqT3bR4rYfZzF6TdfzCP4lq50=/0x0/filters:format(webp):quality(65)/com.tr/data/36/41366/2.jpg",
+            "https://eu.kimbicdn.com/thumbor/NofkH3DdZ_qPQRf6rYxXTpT_6Fs=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/36/41366/2.jpg",
+            "https://eu.kimbicdn.com/thumbor/oSUjucR5L-Hz7lJIzNhgnrkzUH8=/0x0/filters:format(webp):quality(65)/com.tr/data/36/41366/3.jpg",
+            "https://eu.kimbicdn.com/thumbor/truYOablT8tEIeE2z-oQb1ToAOg=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/36/41366/3.jpg"
+          ],
+          "source_url": "https://www.kimbino.com.tr/kim-market/kim-yildiztabya-acilis-carsambadan-itibaren-04-kasim-2026-6041366/",
+          "source_date_label": "kim-yildiztabya-acilis-carsambadan-itibaren-04-kasim-2026-6041366",
+          "verified": true,
+          "category": "supermarket",
+          "last_seen": "2026-11-05",
+          "via": "kimbino"
+        },
+        {
           "id": "kim_61031db802b4f003",
           "title": "Kim Market - Ayın Ürünü - 01 - 31 Ekim 2026",
           "valid_from": "2026-10-31",
@@ -3142,6 +4019,68 @@
       "logo_url": "",
       "catalogs": [
         {
+          "id": "mopas_dbc830f57925cdf0",
+          "title": "Mopaş - Aktüel İndirim - 03 - 16 Kasım 2026",
+          "valid_from": "2026-11-05",
+          "valid_until": "",
+          "page_count": 8,
+          "pages": [
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/mopas/mopas_dbc830f57925cdf0_1.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/mopas/mopas_dbc830f57925cdf0_2.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/mopas/mopas_dbc830f57925cdf0_3.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/mopas/mopas_dbc830f57925cdf0_4.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/mopas/mopas_dbc830f57925cdf0_5.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/mopas/mopas_dbc830f57925cdf0_6.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/mopas/mopas_dbc830f57925cdf0_7.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/mopas/mopas_dbc830f57925cdf0_8.webp"
+          ],
+          "source_pages": [
+            "https://eu.kimbicdn.com/thumbor/gjOVD7eeL54wUFi2UyhEum4cEgk=/0x0/filters:format(webp):quality(65)/com.tr/data/55/41383/0.jpg?t=1793853498",
+            "https://eu.kimbicdn.com/thumbor/csc7ejG-DMiohm5bIAkA8IliNss=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/55/41383/0.jpg?t=1793853498",
+            "https://eu.kimbicdn.com/thumbor/-gm6HUGcfhpBK2UjcoUc9yFYfB0=/0x0/filters:format(webp):quality(65)/com.tr/data/55/41383/1.jpg?t=1793853498",
+            "https://eu.kimbicdn.com/thumbor/v7PJBvW3iQ_ala7bTAUqacUPbwQ=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/55/41383/1.jpg?t=1793853498",
+            "https://eu.kimbicdn.com/thumbor/g560O9AVZ6pqIT2LiCIZ5cp_kaE=/0x0/filters:format(webp):quality(65)/com.tr/data/55/41383/2.jpg?t=1793853498",
+            "https://eu.kimbicdn.com/thumbor/_eYDXXvXiDxN0Jh7WN7htM65_ds=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/55/41383/2.jpg?t=1793853498",
+            "https://eu.kimbicdn.com/thumbor/DjBPrgPqcDCcU7j8TM49hGqOpl0=/0x0/filters:format(webp):quality(65)/com.tr/data/55/41383/3.jpg?t=1793853498",
+            "https://eu.kimbicdn.com/thumbor/R4AAUdF_xX3RRK7OE5cDdzwOZII=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/55/41383/3.jpg?t=1793853498"
+          ],
+          "source_url": "https://www.kimbino.com.tr/mopa/mopas-aktuel-indirim-salidan-itibaren-03-kasim-2026-6041383/",
+          "source_date_label": "mopas-aktuel-indirim-salidan-itibaren-03-kasim-2026-6041383",
+          "verified": true,
+          "category": "supermarket",
+          "last_seen": "2026-11-05",
+          "via": "kimbino"
+        },
+        {
+          "id": "mopas_a8b0c46fc7d65b72",
+          "title": "Mopaş İndirim - 01 - 09 Kasım 2026",
+          "valid_from": "2026-11-05",
+          "valid_until": "",
+          "page_count": 6,
+          "pages": [
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/mopas/mopas_a8b0c46fc7d65b72_1.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/mopas/mopas_a8b0c46fc7d65b72_2.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/mopas/mopas_a8b0c46fc7d65b72_3.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/mopas/mopas_a8b0c46fc7d65b72_4.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/mopas/mopas_a8b0c46fc7d65b72_5.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/mopas/mopas_a8b0c46fc7d65b72_6.webp"
+          ],
+          "source_pages": [
+            "https://eu.kimbicdn.com/thumbor/rlFpukBT9sbEIg9nORqk4dTYVnQ=/0x0/filters:format(webp):quality(65)/com.tr/data/55/41259/0.jpg?t=1793853492",
+            "https://eu.kimbicdn.com/thumbor/vKCzAZ-aP7yWkHUF5RvvQwDzMNI=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/55/41259/0.jpg?t=1793853492",
+            "https://eu.kimbicdn.com/thumbor/TBAPzAHSHc9xLSna6cRdb3oXduw=/0x0/filters:format(webp):quality(65)/com.tr/data/55/41259/1.jpg?t=1793853492",
+            "https://eu.kimbicdn.com/thumbor/9LaqeVCVxr5ch2DKyTL7nSn3Rkg=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/55/41259/1.jpg?t=1793853492",
+            "https://eu.kimbicdn.com/thumbor/bXJUS872SdYwrl9VIgRdXRgLoe0=/0x0/filters:format(webp):quality(65)/com.tr/data/55/41259/2.jpg?t=1793853492",
+            "https://eu.kimbicdn.com/thumbor/oIaS26DHdcf-iPvTPNQnhq4D6IQ=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/55/41259/2.jpg?t=1793853492"
+          ],
+          "source_url": "https://www.kimbino.com.tr/mopa/mopas-indirim-pazardan-itibaren-01-kasim-2026-6041259/",
+          "source_date_label": "mopas-indirim-pazardan-itibaren-01-kasim-2026-6041259",
+          "verified": true,
+          "category": "supermarket",
+          "last_seen": "2026-11-05",
+          "via": "kimbino"
+        },
+        {
           "id": "mopas_91dce9e336769adf",
           "title": "Mopaş Katalog - 17 - 30 Ekim 2026",
           "valid_from": "2026-10-19",
@@ -3284,6 +4223,31 @@
       "category": "supermarket",
       "logo_url": "",
       "catalogs": [
+        {
+          "id": "seyhanlar_320b56472a1e682a",
+          "title": "Seyhanlar Market Katalog - 02 - 08 Kasım 2026",
+          "valid_from": "2026-11-05",
+          "valid_until": "",
+          "page_count": 4,
+          "pages": [
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/seyhanlar/seyhanlar_320b56472a1e682a_1.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/seyhanlar/seyhanlar_320b56472a1e682a_2.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/seyhanlar/seyhanlar_320b56472a1e682a_3.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/seyhanlar/seyhanlar_320b56472a1e682a_4.webp"
+          ],
+          "source_pages": [
+            "https://eu.kimbicdn.com/thumbor/a5HXnCmC4mntxaICeHmvwOgBrbg=/0x0/filters:format(webp):quality(65)/com.tr/data/57/41263/0.jpg?t=1793600314",
+            "https://eu.kimbicdn.com/thumbor/6-nGHffzRq9kAc2i37jUZ8p7kcA=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/57/41263/0.jpg?t=1793600314",
+            "https://eu.kimbicdn.com/thumbor/XDNts6ThpWWwIan6whwaI3UOZTY=/0x0/filters:format(webp):quality(65)/com.tr/data/57/41263/1.jpg?t=1793600314",
+            "https://eu.kimbicdn.com/thumbor/JjgQwC2r9U3CwkBVcqC3SVsNkn4=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/57/41263/1.jpg?t=1793600314"
+          ],
+          "source_url": "https://www.kimbino.com.tr/seyhanlar-market/seyhanlar-market-katalog-pazartesinden-itibaren-02-kasim-2026-6041263/",
+          "source_date_label": "seyhanlar-market-katalog-pazartesinden-itibaren-02-kasim-2026-6041263",
+          "verified": true,
+          "category": "supermarket",
+          "last_seen": "2026-11-05",
+          "via": "kimbino"
+        },
         {
           "id": "seyhanlar_819f5a6221081573",
           "title": "Seyhanlar Market Katalog - 26 Ekim 2026 - 01 Kasım 2026",
@@ -3477,6 +4441,52 @@
       "category": "supermarket",
       "logo_url": "",
       "catalogs": [
+        {
+          "id": "cagri_fe8de3a2a15d7232",
+          "title": "Çağrı Market - Haftanın Ürünleri - 06 - 08 Kasım 2026",
+          "valid_from": "2026-11-05",
+          "valid_until": "",
+          "page_count": 2,
+          "pages": [
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/cagri/cagri_fe8de3a2a15d7232_1.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/cagri/cagri_fe8de3a2a15d7232_2.webp"
+          ],
+          "source_pages": [
+            "https://eu.kimbicdn.com/thumbor/47cOvS7dWkFQLyqTUIfkB0EBDe0=/0x0/filters:format(webp):quality(65)/com.tr/data/34/41376/0.jpg",
+            "https://eu.kimbicdn.com/thumbor/omXwj2fzOU23Xa8gBmfekMmwHmE=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/34/41376/0.jpg"
+          ],
+          "source_url": "https://www.kimbino.com.tr/cagri-market/cagri-market-haftanin-urunleri-cumadan-itibaren-06-kasim-2026-6041376/",
+          "source_date_label": "cagri-market-haftanin-urunleri-cumadan-itibaren-06-kasim-2026-6041376",
+          "verified": true,
+          "category": "supermarket",
+          "last_seen": "2026-11-05",
+          "via": "kimbino"
+        },
+        {
+          "id": "cagri_97e8695cd9c769a3",
+          "title": "Çağrı Market - Manav Katalog - 05 - 08 Kasım 2026",
+          "valid_from": "2026-11-05",
+          "valid_until": "",
+          "page_count": 4,
+          "pages": [
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/cagri/cagri_97e8695cd9c769a3_1.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/cagri/cagri_97e8695cd9c769a3_2.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/cagri/cagri_97e8695cd9c769a3_3.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/cagri/cagri_97e8695cd9c769a3_4.webp"
+          ],
+          "source_pages": [
+            "https://eu.kimbicdn.com/thumbor/cs670VnVFtrvPQ1DlirG1iFfuu8=/0x0/filters:format(webp):quality(65)/com.tr/data/34/41375/0.jpg",
+            "https://eu.kimbicdn.com/thumbor/A4IUKtRQ5G9bGw8PktdPjQCz9kY=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/34/41375/0.jpg",
+            "https://eu.kimbicdn.com/thumbor/hcVNX1VulV_0w2QqRPbuOsLd6zY=/0x0/filters:format(webp):quality(65)/com.tr/data/34/41375/1.jpg",
+            "https://eu.kimbicdn.com/thumbor/OcwLKJDDI57-T4qqZKja12F9tZ0=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/34/41375/1.jpg"
+          ],
+          "source_url": "https://www.kimbino.com.tr/cagri-market/cagri-market-manav-katalog-persembeden-itibaren-05-kasim-2026-6041375/",
+          "source_date_label": "cagri-market-manav-katalog-persembeden-itibaren-05-kasim-2026-6041375",
+          "verified": true,
+          "category": "supermarket",
+          "last_seen": "2026-11-05",
+          "via": "kimbino"
+        },
         {
           "id": "cagri_4ab1d36bf5e84b80",
           "title": "Çağrı Market Katalog - 30 Ekim 2026 - 09 Kasım 2026",
@@ -3771,6 +4781,71 @@
       "logo_url": "",
       "catalogs": [
         {
+          "id": "ozkurular_ed81e3f00316b1bb",
+          "title": "Özkuruşlar - Aktüel İndirim - 02 - 08 Kasım 2026",
+          "valid_from": "2026-11-05",
+          "valid_until": "",
+          "page_count": 24,
+          "pages": [
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ozkurular/ozkurular_ed81e3f00316b1bb_1.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ozkurular/ozkurular_ed81e3f00316b1bb_2.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ozkurular/ozkurular_ed81e3f00316b1bb_3.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ozkurular/ozkurular_ed81e3f00316b1bb_4.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ozkurular/ozkurular_ed81e3f00316b1bb_5.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ozkurular/ozkurular_ed81e3f00316b1bb_6.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ozkurular/ozkurular_ed81e3f00316b1bb_7.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ozkurular/ozkurular_ed81e3f00316b1bb_8.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ozkurular/ozkurular_ed81e3f00316b1bb_9.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ozkurular/ozkurular_ed81e3f00316b1bb_10.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ozkurular/ozkurular_ed81e3f00316b1bb_11.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ozkurular/ozkurular_ed81e3f00316b1bb_12.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ozkurular/ozkurular_ed81e3f00316b1bb_13.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ozkurular/ozkurular_ed81e3f00316b1bb_14.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ozkurular/ozkurular_ed81e3f00316b1bb_15.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ozkurular/ozkurular_ed81e3f00316b1bb_16.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ozkurular/ozkurular_ed81e3f00316b1bb_17.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ozkurular/ozkurular_ed81e3f00316b1bb_18.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ozkurular/ozkurular_ed81e3f00316b1bb_19.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ozkurular/ozkurular_ed81e3f00316b1bb_20.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ozkurular/ozkurular_ed81e3f00316b1bb_21.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ozkurular/ozkurular_ed81e3f00316b1bb_22.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ozkurular/ozkurular_ed81e3f00316b1bb_23.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/ozkurular/ozkurular_ed81e3f00316b1bb_24.webp"
+          ],
+          "source_pages": [
+            "https://eu.kimbicdn.com/thumbor/02jV67Po7yPGDP3wXdZfah-advk=/0x0/filters:format(webp):quality(65)/com.tr/data/52/41351/0.jpg?t=1793684255",
+            "https://eu.kimbicdn.com/thumbor/Ym8cGC-AZU-2A8D-YWVG56hT2Ps=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/52/41351/0.jpg?t=1793684255",
+            "https://eu.kimbicdn.com/thumbor/6IuYqM7DF8BLzqI9soWx2z-tT7U=/0x0/filters:format(webp):quality(65)/com.tr/data/52/41351/1.jpg?t=1793684255",
+            "https://eu.kimbicdn.com/thumbor/zR3XD3DNSWm0QQgFd4EpXfC15Dk=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/52/41351/1.jpg?t=1793684255",
+            "https://eu.kimbicdn.com/thumbor/URNWaGDeQC2vNVDuZPCS9sIQgkg=/0x0/filters:format(webp):quality(65)/com.tr/data/52/41351/2.jpg?t=1793684255",
+            "https://eu.kimbicdn.com/thumbor/kMNE23ak_8miFwuAeeB--cGO6aw=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/52/41351/2.jpg?t=1793684255",
+            "https://eu.kimbicdn.com/thumbor/ymSB9MtfNlbKd3efdIfYXZshw4E=/0x0/filters:format(webp):quality(65)/com.tr/data/52/41351/3.jpg?t=1793684255",
+            "https://eu.kimbicdn.com/thumbor/ibB2jju-Np7IYgXZmmOCmp9CNjo=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/52/41351/3.jpg?t=1793684255",
+            "https://eu.kimbicdn.com/thumbor/1OVNxmB4BNGPO4xloOl6NGJPuLw=/0x0/filters:format(webp):quality(65)/com.tr/data/52/41351/4.jpg?t=1793684255",
+            "https://eu.kimbicdn.com/thumbor/u5VAdZzWAVZmZHWVPlFftFg5Fxw=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/52/41351/4.jpg?t=1793684255",
+            "https://eu.kimbicdn.com/thumbor/UobiupVSpB3W1NqzoHuYrQHNPq0=/0x0/filters:format(webp):quality(65)/com.tr/data/52/41351/5.jpg?t=1793684255",
+            "https://eu.kimbicdn.com/thumbor/YvImiPXy3GDxyTvsxrMMcaouCN8=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/52/41351/5.jpg?t=1793684255",
+            "https://eu.kimbicdn.com/thumbor/epZn5LdRogSNyoWTPNzikzM_W3M=/0x0/filters:format(webp):quality(65)/com.tr/data/52/41351/6.jpg?t=1793684255",
+            "https://eu.kimbicdn.com/thumbor/Xp-dZ5BecfeSgDkZMmoEcowSBVI=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/52/41351/6.jpg?t=1793684255",
+            "https://eu.kimbicdn.com/thumbor/9tatJhaz7ij5R9tsczrNlPrncNo=/0x0/filters:format(webp):quality(65)/com.tr/data/52/41351/7.jpg?t=1793684255",
+            "https://eu.kimbicdn.com/thumbor/lshRqRByj8VzJlfTbC2SWVJbZPQ=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/52/41351/7.jpg?t=1793684255",
+            "https://eu.kimbicdn.com/thumbor/2dXAYNsMNpFwMgYRyryCsymvq40=/0x0/filters:format(webp):quality(65)/com.tr/data/52/41351/8.jpg?t=1793684255",
+            "https://eu.kimbicdn.com/thumbor/68SyEQXtYOEz5o_OI07k9N-sk4o=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/52/41351/8.jpg?t=1793684255",
+            "https://eu.kimbicdn.com/thumbor/D8cYuT9uEuzuwPkkQWElp6yatlU=/0x0/filters:format(webp):quality(65)/com.tr/data/52/41351/9.jpg?t=1793684255",
+            "https://eu.kimbicdn.com/thumbor/YqkDOiXaGCyqnZhKn8n9vAot0dU=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/52/41351/9.jpg?t=1793684255",
+            "https://eu.kimbicdn.com/thumbor/Xy9fijBMaHS3shHMwXHxRd6TeUA=/0x0/filters:format(webp):quality(65)/com.tr/data/52/41351/10.jpg?t=1793684255",
+            "https://eu.kimbicdn.com/thumbor/emYINUvRpFxoq-hVzPyXQt_AxKQ=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/52/41351/10.jpg?t=1793684255",
+            "https://eu.kimbicdn.com/thumbor/DbgEoUZDMReB5ONMcmhp4ct_xq8=/0x0/filters:format(webp):quality(65)/com.tr/data/52/41351/11.jpg?t=1793684255",
+            "https://eu.kimbicdn.com/thumbor/Ac1u96bpqTECWKrt244hQc568IU=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/52/41351/11.jpg?t=1793684255"
+          ],
+          "source_url": "https://www.kimbino.com.tr/ozkurular/ozkuruslar-aktuel-indirim-pazartesinden-itibaren-02-kasim-2026-6041351/",
+          "source_date_label": "ozkuruslar-aktuel-indirim-pazartesinden-itibaren-02-kasim-2026-6041351",
+          "verified": true,
+          "category": "supermarket",
+          "last_seen": "2026-11-05",
+          "via": "kimbino"
+        },
+        {
           "id": "ozkurular_69a2f548274c4c6b",
           "title": "Özkuruşlar - Aktüel İndirim - 02 - 08 Kasım 2026",
           "valid_from": "2026-10-30",
@@ -3922,6 +4997,60 @@
       "category": "supermarket",
       "logo_url": "",
       "catalogs": [
+        {
+          "id": "furpa_d3d967f0af53faa4",
+          "title": "Furpa Katalog - 02 - 30 Kasım 2026",
+          "valid_from": "2026-11-05",
+          "valid_until": "",
+          "page_count": 6,
+          "pages": [
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/furpa/furpa_d3d967f0af53faa4_1.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/furpa/furpa_d3d967f0af53faa4_2.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/furpa/furpa_d3d967f0af53faa4_3.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/furpa/furpa_d3d967f0af53faa4_4.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/furpa/furpa_d3d967f0af53faa4_5.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/furpa/furpa_d3d967f0af53faa4_6.webp"
+          ],
+          "source_pages": [
+            "https://eu.kimbicdn.com/thumbor/SqDXiwS9LMOaHyeXDaUxWhRYi5s=/0x0/filters:format(webp):quality(65)/com.tr/data/61/41347/0.jpg?t=1793683996",
+            "https://eu.kimbicdn.com/thumbor/63T1yaJpQVsFFVuLYysADCk1jAM=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/61/41347/0.jpg?t=1793683996",
+            "https://eu.kimbicdn.com/thumbor/bCnYhu_WdJ-KhqTU2TXAEfzlwDE=/0x0/filters:format(webp):quality(65)/com.tr/data/61/41347/1.jpg?t=1793683996",
+            "https://eu.kimbicdn.com/thumbor/Xychg6xJFsBDrUf8a-Yodu7LJCk=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/61/41347/1.jpg?t=1793683996",
+            "https://eu.kimbicdn.com/thumbor/x-G1Yiev-fpjX808QRKCto2laqE=/0x0/filters:format(webp):quality(65)/com.tr/data/61/41347/2.jpg?t=1793683996",
+            "https://eu.kimbicdn.com/thumbor/Wm1t8Drk7xRq3D3ibLrLvetjIQU=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/61/41347/2.jpg?t=1793683996"
+          ],
+          "source_url": "https://www.kimbino.com.tr/furpa/furpa-katalog-pazartesinden-itibaren-02-kasim-2026-6041347/",
+          "source_date_label": "furpa-katalog-pazartesinden-itibaren-02-kasim-2026-6041347",
+          "verified": true,
+          "category": "supermarket",
+          "last_seen": "2026-11-05",
+          "via": "kimbino"
+        },
+        {
+          "id": "furpa_2e32d9a3cf2aa309",
+          "title": "Furpa - Kasa Fırsatları - 02 - 08 Kasım 2026",
+          "valid_from": "2026-11-05",
+          "valid_until": "",
+          "page_count": 4,
+          "pages": [
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/furpa/furpa_2e32d9a3cf2aa309_1.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/furpa/furpa_2e32d9a3cf2aa309_2.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/furpa/furpa_2e32d9a3cf2aa309_3.webp",
+            "https://raw.githubusercontent.com/vengokes1/aktuel-hub-pro/main/backend_api/afisler/furpa/furpa_2e32d9a3cf2aa309_4.webp"
+          ],
+          "source_pages": [
+            "https://eu.kimbicdn.com/thumbor/iEMKL57QtqDaIL3XRmYxOD9F4tE=/0x0/filters:format(webp):quality(65)/com.tr/data/61/41343/0.jpg?t=1793683954",
+            "https://eu.kimbicdn.com/thumbor/T8up-ncPMoglku2KwbwevLPWI6A=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/61/41343/0.jpg?t=1793683954",
+            "https://eu.kimbicdn.com/thumbor/EWFQoRo2pdQqhbuUJ_eEEFZDDUk=/0x0/filters:format(webp):quality(65)/com.tr/data/61/41343/1.jpg?t=1793683954",
+            "https://eu.kimbicdn.com/thumbor/HM3_XZ7EPWkQx-4n5llI2wDNJds=/full-fit-in/640x640/filters:format(webp):quality(65)/com.tr/data/61/41343/1.jpg?t=1793683954"
+          ],
+          "source_url": "https://www.kimbino.com.tr/furpa/furpa-kasa-firsatlari-pazartesinden-itibaren-02-kasim-2026-6041343/",
+          "source_date_label": "furpa-kasa-firsatlari-pazartesinden-itibaren-02-kasim-2026-6041343",
+          "verified": true,
+          "category": "supermarket",
+          "last_seen": "2026-11-05",
+          "via": "kimbino"
+        },
         {
           "id": "furpa_8676ba4e07653c57",
           "title": "Furpa İndirim - 26 Ekim 2026 - 15 Kasım 2026",
@@ -4093,15 +5222,15 @@
     "a101": {
       "status": "ok",
       "catalogs": 2,
-      "pages": 25
+      "pages": 26
     },
     "migros": {
       "status": "empty"
     },
     "metro": {
       "status": "ok",
-      "catalogs": 3,
-      "pages": 54
+      "catalogs": 1,
+      "pages": 2
     },
     "carrefoursa": {
       "status": "ok",
@@ -4111,17 +5240,17 @@
     "watsons": {
       "status": "ok",
       "catalogs": 1,
-      "pages": 53
+      "pages": 46
     },
     "gratis": {
       "status": "ok",
       "catalogs": 1,
-      "pages": 38
+      "pages": 48
     },
     "rossmann": {
       "status": "ok",
       "catalogs": 6,
-      "pages": 150
+      "pages": 144
     },
     "bizim": {
       "status": "ok",
@@ -4131,7 +5260,7 @@
     "ozdilek": {
       "status": "ok",
       "catalogs": 1,
-      "pages": 25
+      "pages": 17
     },
     "anpa": {
       "status": "ok",
@@ -4141,77 +5270,75 @@
     "hakmar": {
       "status": "ok",
       "catalogs": 2,
-      "pages": 9
+      "pages": 18
     },
     "bauhaus": {
-      "status": "empty"
+      "status": "ok",
+      "catalogs": 1,
+      "pages": 48
     },
     "ikea": {
       "status": "ok",
       "catalogs": 2,
-      "pages": 12
+      "pages": 24
     },
     "onur": {
       "status": "ok",
       "catalogs": 2,
-      "pages": 8
+      "pages": 32
     },
     "happy": {
       "status": "ok",
       "catalogs": 2,
-      "pages": 6
+      "pages": 18
     },
     "file": {
-      "status": "ok",
-      "catalogs": 1,
-      "pages": 2
+      "status": "empty"
     },
     "kim": {
       "status": "ok",
       "catalogs": 2,
-      "pages": 2
+      "pages": 12
     },
     "mopas": {
       "status": "ok",
-      "catalogs": 1,
-      "pages": 2
+      "catalogs": 2,
+      "pages": 14
     },
     "sec": {
-      "status": "ok",
-      "catalogs": 1,
-      "pages": 2
+      "status": "empty"
     },
     "seyhanlar": {
       "status": "ok",
       "catalogs": 1,
-      "pages": 2
+      "pages": 4
     },
     "show": {
       "status": "ok",
       "catalogs": 1,
-      "pages": 4
+      "pages": 8
     },
     "cagri": {
       "status": "ok",
       "catalogs": 2,
-      "pages": 18
+      "pages": 6
     },
     "grosper": {
       "status": "ok",
       "catalogs": 2,
-      "pages": 12
+      "pages": 24
     },
     "ozkurular": {
       "status": "ok",
       "catalogs": 2,
-      "pages": 11
+      "pages": 30
     },
     "furpa": {
       "status": "ok",
       "catalogs": 2,
-      "pages": 3
+      "pages": 10
     }
   },
-  "total_catalogs": 114,
+  "total_catalogs": 140,
   "market_count": 27
 }
